@@ -1,0 +1,12 @@
+{
+  "activeConjugationTables": 2305,
+  "wordFamilies": 778,
+  "fixedPhraseEntries": 474,
+  "conjugationScope": "active voice only; dictionary tables plus explicit reflexive/phrase adaptations",
+  "humanReviewed": 0,
+  "cloze": {
+    "items": 11234,
+    "eligibleWords": 9789,
+    "missingWords": 0
+  }
+}

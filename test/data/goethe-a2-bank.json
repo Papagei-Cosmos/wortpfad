@@ -1,0 +1,3230 @@
+{
+  "version": 1,
+  "level": "A2",
+  "revision": "2026-10-26.1",
+  "description": "用户提供的歌德 A2 成人样题与练习卷 01。题干、选项、图片和参考答案按原卷录入，中文解析为词间补充。不包括写作、口语。",
+  "papers": [
+    {
+      "id": "a2-model",
+      "level": "A2",
+      "title": "歌德 A2 · 成人样题",
+      "de": "Modellsatz Erwachsene",
+      "source": "Goethe-Institut · Goethe-Zertifikat A2",
+      "pdfFile": "A2_Modellsatz_Erwachsene.pdf",
+      "audioFile": "a2_modellsatz3_x2641348.mp4",
+      "audio": "media/exams/goethe-a2/model.m4a",
+      "duration": 1355.767007,
+      "readingMinutes": 30,
+      "reading": [
+        {
+          "number": 1,
+          "part": 1,
+          "pdfPage": 9,
+          "originalPages": [
+            8,
+            9
+          ],
+          "prompt": "Die Gäste im „Bremer Lokal“…",
+          "choices": [
+            "finden immer einen Tisch.",
+            "müssen anrufen und Essen bestellen.",
+            "sollen Plätze reservieren."
+          ],
+          "choiceLabels": [
+            "a",
+            "b",
+            "c"
+          ],
+          "answer": "sollen Plätze reservieren.",
+          "explanation": "必须事先打电话订桌；bestellen 在此指预订桌位，并非打电话订餐。",
+          "materials": [
+            {
+              "title": "Der TV-Koch Stefan Berger · „Ich versuche immer wieder etwas Neues.“",
+              "text": "Bei Stefan Berger gibt es Gerichte, von denen man vorher noch nie gehört hat. Er hat dauernd neue Ideen. Den Gästen gefällt das. Man muss unbedingt vorher anrufen und einen der wenigen Tische bestellen, wenn man in seinem Restaurant „Bremer Lokal“ essen möchte. Er hat viele Gäste, will aber kein zweites Lokal aufmachen. „Klar, ich könnte vielleicht reich damit werden, aber ich habe mich bewusst dagegen entschieden. Ich mag es einfach, wie wir hier arbeiten.“\nStefan Berger wurde 1968 im Rheinland geboren, war auf der Realschule und lernte dann in einem großen Hotel kochen.\nNach der Berufsausbildung brauchte er erstmal eine zweijährige Pause. Er fuhr durch die Welt, hatte verschiedene Jobs und lernte viel Neues kennen. Wegen einer Frau kam er dann nach Bremen. Das „Bremer Lokal“ in seiner Nachbarschaft suchte einen Koch, Berger nahm die Stelle an, und drei Jahre später kaufte er das Restaurant.\nDie meisten kennen ihn aber erst durch seine Fernsehshow „Berger kocht“. In der beliebten Sendung besuchen ihn Sänger und Schauspieler und kochen mit ihm ihre Lieblingsrezepte."
+            }
+          ],
+          "instruction": "阅读材料，选择 a、b 或 c。",
+          "originalPage": "media/exams/goethe-a2/model/p9.webp",
+          "originalPageImages": [
+            {
+              "page": 8,
+              "src": "media/exams/goethe-a2/model/p8.webp"
+            },
+            {
+              "page": 9,
+              "src": "media/exams/goethe-a2/model/p9.webp"
+            }
+          ]
+        },
+        {
+          "number": 2,
+          "part": 1,
+          "pdfPage": 9,
+          "originalPages": [
+            8,
+            9
+          ],
+          "prompt": "Stefan Berger möchte …",
+          "choices": [
+            "ein neues Restaurant eröffnen.",
+            "mit seinem Restaurant mehr Geld verdienen.",
+            "nur ein Restaurant haben."
+          ],
+          "choiceLabels": [
+            "a",
+            "b",
+            "c"
+          ],
+          "answer": "nur ein Restaurant haben.",
+          "explanation": "他明确决定不开第二家店，喜欢目前的工作方式。",
+          "materials": [
+            {
+              "title": "Der TV-Koch Stefan Berger · „Ich versuche immer wieder etwas Neues.“",
+              "text": "Bei Stefan Berger gibt es Gerichte, von denen man vorher noch nie gehört hat. Er hat dauernd neue Ideen. Den Gästen gefällt das. Man muss unbedingt vorher anrufen und einen der wenigen Tische bestellen, wenn man in seinem Restaurant „Bremer Lokal“ essen möchte. Er hat viele Gäste, will aber kein zweites Lokal aufmachen. „Klar, ich könnte vielleicht reich damit werden, aber ich habe mich bewusst dagegen entschieden. Ich mag es einfach, wie wir hier arbeiten.“\nStefan Berger wurde 1968 im Rheinland geboren, war auf der Realschule und lernte dann in einem großen Hotel kochen.\nNach der Berufsausbildung brauchte er erstmal eine zweijährige Pause. Er fuhr durch die Welt, hatte verschiedene Jobs und lernte viel Neues kennen. Wegen einer Frau kam er dann nach Bremen. Das „Bremer Lokal“ in seiner Nachbarschaft suchte einen Koch, Berger nahm die Stelle an, und drei Jahre später kaufte er das Restaurant.\nDie meisten kennen ihn aber erst durch seine Fernsehshow „Berger kocht“. In der beliebten Sendung besuchen ihn Sänger und Schauspieler und kochen mit ihm ihre Lieblingsrezepte."
+            }
+          ],
+          "instruction": "阅读材料，选择 a、b 或 c。",
+          "originalPage": "media/exams/goethe-a2/model/p9.webp",
+          "originalPageImages": [
+            {
+              "page": 8,
+              "src": "media/exams/goethe-a2/model/p8.webp"
+            },
+            {
+              "page": 9,
+              "src": "media/exams/goethe-a2/model/p9.webp"
+            }
+          ]
+        },
+        {
+          "number": 3,
+          "part": 1,
+          "pdfPage": 9,
+          "originalPages": [
+            8,
+            9
+          ],
+          "prompt": "Sofort nach der Ausbildung …",
+          "choices": [
+            "arbeitete er in einem großen Hotel.",
+            "kaufte er ein Restaurant.",
+            "machte er eine lange Reise."
+          ],
+          "choiceLabels": [
+            "a",
+            "b",
+            "c"
+          ],
+          "answer": "machte er eine lange Reise.",
+          "explanation": "完成职业培训后，他先休息两年并周游世界。",
+          "materials": [
+            {
+              "title": "Der TV-Koch Stefan Berger · „Ich versuche immer wieder etwas Neues.“",
+              "text": "Bei Stefan Berger gibt es Gerichte, von denen man vorher noch nie gehört hat. Er hat dauernd neue Ideen. Den Gästen gefällt das. Man muss unbedingt vorher anrufen und einen der wenigen Tische bestellen, wenn man in seinem Restaurant „Bremer Lokal“ essen möchte. Er hat viele Gäste, will aber kein zweites Lokal aufmachen. „Klar, ich könnte vielleicht reich damit werden, aber ich habe mich bewusst dagegen entschieden. Ich mag es einfach, wie wir hier arbeiten.“\nStefan Berger wurde 1968 im Rheinland geboren, war auf der Realschule und lernte dann in einem großen Hotel kochen.\nNach der Berufsausbildung brauchte er erstmal eine zweijährige Pause. Er fuhr durch die Welt, hatte verschiedene Jobs und lernte viel Neues kennen. Wegen einer Frau kam er dann nach Bremen. Das „Bremer Lokal“ in seiner Nachbarschaft suchte einen Koch, Berger nahm die Stelle an, und drei Jahre später kaufte er das Restaurant.\nDie meisten kennen ihn aber erst durch seine Fernsehshow „Berger kocht“. In der beliebten Sendung besuchen ihn Sänger und Schauspieler und kochen mit ihm ihre Lieblingsrezepte."
+            }
+          ],
+          "instruction": "阅读材料，选择 a、b 或 c。",
+          "originalPage": "media/exams/goethe-a2/model/p9.webp",
+          "originalPageImages": [
+            {
+              "page": 8,
+              "src": "media/exams/goethe-a2/model/p8.webp"
+            },
+            {
+              "page": 9,
+              "src": "media/exams/goethe-a2/model/p9.webp"
+            }
+          ]
+        },
+        {
+          "number": 4,
+          "part": 1,
+          "pdfPage": 9,
+          "originalPages": [
+            8,
+            9
+          ],
+          "prompt": "Stefan Berger ist bekannt durch …",
+          "choices": [
+            "eine Fernsehsendung.",
+            "Lieder und Filme.",
+            "sein Restaurant."
+          ],
+          "choiceLabels": [
+            "a",
+            "b",
+            "c"
+          ],
+          "answer": "eine Fernsehsendung.",
+          "explanation": "多数人是通过电视节目 „Berger kocht“ 认识他的。",
+          "materials": [
+            {
+              "title": "Der TV-Koch Stefan Berger · „Ich versuche immer wieder etwas Neues.“",
+              "text": "Bei Stefan Berger gibt es Gerichte, von denen man vorher noch nie gehört hat. Er hat dauernd neue Ideen. Den Gästen gefällt das. Man muss unbedingt vorher anrufen und einen der wenigen Tische bestellen, wenn man in seinem Restaurant „Bremer Lokal“ essen möchte. Er hat viele Gäste, will aber kein zweites Lokal aufmachen. „Klar, ich könnte vielleicht reich damit werden, aber ich habe mich bewusst dagegen entschieden. Ich mag es einfach, wie wir hier arbeiten.“\nStefan Berger wurde 1968 im Rheinland geboren, war auf der Realschule und lernte dann in einem großen Hotel kochen.\nNach der Berufsausbildung brauchte er erstmal eine zweijährige Pause. Er fuhr durch die Welt, hatte verschiedene Jobs und lernte viel Neues kennen. Wegen einer Frau kam er dann nach Bremen. Das „Bremer Lokal“ in seiner Nachbarschaft suchte einen Koch, Berger nahm die Stelle an, und drei Jahre später kaufte er das Restaurant.\nDie meisten kennen ihn aber erst durch seine Fernsehshow „Berger kocht“. In der beliebten Sendung besuchen ihn Sänger und Schauspieler und kochen mit ihm ihre Lieblingsrezepte."
+            }
+          ],
+          "instruction": "阅读材料，选择 a、b 或 c。",
+          "originalPage": "media/exams/goethe-a2/model/p9.webp",
+          "originalPageImages": [
+            {
+              "page": 8,
+              "src": "media/exams/goethe-a2/model/p8.webp"
+            },
+            {
+              "page": 9,
+              "src": "media/exams/goethe-a2/model/p9.webp"
+            }
+          ]
+        },
+        {
+          "number": 5,
+          "part": 1,
+          "pdfPage": 9,
+          "originalPages": [
+            8,
+            9
+          ],
+          "prompt": "Dieser Text informiert über …",
+          "choices": [
+            "den Berufsweg eines Kochs.",
+            "einen Koch in einem Hotel.",
+            "eine neue Berufsausbildung."
+          ],
+          "choiceLabels": [
+            "a",
+            "b",
+            "c"
+          ],
+          "answer": "den Berufsweg eines Kochs.",
+          "explanation": "文章介绍厨师的培训、旅行、开店和电视事业，主题是职业经历。",
+          "materials": [
+            {
+              "title": "Der TV-Koch Stefan Berger · „Ich versuche immer wieder etwas Neues.“",
+              "text": "Bei Stefan Berger gibt es Gerichte, von denen man vorher noch nie gehört hat. Er hat dauernd neue Ideen. Den Gästen gefällt das. Man muss unbedingt vorher anrufen und einen der wenigen Tische bestellen, wenn man in seinem Restaurant „Bremer Lokal“ essen möchte. Er hat viele Gäste, will aber kein zweites Lokal aufmachen. „Klar, ich könnte vielleicht reich damit werden, aber ich habe mich bewusst dagegen entschieden. Ich mag es einfach, wie wir hier arbeiten.“\nStefan Berger wurde 1968 im Rheinland geboren, war auf der Realschule und lernte dann in einem großen Hotel kochen.\nNach der Berufsausbildung brauchte er erstmal eine zweijährige Pause. Er fuhr durch die Welt, hatte verschiedene Jobs und lernte viel Neues kennen. Wegen einer Frau kam er dann nach Bremen. Das „Bremer Lokal“ in seiner Nachbarschaft suchte einen Koch, Berger nahm die Stelle an, und drei Jahre später kaufte er das Restaurant.\nDie meisten kennen ihn aber erst durch seine Fernsehshow „Berger kocht“. In der beliebten Sendung besuchen ihn Sänger und Schauspieler und kochen mit ihm ihre Lieblingsrezepte."
+            }
+          ],
+          "instruction": "阅读材料，选择 a、b 或 c。",
+          "originalPage": "media/exams/goethe-a2/model/p9.webp",
+          "originalPageImages": [
+            {
+              "page": 8,
+              "src": "media/exams/goethe-a2/model/p8.webp"
+            },
+            {
+              "page": 9,
+              "src": "media/exams/goethe-a2/model/p9.webp"
+            }
+          ]
+        },
+        {
+          "number": 6,
+          "part": 2,
+          "pdfPage": 10,
+          "originalPages": [
+            10,
+            11
+          ],
+          "prompt": "Sie möchten einer Freundin Rosen schenken.",
+          "choices": [
+            "1. Stock",
+            "4. Stock",
+            "anderer Stock"
+          ],
+          "choiceLabels": [
+            "a",
+            "b",
+            "c"
+          ],
+          "answer": "anderer Stock",
+          "explanation": "花店 Blumenladen 在 EG，不在题目给出的 1 楼或 4 楼，因此选其他楼层。",
+          "materials": [
+            {
+              "title": "Kaufhaus Alexa",
+              "text": "4. Stock\nBücher, Geschenke, Spielsachen, Freizeittaschen, Koffer, Brieftaschen und Geldbeutel, Café, Friseur- und Nagelstudio, Kunden-WC, Telefon\n3. Stock\nHandys, Telefone, MP3-Player, CD-Player, DVD-Player, Radios, Fernseher, Computer, Notebooks, Tablets, Software, Drucker, CDs, DVDs, Videospiele, Sportkleidung, Arbeitskleidung\n2. Stock\nHerrenmode, Nachtwäsche für ihn, Unterwäsche für ihn, Möbel für Wohnzimmer, Bad und Küche, Teppiche, Lampen, Gardinen, Kissen, Decken, Stoffe und Dekoartikel, Handtücher\n1. Stock\nDamenmode, Nachtwäsche für sie, Unterwäsche für sie, Mode für Kinder und Jugendliche, Babybekleidung, Kinderwagen, Schuhe, Geschirr und Gläser, Besteck, Töpfe und Pfannen, Grills\nEG\nInformation, Uhren, Schmuck, Parfüm, Kosmetik, Schreibwaren, Glückwunschkarten, Kalender, Schultaschen, Reiseführer, Souvenirs, Schuhwerkstatt, Schlüsseldienst, Blumenladen\nUG\nBäcker, Supermarkt, Putz- und Waschmittel, Fotoservice, Tabak, Zeitschriften und Zeitungen, Theater- und Konzertkarten, Reisebüro, Geldautomat, Kunden-WC"
+            }
+          ],
+          "instruction": "阅读材料，选择 a、b 或 c。",
+          "originalPage": "media/exams/goethe-a2/model/p10.webp",
+          "originalPageImages": [
+            {
+              "page": 10,
+              "src": "media/exams/goethe-a2/model/p10.webp"
+            },
+            {
+              "page": 11,
+              "src": "media/exams/goethe-a2/model/p11.webp"
+            }
+          ]
+        },
+        {
+          "number": 7,
+          "part": 2,
+          "pdfPage": 10,
+          "originalPages": [
+            10,
+            11
+          ],
+          "prompt": "Sie möchten Ihre Urlaubsbilder drucken lassen.",
+          "choices": [
+            "3. Stock",
+            "UG",
+            "anderer Stock"
+          ],
+          "choiceLabels": [
+            "a",
+            "b",
+            "c"
+          ],
+          "answer": "UG",
+          "explanation": "照片冲印 Fotoservice 在 UG；3 楼销售打印机等电子产品。",
+          "materials": [
+            {
+              "title": "Kaufhaus Alexa",
+              "text": "4. Stock\nBücher, Geschenke, Spielsachen, Freizeittaschen, Koffer, Brieftaschen und Geldbeutel, Café, Friseur- und Nagelstudio, Kunden-WC, Telefon\n3. Stock\nHandys, Telefone, MP3-Player, CD-Player, DVD-Player, Radios, Fernseher, Computer, Notebooks, Tablets, Software, Drucker, CDs, DVDs, Videospiele, Sportkleidung, Arbeitskleidung\n2. Stock\nHerrenmode, Nachtwäsche für ihn, Unterwäsche für ihn, Möbel für Wohnzimmer, Bad und Küche, Teppiche, Lampen, Gardinen, Kissen, Decken, Stoffe und Dekoartikel, Handtücher\n1. Stock\nDamenmode, Nachtwäsche für sie, Unterwäsche für sie, Mode für Kinder und Jugendliche, Babybekleidung, Kinderwagen, Schuhe, Geschirr und Gläser, Besteck, Töpfe und Pfannen, Grills\nEG\nInformation, Uhren, Schmuck, Parfüm, Kosmetik, Schreibwaren, Glückwunschkarten, Kalender, Schultaschen, Reiseführer, Souvenirs, Schuhwerkstatt, Schlüsseldienst, Blumenladen\nUG\nBäcker, Supermarkt, Putz- und Waschmittel, Fotoservice, Tabak, Zeitschriften und Zeitungen, Theater- und Konzertkarten, Reisebüro, Geldautomat, Kunden-WC"
+            }
+          ],
+          "instruction": "阅读材料，选择 a、b 或 c。",
+          "originalPage": "media/exams/goethe-a2/model/p10.webp",
+          "originalPageImages": [
+            {
+              "page": 10,
+              "src": "media/exams/goethe-a2/model/p10.webp"
+            },
+            {
+              "page": 11,
+              "src": "media/exams/goethe-a2/model/p11.webp"
+            }
+          ]
+        },
+        {
+          "number": 8,
+          "part": 2,
+          "pdfPage": 10,
+          "originalPages": [
+            10,
+            11
+          ],
+          "prompt": "Sie möchten einen Tee trinken gehen.",
+          "choices": [
+            "2. Stock",
+            "UG",
+            "anderer Stock"
+          ],
+          "choiceLabels": [
+            "a",
+            "b",
+            "c"
+          ],
+          "answer": "anderer Stock",
+          "explanation": "Café 在 4 楼，因此应选其他楼层。",
+          "materials": [
+            {
+              "title": "Kaufhaus Alexa",
+              "text": "4. Stock\nBücher, Geschenke, Spielsachen, Freizeittaschen, Koffer, Brieftaschen und Geldbeutel, Café, Friseur- und Nagelstudio, Kunden-WC, Telefon\n3. Stock\nHandys, Telefone, MP3-Player, CD-Player, DVD-Player, Radios, Fernseher, Computer, Notebooks, Tablets, Software, Drucker, CDs, DVDs, Videospiele, Sportkleidung, Arbeitskleidung\n2. Stock\nHerrenmode, Nachtwäsche für ihn, Unterwäsche für ihn, Möbel für Wohnzimmer, Bad und Küche, Teppiche, Lampen, Gardinen, Kissen, Decken, Stoffe und Dekoartikel, Handtücher\n1. Stock\nDamenmode, Nachtwäsche für sie, Unterwäsche für sie, Mode für Kinder und Jugendliche, Babybekleidung, Kinderwagen, Schuhe, Geschirr und Gläser, Besteck, Töpfe und Pfannen, Grills\nEG\nInformation, Uhren, Schmuck, Parfüm, Kosmetik, Schreibwaren, Glückwunschkarten, Kalender, Schultaschen, Reiseführer, Souvenirs, Schuhwerkstatt, Schlüsseldienst, Blumenladen\nUG\nBäcker, Supermarkt, Putz- und Waschmittel, Fotoservice, Tabak, Zeitschriften und Zeitungen, Theater- und Konzertkarten, Reisebüro, Geldautomat, Kunden-WC"
+            }
+          ],
+          "instruction": "阅读材料，选择 a、b 或 c。",
+          "originalPage": "media/exams/goethe-a2/model/p10.webp",
+          "originalPageImages": [
+            {
+              "page": 10,
+              "src": "media/exams/goethe-a2/model/p10.webp"
+            },
+            {
+              "page": 11,
+              "src": "media/exams/goethe-a2/model/p11.webp"
+            }
+          ]
+        },
+        {
+          "number": 9,
+          "part": 2,
+          "pdfPage": 10,
+          "originalPages": [
+            10,
+            11
+          ],
+          "prompt": "Sie wollen Ihre Schuhe reparieren lassen.",
+          "choices": [
+            "1. Stock",
+            "EG",
+            "anderer Stock"
+          ],
+          "choiceLabels": [
+            "a",
+            "b",
+            "c"
+          ],
+          "answer": "EG",
+          "explanation": "修鞋店 Schuhwerkstatt 在 EG；1 楼是售鞋部门。",
+          "materials": [
+            {
+              "title": "Kaufhaus Alexa",
+              "text": "4. Stock\nBücher, Geschenke, Spielsachen, Freizeittaschen, Koffer, Brieftaschen und Geldbeutel, Café, Friseur- und Nagelstudio, Kunden-WC, Telefon\n3. Stock\nHandys, Telefone, MP3-Player, CD-Player, DVD-Player, Radios, Fernseher, Computer, Notebooks, Tablets, Software, Drucker, CDs, DVDs, Videospiele, Sportkleidung, Arbeitskleidung\n2. Stock\nHerrenmode, Nachtwäsche für ihn, Unterwäsche für ihn, Möbel für Wohnzimmer, Bad und Küche, Teppiche, Lampen, Gardinen, Kissen, Decken, Stoffe und Dekoartikel, Handtücher\n1. Stock\nDamenmode, Nachtwäsche für sie, Unterwäsche für sie, Mode für Kinder und Jugendliche, Babybekleidung, Kinderwagen, Schuhe, Geschirr und Gläser, Besteck, Töpfe und Pfannen, Grills\nEG\nInformation, Uhren, Schmuck, Parfüm, Kosmetik, Schreibwaren, Glückwunschkarten, Kalender, Schultaschen, Reiseführer, Souvenirs, Schuhwerkstatt, Schlüsseldienst, Blumenladen\nUG\nBäcker, Supermarkt, Putz- und Waschmittel, Fotoservice, Tabak, Zeitschriften und Zeitungen, Theater- und Konzertkarten, Reisebüro, Geldautomat, Kunden-WC"
+            }
+          ],
+          "instruction": "阅读材料，选择 a、b 或 c。",
+          "originalPage": "media/exams/goethe-a2/model/p10.webp",
+          "originalPageImages": [
+            {
+              "page": 10,
+              "src": "media/exams/goethe-a2/model/p10.webp"
+            },
+            {
+              "page": 11,
+              "src": "media/exams/goethe-a2/model/p11.webp"
+            }
+          ]
+        },
+        {
+          "number": 10,
+          "part": 2,
+          "pdfPage": 10,
+          "originalPages": [
+            10,
+            11
+          ],
+          "prompt": "Sie suchen eine Laufhose für Ihren Bruder zum Geburtstag.",
+          "choices": [
+            "3. Stock",
+            "2. Stock",
+            "anderer Stock"
+          ],
+          "choiceLabels": [
+            "a",
+            "b",
+            "c"
+          ],
+          "answer": "3. Stock",
+          "explanation": "跑步裤属于 Sportkleidung，在 3 楼，而不是普通男装所在的 2 楼。",
+          "materials": [
+            {
+              "title": "Kaufhaus Alexa",
+              "text": "4. Stock\nBücher, Geschenke, Spielsachen, Freizeittaschen, Koffer, Brieftaschen und Geldbeutel, Café, Friseur- und Nagelstudio, Kunden-WC, Telefon\n3. Stock\nHandys, Telefone, MP3-Player, CD-Player, DVD-Player, Radios, Fernseher, Computer, Notebooks, Tablets, Software, Drucker, CDs, DVDs, Videospiele, Sportkleidung, Arbeitskleidung\n2. Stock\nHerrenmode, Nachtwäsche für ihn, Unterwäsche für ihn, Möbel für Wohnzimmer, Bad und Küche, Teppiche, Lampen, Gardinen, Kissen, Decken, Stoffe und Dekoartikel, Handtücher\n1. Stock\nDamenmode, Nachtwäsche für sie, Unterwäsche für sie, Mode für Kinder und Jugendliche, Babybekleidung, Kinderwagen, Schuhe, Geschirr und Gläser, Besteck, Töpfe und Pfannen, Grills\nEG\nInformation, Uhren, Schmuck, Parfüm, Kosmetik, Schreibwaren, Glückwunschkarten, Kalender, Schultaschen, Reiseführer, Souvenirs, Schuhwerkstatt, Schlüsseldienst, Blumenladen\nUG\nBäcker, Supermarkt, Putz- und Waschmittel, Fotoservice, Tabak, Zeitschriften und Zeitungen, Theater- und Konzertkarten, Reisebüro, Geldautomat, Kunden-WC"
+            }
+          ],
+          "instruction": "阅读材料，选择 a、b 或 c。",
+          "originalPage": "media/exams/goethe-a2/model/p10.webp",
+          "originalPageImages": [
+            {
+              "page": 10,
+              "src": "media/exams/goethe-a2/model/p10.webp"
+            },
+            {
+              "page": 11,
+              "src": "media/exams/goethe-a2/model/p11.webp"
+            }
+          ]
+        },
+        {
+          "number": 11,
+          "part": 3,
+          "pdfPage": 13,
+          "originalPages": [
+            12,
+            13
+          ],
+          "prompt": "Gülcan sagt über ihr Leben in Hamburg, dass …",
+          "choices": [
+            "das Studium wie in ihrem Heimatland ist.",
+            "im Alltag einiges wie zu Hause ist.",
+            "im Moment vieles neu für sie ist."
+          ],
+          "choiceLabels": [
+            "a",
+            "b",
+            "c"
+          ],
+          "answer": "im Moment vieles neu für sie ist.",
+          "explanation": "大学和日常生活的许多事情与家乡不同，她仍在适应。",
+          "materials": [
+            {
+              "title": "E-Mail von Gülcan",
+              "text": "Liebe Sonja,\nich bin jetzt schon vier Wochen in Hamburg und bin noch dabei, mich hier einzuleben. An der Universität ist vieles ganz anders organisiert als zu Hause. Und auch im täglichen Leben musste ich erst einmal lernen, wie einige Dinge hier gemacht werden. Zum Beispiel, wie ich ein Zimmer finde und wo ich was einkaufen kann.\nIn der ersten Woche haben ein paar Studenten eine Willkommensführung für uns ausländische Studierende gemacht. Sie haben uns die Uni gezeigt: die Bibliothek, die Cafeteria und die Multimedia-Räume. Hamburg habe ich dann alleine mit dem Stadtplan kennengelernt.\nIch wohne mit drei anderen Studenten aus Italien, Japan und Mexiko zusammen. Immer freitags kocht einer von uns etwas aus seinem Land und wir essen zusammen, obwohl wir nur eine winzig kleine Küche haben! Ich finde das super, du weißt ja, wie gerne ich koche!\nWir sprechen in der Wohnung nicht nur Deutsch, sondern oft auch Englisch miteinander. Manchmal ist das einfacher, aber mich stört das ein bisschen. Ich möchte dieses Jahr möglichst viel Deutsch lernen. Und weißt du, was mir am meisten Spaß macht? Der Literaturkurs. Der Dozent, Herr Hahn, ist ein total witziger Typ. Den müsstest du mal erleben. :-)\nIch freue mich auf deinen Besuch im März. Dann zeige ich dir die Stadt und an einem Nachmittag fahren wir an die Ostsee. Da ist es total schön. Du kannst dann bei Mario schlafen. Das ist der Italiener, der neben mir wohnt. Er ist einverstanden, denn er fährt in den Ferien nach Hause, nach Genua.\nSchreib mir bald!\nBis dann\nGülcan"
+            }
+          ],
+          "instruction": "阅读材料，选择 a、b 或 c。",
+          "originalPage": "media/exams/goethe-a2/model/p13.webp",
+          "originalPageImages": [
+            {
+              "page": 12,
+              "src": "media/exams/goethe-a2/model/p12.webp"
+            },
+            {
+              "page": 13,
+              "src": "media/exams/goethe-a2/model/p13.webp"
+            }
+          ]
+        },
+        {
+          "number": 12,
+          "part": 3,
+          "pdfPage": 13,
+          "originalPages": [
+            12,
+            13
+          ],
+          "prompt": "Die Studentengruppe hat …",
+          "choices": [
+            "den Neuen die Hochschule gezeigt.",
+            "für neue Studenten eine Stadtführung gemacht.",
+            "Gülcan anderen ausländischen Studenten vorgestellt."
+          ],
+          "choiceLabels": [
+            "a",
+            "b",
+            "c"
+          ],
+          "answer": "den Neuen die Hochschule gezeigt.",
+          "explanation": "学生带新生参观的是大学；她是自己拿城市地图认识 Hamburg 的。",
+          "materials": [
+            {
+              "title": "E-Mail von Gülcan",
+              "text": "Liebe Sonja,\nich bin jetzt schon vier Wochen in Hamburg und bin noch dabei, mich hier einzuleben. An der Universität ist vieles ganz anders organisiert als zu Hause. Und auch im täglichen Leben musste ich erst einmal lernen, wie einige Dinge hier gemacht werden. Zum Beispiel, wie ich ein Zimmer finde und wo ich was einkaufen kann.\nIn der ersten Woche haben ein paar Studenten eine Willkommensführung für uns ausländische Studierende gemacht. Sie haben uns die Uni gezeigt: die Bibliothek, die Cafeteria und die Multimedia-Räume. Hamburg habe ich dann alleine mit dem Stadtplan kennengelernt.\nIch wohne mit drei anderen Studenten aus Italien, Japan und Mexiko zusammen. Immer freitags kocht einer von uns etwas aus seinem Land und wir essen zusammen, obwohl wir nur eine winzig kleine Küche haben! Ich finde das super, du weißt ja, wie gerne ich koche!\nWir sprechen in der Wohnung nicht nur Deutsch, sondern oft auch Englisch miteinander. Manchmal ist das einfacher, aber mich stört das ein bisschen. Ich möchte dieses Jahr möglichst viel Deutsch lernen. Und weißt du, was mir am meisten Spaß macht? Der Literaturkurs. Der Dozent, Herr Hahn, ist ein total witziger Typ. Den müsstest du mal erleben. :-)\nIch freue mich auf deinen Besuch im März. Dann zeige ich dir die Stadt und an einem Nachmittag fahren wir an die Ostsee. Da ist es total schön. Du kannst dann bei Mario schlafen. Das ist der Italiener, der neben mir wohnt. Er ist einverstanden, denn er fährt in den Ferien nach Hause, nach Genua.\nSchreib mir bald!\nBis dann\nGülcan"
+            }
+          ],
+          "instruction": "阅读材料，选择 a、b 或 c。",
+          "originalPage": "media/exams/goethe-a2/model/p13.webp",
+          "originalPageImages": [
+            {
+              "page": 12,
+              "src": "media/exams/goethe-a2/model/p12.webp"
+            },
+            {
+              "page": 13,
+              "src": "media/exams/goethe-a2/model/p13.webp"
+            }
+          ]
+        },
+        {
+          "number": 13,
+          "part": 3,
+          "pdfPage": 13,
+          "originalPages": [
+            12,
+            13
+          ],
+          "prompt": "In der Wohnung …",
+          "choices": [
+            "kochen alle zusammen.",
+            "kocht Gülcan immer für alle.",
+            "kocht jeder einmal für die anderen."
+          ],
+          "choiceLabels": [
+            "a",
+            "b",
+            "c"
+          ],
+          "answer": "kocht jeder einmal für die anderen.",
+          "explanation": "每个星期五由其中一人做自己国家的菜，大家轮流做饭。",
+          "materials": [
+            {
+              "title": "E-Mail von Gülcan",
+              "text": "Liebe Sonja,\nich bin jetzt schon vier Wochen in Hamburg und bin noch dabei, mich hier einzuleben. An der Universität ist vieles ganz anders organisiert als zu Hause. Und auch im täglichen Leben musste ich erst einmal lernen, wie einige Dinge hier gemacht werden. Zum Beispiel, wie ich ein Zimmer finde und wo ich was einkaufen kann.\nIn der ersten Woche haben ein paar Studenten eine Willkommensführung für uns ausländische Studierende gemacht. Sie haben uns die Uni gezeigt: die Bibliothek, die Cafeteria und die Multimedia-Räume. Hamburg habe ich dann alleine mit dem Stadtplan kennengelernt.\nIch wohne mit drei anderen Studenten aus Italien, Japan und Mexiko zusammen. Immer freitags kocht einer von uns etwas aus seinem Land und wir essen zusammen, obwohl wir nur eine winzig kleine Küche haben! Ich finde das super, du weißt ja, wie gerne ich koche!\nWir sprechen in der Wohnung nicht nur Deutsch, sondern oft auch Englisch miteinander. Manchmal ist das einfacher, aber mich stört das ein bisschen. Ich möchte dieses Jahr möglichst viel Deutsch lernen. Und weißt du, was mir am meisten Spaß macht? Der Literaturkurs. Der Dozent, Herr Hahn, ist ein total witziger Typ. Den müsstest du mal erleben. :-)\nIch freue mich auf deinen Besuch im März. Dann zeige ich dir die Stadt und an einem Nachmittag fahren wir an die Ostsee. Da ist es total schön. Du kannst dann bei Mario schlafen. Das ist der Italiener, der neben mir wohnt. Er ist einverstanden, denn er fährt in den Ferien nach Hause, nach Genua.\nSchreib mir bald!\nBis dann\nGülcan"
+            }
+          ],
+          "instruction": "阅读材料，选择 a、b 或 c。",
+          "originalPage": "media/exams/goethe-a2/model/p13.webp",
+          "originalPageImages": [
+            {
+              "page": 12,
+              "src": "media/exams/goethe-a2/model/p12.webp"
+            },
+            {
+              "page": 13,
+              "src": "media/exams/goethe-a2/model/p13.webp"
+            }
+          ]
+        },
+        {
+          "number": 14,
+          "part": 3,
+          "pdfPage": 13,
+          "originalPages": [
+            12,
+            13
+          ],
+          "prompt": "Gülcan ist es wichtig …",
+          "choices": [
+            "auch Englisch zu üben.",
+            "Deutsch zu sprechen.",
+            "Herrn Hahn kennenzulernen."
+          ],
+          "choiceLabels": [
+            "a",
+            "b",
+            "c"
+          ],
+          "answer": "Deutsch zu sprechen.",
+          "explanation": "她希望这一年尽量多学德语，对经常改说英语有些不满。",
+          "materials": [
+            {
+              "title": "E-Mail von Gülcan",
+              "text": "Liebe Sonja,\nich bin jetzt schon vier Wochen in Hamburg und bin noch dabei, mich hier einzuleben. An der Universität ist vieles ganz anders organisiert als zu Hause. Und auch im täglichen Leben musste ich erst einmal lernen, wie einige Dinge hier gemacht werden. Zum Beispiel, wie ich ein Zimmer finde und wo ich was einkaufen kann.\nIn der ersten Woche haben ein paar Studenten eine Willkommensführung für uns ausländische Studierende gemacht. Sie haben uns die Uni gezeigt: die Bibliothek, die Cafeteria und die Multimedia-Räume. Hamburg habe ich dann alleine mit dem Stadtplan kennengelernt.\nIch wohne mit drei anderen Studenten aus Italien, Japan und Mexiko zusammen. Immer freitags kocht einer von uns etwas aus seinem Land und wir essen zusammen, obwohl wir nur eine winzig kleine Küche haben! Ich finde das super, du weißt ja, wie gerne ich koche!\nWir sprechen in der Wohnung nicht nur Deutsch, sondern oft auch Englisch miteinander. Manchmal ist das einfacher, aber mich stört das ein bisschen. Ich möchte dieses Jahr möglichst viel Deutsch lernen. Und weißt du, was mir am meisten Spaß macht? Der Literaturkurs. Der Dozent, Herr Hahn, ist ein total witziger Typ. Den müsstest du mal erleben. :-)\nIch freue mich auf deinen Besuch im März. Dann zeige ich dir die Stadt und an einem Nachmittag fahren wir an die Ostsee. Da ist es total schön. Du kannst dann bei Mario schlafen. Das ist der Italiener, der neben mir wohnt. Er ist einverstanden, denn er fährt in den Ferien nach Hause, nach Genua.\nSchreib mir bald!\nBis dann\nGülcan"
+            }
+          ],
+          "instruction": "阅读材料，选择 a、b 或 c。",
+          "originalPage": "media/exams/goethe-a2/model/p13.webp",
+          "originalPageImages": [
+            {
+              "page": 12,
+              "src": "media/exams/goethe-a2/model/p12.webp"
+            },
+            {
+              "page": 13,
+              "src": "media/exams/goethe-a2/model/p13.webp"
+            }
+          ]
+        },
+        {
+          "number": 15,
+          "part": 3,
+          "pdfPage": 13,
+          "originalPages": [
+            12,
+            13
+          ],
+          "prompt": "Im März …",
+          "choices": [
+            "besuchen sie Mario zu Hause.",
+            "machen Sonja und Gülcan Urlaub am Meer.",
+            "übernachtet Sonja in Marios Zimmer."
+          ],
+          "choiceLabels": [
+            "a",
+            "b",
+            "c"
+          ],
+          "answer": "übernachtet Sonja in Marios Zimmer.",
+          "explanation": "Mario 回 Genua 过假期，同意 Sonja 来访时住他的房间；去海边只是一个下午。",
+          "materials": [
+            {
+              "title": "E-Mail von Gülcan",
+              "text": "Liebe Sonja,\nich bin jetzt schon vier Wochen in Hamburg und bin noch dabei, mich hier einzuleben. An der Universität ist vieles ganz anders organisiert als zu Hause. Und auch im täglichen Leben musste ich erst einmal lernen, wie einige Dinge hier gemacht werden. Zum Beispiel, wie ich ein Zimmer finde und wo ich was einkaufen kann.\nIn der ersten Woche haben ein paar Studenten eine Willkommensführung für uns ausländische Studierende gemacht. Sie haben uns die Uni gezeigt: die Bibliothek, die Cafeteria und die Multimedia-Räume. Hamburg habe ich dann alleine mit dem Stadtplan kennengelernt.\nIch wohne mit drei anderen Studenten aus Italien, Japan und Mexiko zusammen. Immer freitags kocht einer von uns etwas aus seinem Land und wir essen zusammen, obwohl wir nur eine winzig kleine Küche haben! Ich finde das super, du weißt ja, wie gerne ich koche!\nWir sprechen in der Wohnung nicht nur Deutsch, sondern oft auch Englisch miteinander. Manchmal ist das einfacher, aber mich stört das ein bisschen. Ich möchte dieses Jahr möglichst viel Deutsch lernen. Und weißt du, was mir am meisten Spaß macht? Der Literaturkurs. Der Dozent, Herr Hahn, ist ein total witziger Typ. Den müsstest du mal erleben. :-)\nIch freue mich auf deinen Besuch im März. Dann zeige ich dir die Stadt und an einem Nachmittag fahren wir an die Ostsee. Da ist es total schön. Du kannst dann bei Mario schlafen. Das ist der Italiener, der neben mir wohnt. Er ist einverstanden, denn er fährt in den Ferien nach Hause, nach Genua.\nSchreib mir bald!\nBis dann\nGülcan"
+            }
+          ],
+          "instruction": "阅读材料，选择 a、b 或 c。",
+          "originalPage": "media/exams/goethe-a2/model/p13.webp",
+          "originalPageImages": [
+            {
+              "page": 12,
+              "src": "media/exams/goethe-a2/model/p12.webp"
+            },
+            {
+              "page": 13,
+              "src": "media/exams/goethe-a2/model/p13.webp"
+            }
+          ]
+        },
+        {
+          "number": 16,
+          "part": 4,
+          "pdfPage": 14,
+          "originalPages": [
+            14,
+            15
+          ],
+          "prompt": "Sarah heiratet bald und möchte mit vielen Gästen in einem Lokal feiern.",
+          "choices": [
+            "a · www.park-cafe.de",
+            "b · www.feine-speisen.de",
+            "c · www.weinhaus-walter.de",
+            "e · www.towabu.de",
+            "f · www.hansen-im-moor.de",
+            "X · Keine passende Anzeige"
+          ],
+          "choiceLabels": [
+            "a",
+            "b",
+            "c",
+            "e",
+            "f",
+            "X"
+          ],
+          "answer": "f · www.hansen-im-moor.de",
+          "explanation": "f 专门提供婚礼和家庭庆典场地，可容纳 150 人；b 只是餐饮配送。",
+          "materials": [
+            {
+              "title": "a · www.park-cafe.de",
+              "text": "Selbstgemachte Torten, Kuchen und italienisches Eis. Große Sonnenterrasse mit Spielplatz. Alles auch zum Mitnehmen! Täglich außer montags von 14 bis 19 Uhr geöffnet. Bergstraße 7, 89312 Günzburg, Tel. 08221 36152"
+            },
+            {
+              "title": "b · www.feine-speisen.de",
+              "text": "Egal, wo Sie feiern wollen, wir liefern für Ihre Hochzeit oder andere private Feiern bestes Essen. Z. B. Hochzeitsmenü ab 30 € p. P.; bayerisches Buffet 20,50 € p. P. Wir bieten außerdem Tische und Stühle, Dekoration, Servicepersonal und Kinderbetreuung an."
+            },
+            {
+              "title": "c · www.weinhaus-walter.de",
+              "text": "Internationale Spezialitäten. Beste Weine. Jetzt neu: Jeden Tag anderes 3-Gänge-Menü mit Getränk ab 20 € pro Person. Im Sommer auch in unserem ruhigen Garten. Sie finden uns direkt hinter dem Rathaus. Schöner Raum für kleine Feiern."
+            },
+            {
+              "title": "d · www.cafe-sand.de · Beispiel, bereits verwendet",
+              "text": "Urlaub in der Stadtmitte – direkt am Fluss, täglich ab 10.00 Uhr geöffnet. Jeden Samstag und Sonntag gibt es das stadtbekannte große Frühstück. Ab Mai jeden Sonnabend Party mit Live-Musik, ab 22 Uhr. Tischreservierung Tel. 785 43 65."
+            },
+            {
+              "title": "e · www.towabu.de",
+              "text": "Spiel + Spaß bei Towabu. Auf über 2500 qm auch bei schlechtem Wetter spielen und toben! Tolle Geburtstagspartys mit Super-Programm. Getränke inklusive. Täglich 10 bis 20 Uhr. Auch in den Sommerferien geöffnet."
+            },
+            {
+              "title": "f · www.hansen-im-moor.de",
+              "text": "Das Ausflugsrestaurant im Teufelsmoor. Mit dem Bus nur 20 Minuten vom Zentrum! Norddeutsche Küche. Mit Terrasse direkt am See. Sie suchen einen Ort für Ihr Familienfest, Ihre Hochzeit, Ihre Firmenfeier? Sprechen Sie uns an! Unsere Räume bieten Platz für 150 Personen."
+            }
+          ],
+          "instruction": "为人物选择合适广告；示例 d 已使用，不能再选。每个选项只能用一次；没有匹配广告选 X。",
+          "matchGroup": "ads",
+          "originalPage": "media/exams/goethe-a2/model/p14.webp",
+          "originalPageImages": [
+            {
+              "page": 14,
+              "src": "media/exams/goethe-a2/model/p14.webp"
+            },
+            {
+              "page": 15,
+              "src": "media/exams/goethe-a2/model/p15.webp"
+            }
+          ]
+        },
+        {
+          "number": 17,
+          "part": 4,
+          "pdfPage": 14,
+          "originalPages": [
+            14,
+            15
+          ],
+          "prompt": "Petra will mit Geschäftspartnern in der Stadt essen gehen und über die Arbeit sprechen.",
+          "choices": [
+            "a · www.park-cafe.de",
+            "b · www.feine-speisen.de",
+            "c · www.weinhaus-walter.de",
+            "e · www.towabu.de",
+            "f · www.hansen-im-moor.de",
+            "X · Keine passende Anzeige"
+          ],
+          "choiceLabels": [
+            "a",
+            "b",
+            "c",
+            "e",
+            "f",
+            "X"
+          ],
+          "answer": "c · www.weinhaus-walter.de",
+          "explanation": "c 在市政厅后，提供餐饮及安静环境，适合在市区与商业伙伴会餐。",
+          "materials": [
+            {
+              "title": "a · www.park-cafe.de",
+              "text": "Selbstgemachte Torten, Kuchen und italienisches Eis. Große Sonnenterrasse mit Spielplatz. Alles auch zum Mitnehmen! Täglich außer montags von 14 bis 19 Uhr geöffnet. Bergstraße 7, 89312 Günzburg, Tel. 08221 36152"
+            },
+            {
+              "title": "b · www.feine-speisen.de",
+              "text": "Egal, wo Sie feiern wollen, wir liefern für Ihre Hochzeit oder andere private Feiern bestes Essen. Z. B. Hochzeitsmenü ab 30 € p. P.; bayerisches Buffet 20,50 € p. P. Wir bieten außerdem Tische und Stühle, Dekoration, Servicepersonal und Kinderbetreuung an."
+            },
+            {
+              "title": "c · www.weinhaus-walter.de",
+              "text": "Internationale Spezialitäten. Beste Weine. Jetzt neu: Jeden Tag anderes 3-Gänge-Menü mit Getränk ab 20 € pro Person. Im Sommer auch in unserem ruhigen Garten. Sie finden uns direkt hinter dem Rathaus. Schöner Raum für kleine Feiern."
+            },
+            {
+              "title": "d · www.cafe-sand.de · Beispiel, bereits verwendet",
+              "text": "Urlaub in der Stadtmitte – direkt am Fluss, täglich ab 10.00 Uhr geöffnet. Jeden Samstag und Sonntag gibt es das stadtbekannte große Frühstück. Ab Mai jeden Sonnabend Party mit Live-Musik, ab 22 Uhr. Tischreservierung Tel. 785 43 65."
+            },
+            {
+              "title": "e · www.towabu.de",
+              "text": "Spiel + Spaß bei Towabu. Auf über 2500 qm auch bei schlechtem Wetter spielen und toben! Tolle Geburtstagspartys mit Super-Programm. Getränke inklusive. Täglich 10 bis 20 Uhr. Auch in den Sommerferien geöffnet."
+            },
+            {
+              "title": "f · www.hansen-im-moor.de",
+              "text": "Das Ausflugsrestaurant im Teufelsmoor. Mit dem Bus nur 20 Minuten vom Zentrum! Norddeutsche Küche. Mit Terrasse direkt am See. Sie suchen einen Ort für Ihr Familienfest, Ihre Hochzeit, Ihre Firmenfeier? Sprechen Sie uns an! Unsere Räume bieten Platz für 150 Personen."
+            }
+          ],
+          "instruction": "为人物选择合适广告；示例 d 已使用，不能再选。每个选项只能用一次；没有匹配广告选 X。",
+          "matchGroup": "ads",
+          "originalPage": "media/exams/goethe-a2/model/p14.webp",
+          "originalPageImages": [
+            {
+              "page": 14,
+              "src": "media/exams/goethe-a2/model/p14.webp"
+            },
+            {
+              "page": 15,
+              "src": "media/exams/goethe-a2/model/p15.webp"
+            }
+          ]
+        },
+        {
+          "number": 18,
+          "part": 4,
+          "pdfPage": 14,
+          "originalPages": [
+            14,
+            15
+          ],
+          "prompt": "Jens feiert seinen Geburtstag zu Hause und möchte guten Wein anbieten.",
+          "choices": [
+            "a · www.park-cafe.de",
+            "b · www.feine-speisen.de",
+            "c · www.weinhaus-walter.de",
+            "e · www.towabu.de",
+            "f · www.hansen-im-moor.de",
+            "X · Keine passende Anzeige"
+          ],
+          "choiceLabels": [
+            "a",
+            "b",
+            "c",
+            "e",
+            "f",
+            "X"
+          ],
+          "answer": "X · Keine passende Anzeige",
+          "explanation": "没有广告销售可购买带回家的葡萄酒。c 虽有好酒，但提供的是餐厅用餐，故选 X。",
+          "materials": [
+            {
+              "title": "a · www.park-cafe.de",
+              "text": "Selbstgemachte Torten, Kuchen und italienisches Eis. Große Sonnenterrasse mit Spielplatz. Alles auch zum Mitnehmen! Täglich außer montags von 14 bis 19 Uhr geöffnet. Bergstraße 7, 89312 Günzburg, Tel. 08221 36152"
+            },
+            {
+              "title": "b · www.feine-speisen.de",
+              "text": "Egal, wo Sie feiern wollen, wir liefern für Ihre Hochzeit oder andere private Feiern bestes Essen. Z. B. Hochzeitsmenü ab 30 € p. P.; bayerisches Buffet 20,50 € p. P. Wir bieten außerdem Tische und Stühle, Dekoration, Servicepersonal und Kinderbetreuung an."
+            },
+            {
+              "title": "c · www.weinhaus-walter.de",
+              "text": "Internationale Spezialitäten. Beste Weine. Jetzt neu: Jeden Tag anderes 3-Gänge-Menü mit Getränk ab 20 € pro Person. Im Sommer auch in unserem ruhigen Garten. Sie finden uns direkt hinter dem Rathaus. Schöner Raum für kleine Feiern."
+            },
+            {
+              "title": "d · www.cafe-sand.de · Beispiel, bereits verwendet",
+              "text": "Urlaub in der Stadtmitte – direkt am Fluss, täglich ab 10.00 Uhr geöffnet. Jeden Samstag und Sonntag gibt es das stadtbekannte große Frühstück. Ab Mai jeden Sonnabend Party mit Live-Musik, ab 22 Uhr. Tischreservierung Tel. 785 43 65."
+            },
+            {
+              "title": "e · www.towabu.de",
+              "text": "Spiel + Spaß bei Towabu. Auf über 2500 qm auch bei schlechtem Wetter spielen und toben! Tolle Geburtstagspartys mit Super-Programm. Getränke inklusive. Täglich 10 bis 20 Uhr. Auch in den Sommerferien geöffnet."
+            },
+            {
+              "title": "f · www.hansen-im-moor.de",
+              "text": "Das Ausflugsrestaurant im Teufelsmoor. Mit dem Bus nur 20 Minuten vom Zentrum! Norddeutsche Küche. Mit Terrasse direkt am See. Sie suchen einen Ort für Ihr Familienfest, Ihre Hochzeit, Ihre Firmenfeier? Sprechen Sie uns an! Unsere Räume bieten Platz für 150 Personen."
+            }
+          ],
+          "instruction": "为人物选择合适广告；示例 d 已使用，不能再选。每个选项只能用一次；没有匹配广告选 X。",
+          "matchGroup": "ads",
+          "originalPage": "media/exams/goethe-a2/model/p14.webp",
+          "originalPageImages": [
+            {
+              "page": 14,
+              "src": "media/exams/goethe-a2/model/p14.webp"
+            },
+            {
+              "page": 15,
+              "src": "media/exams/goethe-a2/model/p15.webp"
+            }
+          ]
+        },
+        {
+          "number": 19,
+          "part": 4,
+          "pdfPage": 14,
+          "originalPages": [
+            14,
+            15
+          ],
+          "prompt": "Karsten lädt am Abend Gäste zu sich nach Hause ein, möchte aber nicht kochen.",
+          "choices": [
+            "a · www.park-cafe.de",
+            "b · www.feine-speisen.de",
+            "c · www.weinhaus-walter.de",
+            "e · www.towabu.de",
+            "f · www.hansen-im-moor.de",
+            "X · Keine passende Anzeige"
+          ],
+          "choiceLabels": [
+            "a",
+            "b",
+            "c",
+            "e",
+            "f",
+            "X"
+          ],
+          "answer": "b · www.feine-speisen.de",
+          "explanation": "b 为私人庆典配送饭菜，可让他在家待客而不用做饭。",
+          "materials": [
+            {
+              "title": "a · www.park-cafe.de",
+              "text": "Selbstgemachte Torten, Kuchen und italienisches Eis. Große Sonnenterrasse mit Spielplatz. Alles auch zum Mitnehmen! Täglich außer montags von 14 bis 19 Uhr geöffnet. Bergstraße 7, 89312 Günzburg, Tel. 08221 36152"
+            },
+            {
+              "title": "b · www.feine-speisen.de",
+              "text": "Egal, wo Sie feiern wollen, wir liefern für Ihre Hochzeit oder andere private Feiern bestes Essen. Z. B. Hochzeitsmenü ab 30 € p. P.; bayerisches Buffet 20,50 € p. P. Wir bieten außerdem Tische und Stühle, Dekoration, Servicepersonal und Kinderbetreuung an."
+            },
+            {
+              "title": "c · www.weinhaus-walter.de",
+              "text": "Internationale Spezialitäten. Beste Weine. Jetzt neu: Jeden Tag anderes 3-Gänge-Menü mit Getränk ab 20 € pro Person. Im Sommer auch in unserem ruhigen Garten. Sie finden uns direkt hinter dem Rathaus. Schöner Raum für kleine Feiern."
+            },
+            {
+              "title": "d · www.cafe-sand.de · Beispiel, bereits verwendet",
+              "text": "Urlaub in der Stadtmitte – direkt am Fluss, täglich ab 10.00 Uhr geöffnet. Jeden Samstag und Sonntag gibt es das stadtbekannte große Frühstück. Ab Mai jeden Sonnabend Party mit Live-Musik, ab 22 Uhr. Tischreservierung Tel. 785 43 65."
+            },
+            {
+              "title": "e · www.towabu.de",
+              "text": "Spiel + Spaß bei Towabu. Auf über 2500 qm auch bei schlechtem Wetter spielen und toben! Tolle Geburtstagspartys mit Super-Programm. Getränke inklusive. Täglich 10 bis 20 Uhr. Auch in den Sommerferien geöffnet."
+            },
+            {
+              "title": "f · www.hansen-im-moor.de",
+              "text": "Das Ausflugsrestaurant im Teufelsmoor. Mit dem Bus nur 20 Minuten vom Zentrum! Norddeutsche Küche. Mit Terrasse direkt am See. Sie suchen einen Ort für Ihr Familienfest, Ihre Hochzeit, Ihre Firmenfeier? Sprechen Sie uns an! Unsere Räume bieten Platz für 150 Personen."
+            }
+          ],
+          "instruction": "为人物选择合适广告；示例 d 已使用，不能再选。每个选项只能用一次；没有匹配广告选 X。",
+          "matchGroup": "ads",
+          "originalPage": "media/exams/goethe-a2/model/p14.webp",
+          "originalPageImages": [
+            {
+              "page": 14,
+              "src": "media/exams/goethe-a2/model/p14.webp"
+            },
+            {
+              "page": 15,
+              "src": "media/exams/goethe-a2/model/p15.webp"
+            }
+          ]
+        },
+        {
+          "number": 20,
+          "part": 4,
+          "pdfPage": 14,
+          "originalPages": [
+            14,
+            15
+          ],
+          "prompt": "Gabriele und ihre Tochter feiern Kindergeburtstag und möchten Kuchen essen gehen.",
+          "choices": [
+            "a · www.park-cafe.de",
+            "b · www.feine-speisen.de",
+            "c · www.weinhaus-walter.de",
+            "e · www.towabu.de",
+            "f · www.hansen-im-moor.de",
+            "X · Keine passende Anzeige"
+          ],
+          "choiceLabels": [
+            "a",
+            "b",
+            "c",
+            "e",
+            "f",
+            "X"
+          ],
+          "answer": "a · www.park-cafe.de",
+          "explanation": "a 有自制蛋糕、露台和游乐场，适合带孩子吃蛋糕；e 只说明游乐活动和饮品。",
+          "materials": [
+            {
+              "title": "a · www.park-cafe.de",
+              "text": "Selbstgemachte Torten, Kuchen und italienisches Eis. Große Sonnenterrasse mit Spielplatz. Alles auch zum Mitnehmen! Täglich außer montags von 14 bis 19 Uhr geöffnet. Bergstraße 7, 89312 Günzburg, Tel. 08221 36152"
+            },
+            {
+              "title": "b · www.feine-speisen.de",
+              "text": "Egal, wo Sie feiern wollen, wir liefern für Ihre Hochzeit oder andere private Feiern bestes Essen. Z. B. Hochzeitsmenü ab 30 € p. P.; bayerisches Buffet 20,50 € p. P. Wir bieten außerdem Tische und Stühle, Dekoration, Servicepersonal und Kinderbetreuung an."
+            },
+            {
+              "title": "c · www.weinhaus-walter.de",
+              "text": "Internationale Spezialitäten. Beste Weine. Jetzt neu: Jeden Tag anderes 3-Gänge-Menü mit Getränk ab 20 € pro Person. Im Sommer auch in unserem ruhigen Garten. Sie finden uns direkt hinter dem Rathaus. Schöner Raum für kleine Feiern."
+            },
+            {
+              "title": "d · www.cafe-sand.de · Beispiel, bereits verwendet",
+              "text": "Urlaub in der Stadtmitte – direkt am Fluss, täglich ab 10.00 Uhr geöffnet. Jeden Samstag und Sonntag gibt es das stadtbekannte große Frühstück. Ab Mai jeden Sonnabend Party mit Live-Musik, ab 22 Uhr. Tischreservierung Tel. 785 43 65."
+            },
+            {
+              "title": "e · www.towabu.de",
+              "text": "Spiel + Spaß bei Towabu. Auf über 2500 qm auch bei schlechtem Wetter spielen und toben! Tolle Geburtstagspartys mit Super-Programm. Getränke inklusive. Täglich 10 bis 20 Uhr. Auch in den Sommerferien geöffnet."
+            },
+            {
+              "title": "f · www.hansen-im-moor.de",
+              "text": "Das Ausflugsrestaurant im Teufelsmoor. Mit dem Bus nur 20 Minuten vom Zentrum! Norddeutsche Küche. Mit Terrasse direkt am See. Sie suchen einen Ort für Ihr Familienfest, Ihre Hochzeit, Ihre Firmenfeier? Sprechen Sie uns an! Unsere Räume bieten Platz für 150 Personen."
+            }
+          ],
+          "instruction": "为人物选择合适广告；示例 d 已使用，不能再选。每个选项只能用一次；没有匹配广告选 X。",
+          "matchGroup": "ads",
+          "originalPage": "media/exams/goethe-a2/model/p14.webp",
+          "originalPageImages": [
+            {
+              "page": 14,
+              "src": "media/exams/goethe-a2/model/p14.webp"
+            },
+            {
+              "page": 15,
+              "src": "media/exams/goethe-a2/model/p15.webp"
+            }
+          ]
+        }
+      ],
+      "listening": [
+        {
+          "number": 1,
+          "part": 1,
+          "pdfPage": 18,
+          "prompt": "Wo kann man noch parken?",
+          "choices": [
+            "Am Bahnhof.",
+            "Am Einkaufszentrum.",
+            "Bei der Olympia-Halle."
+          ],
+          "choiceLabels": [
+            "a",
+            "b",
+            "c"
+          ],
+          "answer": "Am Einkaufszentrum.",
+          "explanation": "Olympia-Halle 附近停车位已满；购物中心的停车楼还有空位。",
+          "instruction": "本部分五段短录音，每段播放两次。选择 a、b 或 c。",
+          "transcript": "Eine Information für die Besucher des Basketballspiels heute in der OlympiaHalle: Die Parkplätze in der Nähe sind schon besetzt. Im Parkhaus am\nEinkaufszentrum gibt es noch freie Plätze. Besucher von außerhalb sollten\nnicht mit dem Auto kommen. Nehmen Sie die Bahn! Vom Hauptbahnhof gibt\nes kostenlose Busse zur Olympia-Halle.",
+          "originalPage": "media/exams/goethe-a2/model/p18.webp",
+          "originalPageImages": [
+            {
+              "page": 18,
+              "src": "media/exams/goethe-a2/model/p18.webp"
+            }
+          ]
+        },
+        {
+          "number": 2,
+          "part": 1,
+          "pdfPage": 18,
+          "prompt": "Was soll Sabine nicht vergessen?",
+          "choices": [
+            "Das Geschenk.",
+            "Den Anzug.",
+            "Die Blumen."
+          ],
+          "choiceLabels": [
+            "a",
+            "b",
+            "c"
+          ],
+          "answer": "Den Anzug.",
+          "explanation": "Sabine 要去干洗店取深色西装；礼物已买，花明早再取。",
+          "instruction": "本部分五段短录音，每段播放两次。选择 a、b 或 c。",
+          "transcript": "Hallo Sabine. Denk bitte an meinen dunklen Anzug. Du wolltest ihn doch aus\nder Reinigung abholen. Sonst weiß ich nicht, was ich bei Helenas Hochzeit\nmorgen anziehen soll. Das Geschenk hab‘ ich heute in der Mittagspause schon\ngekauft. Die Blumen holen wir ja erst morgen früh. Dank dir.",
+          "originalPage": "media/exams/goethe-a2/model/p18.webp",
+          "originalPageImages": [
+            {
+              "page": 18,
+              "src": "media/exams/goethe-a2/model/p18.webp"
+            }
+          ]
+        },
+        {
+          "number": 3,
+          "part": 1,
+          "pdfPage": 18,
+          "prompt": "Wo findet das Treffen statt?",
+          "choices": [
+            "Am Bahnhof.",
+            "Im Büro.",
+            "Im Hotel Leopold."
+          ],
+          "choiceLabels": [
+            "a",
+            "b",
+            "c"
+          ],
+          "answer": "Im Hotel Leopold.",
+          "explanation": "通知更正地点为 Hotel Leopold，位于车站广场；不是办公室或车站内。",
+          "instruction": "本部分五段短录音，每段播放两次。选择 a、b 或 c。",
+          "transcript": "Guten Tag Frau Meyer. Ingrid Sollms hier. Der Termin heute findet nicht in\nmeinem Büro statt. Da ist ein Fehler in der Einladung. Ich habe im Hotel\nLeopold einen Raum reserviert. Sie wissen ja, am Bahnhofsplatz. Bitte\nkommen Sie um 10.00 Uhr direkt dorthin. Danke! Auf Wiederhören.",
+          "originalPage": "media/exams/goethe-a2/model/p18.webp",
+          "originalPageImages": [
+            {
+              "page": 18,
+              "src": "media/exams/goethe-a2/model/p18.webp"
+            }
+          ]
+        },
+        {
+          "number": 4,
+          "part": 1,
+          "pdfPage": 18,
+          "prompt": "Wie wird das Wetter am Sonntag?",
+          "choices": [
+            "Im Norden trocken.",
+            "Im Norden und Süden nass.",
+            "Im Süden trocken."
+          ],
+          "choiceLabels": [
+            "a",
+            "b",
+            "c"
+          ],
+          "answer": "Im Norden und Süden nass.",
+          "explanation": "北部整个周末有雨；星期日冷雨也到达南部，因此南北都有雨。",
+          "instruction": "本部分五段短录音，每段播放两次。选择 a、b 或 c。",
+          "transcript": "Nun zum Wetter. Am Wochenende ist es im Norden windig und bewölkt. Es\nregnet bei maximal 17 Grad. Im Süden am Samstag sonnig und warm bis 25\nGrad. Am Sonntag kommt das kalte Regenwetter dann auch nach Süddeutschland. Die Temperaturen fallen auch hier auf unter 15 Grad.",
+          "originalPage": "media/exams/goethe-a2/model/p18.webp",
+          "originalPageImages": [
+            {
+              "page": 18,
+              "src": "media/exams/goethe-a2/model/p18.webp"
+            }
+          ]
+        },
+        {
+          "number": 5,
+          "part": 1,
+          "pdfPage": 18,
+          "prompt": "Was sollen die Hörerinnen und Hörer tun?",
+          "choices": [
+            "Den Namen des Sängers sagen.",
+            "Eine Konzertkarte kaufen.",
+            "Ein neues Lied singen."
+          ],
+          "choiceLabels": [
+            "a",
+            "b",
+            "c"
+          ],
+          "answer": "Den Namen des Sängers sagen.",
+          "explanation": "听众听新歌后打电话说出歌手姓名，参与抽奖；不是唱歌或买票。",
+          "instruction": "本部分五段短录音，每段播放两次。选择 a、b 或 c。",
+          "transcript": "Und jetzt unser Frühstücksradio-Gewinnspiel. Für alle, die es noch nicht\nkennen: Genau um 7.00 Uhr spielen wir ein neues Lied. Wenn Sie wissen, wie\nder Sänger heißt, rufen Sie uns an. Es gibt tolle Preise zu gewinnen: T-Shirts,\nCDs oder eine Eintrittskarte für ein Konzert Ihrer Wahl.",
+          "originalPage": "media/exams/goethe-a2/model/p18.webp",
+          "originalPageImages": [
+            {
+              "page": 18,
+              "src": "media/exams/goethe-a2/model/p18.webp"
+            }
+          ]
+        },
+        {
+          "number": 6,
+          "part": 2,
+          "pdfPage": 19,
+          "prompt": "Was machen der Mann und die Frau am Dienstag?",
+          "choices": [
+            "Tanzen",
+            "Theater",
+            "Schwimmen",
+            "Konzert im Freien",
+            "Schifffahrt",
+            "Radfahren",
+            "Zusammen kochen",
+            "Eis essen"
+          ],
+          "choiceLabels": [
+            "a",
+            "b",
+            "c",
+            "d",
+            "e",
+            "g",
+            "h",
+            "i"
+          ],
+          "answer": "Theater",
+          "explanation": "舞蹈教师休假，星期二最终改为去剧院，选 b。",
+          "instruction": "本部分是一段完整对话，只播放一次。根据日期选图片，每个字母只用一次；示例 f 已使用。",
+          "matchGroup": "pictures",
+          "choiceImages": [
+            "media/exams/goethe-a2/model/match-a.webp",
+            "media/exams/goethe-a2/model/match-b.webp",
+            "media/exams/goethe-a2/model/match-c.webp",
+            "media/exams/goethe-a2/model/match-d.webp",
+            "media/exams/goethe-a2/model/match-e.webp",
+            "media/exams/goethe-a2/model/match-g.webp",
+            "media/exams/goethe-a2/model/match-h.webp",
+            "media/exams/goethe-a2/model/match-i.webp"
+          ],
+          "transcript": "Sag mal, hast du schon Ideen für unsere Woche Urlaub? Wir wollen ja zu Hause\nbleiben, aber ich möchte schon jeden Tag etwas Besonderes machen. Vielleicht\nein bisschen Sport? Oder Kultur?\nMal sehen, wir könnten ins Kino gehen, am Montag kommt ein guter Film.\nGute Idee! Montags gibt’s dort Ermäßigung!\nUnd am Dienstag müssen wir zu unserem Tanzkurs, oder?\nDiese Woche nicht, die Lehrerin ist auch im Urlaub. Wir könnten ins Theater\ngehen, ich hab gesehen, es gibt ein interessantes Stück.\nMhhm, warum nicht. Dann müssen wir am Mittwoch aber Sport machen!\nKlar, wir können schwimmen gehen, im neuen Schwimmbad!\nAber du weißt doch, dass ich das nicht gerne mache. Können wir nicht einen\nAusflug mit dem Rad machen?\nOkay, das macht mir ja auch Spaß. Und was machen wir am Donnerstag und\nFreitag?\nAm Donnerstag können wir Eis essen gehen, bei Francesco!\nMoment, Donnerstagabend sind wir bei Julia und Tim zum Kochen eingeladen.\nDa sollten wir vorher nicht so viel essen.\nJa, da hast du recht. Und wegen Freitag, da gehen wir zum Konzert vorm\nRathaus! Da spielen tolle Bands.\nOkay, wie du möchtest. Aber am nächsten Tag, am Samstag, darfst du dann\nnicht so lange schlafen, da ist nämlich unsere Schifffahrt auf der Elbe.\nKeine Sorge, ich werde früh wach sein und dir sogar das Frühstück ans Bett\nbringen! (lacht)",
+          "originalPage": "media/exams/goethe-a2/model/p19.webp",
+          "originalPageImages": [
+            {
+              "page": 19,
+              "src": "media/exams/goethe-a2/model/p19.webp"
+            }
+          ]
+        },
+        {
+          "number": 7,
+          "part": 2,
+          "pdfPage": 19,
+          "prompt": "Was machen der Mann und die Frau am Mittwoch?",
+          "choices": [
+            "Tanzen",
+            "Theater",
+            "Schwimmen",
+            "Konzert im Freien",
+            "Schifffahrt",
+            "Radfahren",
+            "Zusammen kochen",
+            "Eis essen"
+          ],
+          "choiceLabels": [
+            "a",
+            "b",
+            "c",
+            "d",
+            "e",
+            "g",
+            "h",
+            "i"
+          ],
+          "answer": "Radfahren",
+          "explanation": "男方不喜欢游泳，双方最终同意骑自行车出游，选 g。",
+          "instruction": "本部分是一段完整对话，只播放一次。根据日期选图片，每个字母只用一次；示例 f 已使用。",
+          "matchGroup": "pictures",
+          "choiceImages": [
+            "media/exams/goethe-a2/model/match-a.webp",
+            "media/exams/goethe-a2/model/match-b.webp",
+            "media/exams/goethe-a2/model/match-c.webp",
+            "media/exams/goethe-a2/model/match-d.webp",
+            "media/exams/goethe-a2/model/match-e.webp",
+            "media/exams/goethe-a2/model/match-g.webp",
+            "media/exams/goethe-a2/model/match-h.webp",
+            "media/exams/goethe-a2/model/match-i.webp"
+          ],
+          "transcript": "Sag mal, hast du schon Ideen für unsere Woche Urlaub? Wir wollen ja zu Hause\nbleiben, aber ich möchte schon jeden Tag etwas Besonderes machen. Vielleicht\nein bisschen Sport? Oder Kultur?\nMal sehen, wir könnten ins Kino gehen, am Montag kommt ein guter Film.\nGute Idee! Montags gibt’s dort Ermäßigung!\nUnd am Dienstag müssen wir zu unserem Tanzkurs, oder?\nDiese Woche nicht, die Lehrerin ist auch im Urlaub. Wir könnten ins Theater\ngehen, ich hab gesehen, es gibt ein interessantes Stück.\nMhhm, warum nicht. Dann müssen wir am Mittwoch aber Sport machen!\nKlar, wir können schwimmen gehen, im neuen Schwimmbad!\nAber du weißt doch, dass ich das nicht gerne mache. Können wir nicht einen\nAusflug mit dem Rad machen?\nOkay, das macht mir ja auch Spaß. Und was machen wir am Donnerstag und\nFreitag?\nAm Donnerstag können wir Eis essen gehen, bei Francesco!\nMoment, Donnerstagabend sind wir bei Julia und Tim zum Kochen eingeladen.\nDa sollten wir vorher nicht so viel essen.\nJa, da hast du recht. Und wegen Freitag, da gehen wir zum Konzert vorm\nRathaus! Da spielen tolle Bands.\nOkay, wie du möchtest. Aber am nächsten Tag, am Samstag, darfst du dann\nnicht so lange schlafen, da ist nämlich unsere Schifffahrt auf der Elbe.\nKeine Sorge, ich werde früh wach sein und dir sogar das Frühstück ans Bett\nbringen! (lacht)",
+          "originalPage": "media/exams/goethe-a2/model/p19.webp",
+          "originalPageImages": [
+            {
+              "page": 19,
+              "src": "media/exams/goethe-a2/model/p19.webp"
+            }
+          ]
+        },
+        {
+          "number": 8,
+          "part": 2,
+          "pdfPage": 19,
+          "prompt": "Was machen der Mann und die Frau am Donnerstag?",
+          "choices": [
+            "Tanzen",
+            "Theater",
+            "Schwimmen",
+            "Konzert im Freien",
+            "Schifffahrt",
+            "Radfahren",
+            "Zusammen kochen",
+            "Eis essen"
+          ],
+          "choiceLabels": [
+            "a",
+            "b",
+            "c",
+            "d",
+            "e",
+            "g",
+            "h",
+            "i"
+          ],
+          "answer": "Zusammen kochen",
+          "explanation": "星期四已受邀去 Julia 和 Tim 家做饭，因此不先去吃冰淇淋，选 h。",
+          "instruction": "本部分是一段完整对话，只播放一次。根据日期选图片，每个字母只用一次；示例 f 已使用。",
+          "matchGroup": "pictures",
+          "choiceImages": [
+            "media/exams/goethe-a2/model/match-a.webp",
+            "media/exams/goethe-a2/model/match-b.webp",
+            "media/exams/goethe-a2/model/match-c.webp",
+            "media/exams/goethe-a2/model/match-d.webp",
+            "media/exams/goethe-a2/model/match-e.webp",
+            "media/exams/goethe-a2/model/match-g.webp",
+            "media/exams/goethe-a2/model/match-h.webp",
+            "media/exams/goethe-a2/model/match-i.webp"
+          ],
+          "transcript": "Sag mal, hast du schon Ideen für unsere Woche Urlaub? Wir wollen ja zu Hause\nbleiben, aber ich möchte schon jeden Tag etwas Besonderes machen. Vielleicht\nein bisschen Sport? Oder Kultur?\nMal sehen, wir könnten ins Kino gehen, am Montag kommt ein guter Film.\nGute Idee! Montags gibt’s dort Ermäßigung!\nUnd am Dienstag müssen wir zu unserem Tanzkurs, oder?\nDiese Woche nicht, die Lehrerin ist auch im Urlaub. Wir könnten ins Theater\ngehen, ich hab gesehen, es gibt ein interessantes Stück.\nMhhm, warum nicht. Dann müssen wir am Mittwoch aber Sport machen!\nKlar, wir können schwimmen gehen, im neuen Schwimmbad!\nAber du weißt doch, dass ich das nicht gerne mache. Können wir nicht einen\nAusflug mit dem Rad machen?\nOkay, das macht mir ja auch Spaß. Und was machen wir am Donnerstag und\nFreitag?\nAm Donnerstag können wir Eis essen gehen, bei Francesco!\nMoment, Donnerstagabend sind wir bei Julia und Tim zum Kochen eingeladen.\nDa sollten wir vorher nicht so viel essen.\nJa, da hast du recht. Und wegen Freitag, da gehen wir zum Konzert vorm\nRathaus! Da spielen tolle Bands.\nOkay, wie du möchtest. Aber am nächsten Tag, am Samstag, darfst du dann\nnicht so lange schlafen, da ist nämlich unsere Schifffahrt auf der Elbe.\nKeine Sorge, ich werde früh wach sein und dir sogar das Frühstück ans Bett\nbringen! (lacht)",
+          "originalPage": "media/exams/goethe-a2/model/p19.webp",
+          "originalPageImages": [
+            {
+              "page": 19,
+              "src": "media/exams/goethe-a2/model/p19.webp"
+            }
+          ]
+        },
+        {
+          "number": 9,
+          "part": 2,
+          "pdfPage": 19,
+          "prompt": "Was machen der Mann und die Frau am Freitag?",
+          "choices": [
+            "Tanzen",
+            "Theater",
+            "Schwimmen",
+            "Konzert im Freien",
+            "Schifffahrt",
+            "Radfahren",
+            "Zusammen kochen",
+            "Eis essen"
+          ],
+          "choiceLabels": [
+            "a",
+            "b",
+            "c",
+            "d",
+            "e",
+            "g",
+            "h",
+            "i"
+          ],
+          "answer": "Konzert im Freien",
+          "explanation": "星期五去市政厅前的露天音乐会，选 d。",
+          "instruction": "本部分是一段完整对话，只播放一次。根据日期选图片，每个字母只用一次；示例 f 已使用。",
+          "matchGroup": "pictures",
+          "choiceImages": [
+            "media/exams/goethe-a2/model/match-a.webp",
+            "media/exams/goethe-a2/model/match-b.webp",
+            "media/exams/goethe-a2/model/match-c.webp",
+            "media/exams/goethe-a2/model/match-d.webp",
+            "media/exams/goethe-a2/model/match-e.webp",
+            "media/exams/goethe-a2/model/match-g.webp",
+            "media/exams/goethe-a2/model/match-h.webp",
+            "media/exams/goethe-a2/model/match-i.webp"
+          ],
+          "transcript": "Sag mal, hast du schon Ideen für unsere Woche Urlaub? Wir wollen ja zu Hause\nbleiben, aber ich möchte schon jeden Tag etwas Besonderes machen. Vielleicht\nein bisschen Sport? Oder Kultur?\nMal sehen, wir könnten ins Kino gehen, am Montag kommt ein guter Film.\nGute Idee! Montags gibt’s dort Ermäßigung!\nUnd am Dienstag müssen wir zu unserem Tanzkurs, oder?\nDiese Woche nicht, die Lehrerin ist auch im Urlaub. Wir könnten ins Theater\ngehen, ich hab gesehen, es gibt ein interessantes Stück.\nMhhm, warum nicht. Dann müssen wir am Mittwoch aber Sport machen!\nKlar, wir können schwimmen gehen, im neuen Schwimmbad!\nAber du weißt doch, dass ich das nicht gerne mache. Können wir nicht einen\nAusflug mit dem Rad machen?\nOkay, das macht mir ja auch Spaß. Und was machen wir am Donnerstag und\nFreitag?\nAm Donnerstag können wir Eis essen gehen, bei Francesco!\nMoment, Donnerstagabend sind wir bei Julia und Tim zum Kochen eingeladen.\nDa sollten wir vorher nicht so viel essen.\nJa, da hast du recht. Und wegen Freitag, da gehen wir zum Konzert vorm\nRathaus! Da spielen tolle Bands.\nOkay, wie du möchtest. Aber am nächsten Tag, am Samstag, darfst du dann\nnicht so lange schlafen, da ist nämlich unsere Schifffahrt auf der Elbe.\nKeine Sorge, ich werde früh wach sein und dir sogar das Frühstück ans Bett\nbringen! (lacht)",
+          "originalPage": "media/exams/goethe-a2/model/p19.webp",
+          "originalPageImages": [
+            {
+              "page": 19,
+              "src": "media/exams/goethe-a2/model/p19.webp"
+            }
+          ]
+        },
+        {
+          "number": 10,
+          "part": 2,
+          "pdfPage": 19,
+          "prompt": "Was machen der Mann und die Frau am Samstag?",
+          "choices": [
+            "Tanzen",
+            "Theater",
+            "Schwimmen",
+            "Konzert im Freien",
+            "Schifffahrt",
+            "Radfahren",
+            "Zusammen kochen",
+            "Eis essen"
+          ],
+          "choiceLabels": [
+            "a",
+            "b",
+            "c",
+            "d",
+            "e",
+            "g",
+            "h",
+            "i"
+          ],
+          "answer": "Schifffahrt",
+          "explanation": "星期六安排的是在 Elbe 河乘船出游，选 e。",
+          "instruction": "本部分是一段完整对话，只播放一次。根据日期选图片，每个字母只用一次；示例 f 已使用。",
+          "matchGroup": "pictures",
+          "choiceImages": [
+            "media/exams/goethe-a2/model/match-a.webp",
+            "media/exams/goethe-a2/model/match-b.webp",
+            "media/exams/goethe-a2/model/match-c.webp",
+            "media/exams/goethe-a2/model/match-d.webp",
+            "media/exams/goethe-a2/model/match-e.webp",
+            "media/exams/goethe-a2/model/match-g.webp",
+            "media/exams/goethe-a2/model/match-h.webp",
+            "media/exams/goethe-a2/model/match-i.webp"
+          ],
+          "transcript": "Sag mal, hast du schon Ideen für unsere Woche Urlaub? Wir wollen ja zu Hause\nbleiben, aber ich möchte schon jeden Tag etwas Besonderes machen. Vielleicht\nein bisschen Sport? Oder Kultur?\nMal sehen, wir könnten ins Kino gehen, am Montag kommt ein guter Film.\nGute Idee! Montags gibt’s dort Ermäßigung!\nUnd am Dienstag müssen wir zu unserem Tanzkurs, oder?\nDiese Woche nicht, die Lehrerin ist auch im Urlaub. Wir könnten ins Theater\ngehen, ich hab gesehen, es gibt ein interessantes Stück.\nMhhm, warum nicht. Dann müssen wir am Mittwoch aber Sport machen!\nKlar, wir können schwimmen gehen, im neuen Schwimmbad!\nAber du weißt doch, dass ich das nicht gerne mache. Können wir nicht einen\nAusflug mit dem Rad machen?\nOkay, das macht mir ja auch Spaß. Und was machen wir am Donnerstag und\nFreitag?\nAm Donnerstag können wir Eis essen gehen, bei Francesco!\nMoment, Donnerstagabend sind wir bei Julia und Tim zum Kochen eingeladen.\nDa sollten wir vorher nicht so viel essen.\nJa, da hast du recht. Und wegen Freitag, da gehen wir zum Konzert vorm\nRathaus! Da spielen tolle Bands.\nOkay, wie du möchtest. Aber am nächsten Tag, am Samstag, darfst du dann\nnicht so lange schlafen, da ist nämlich unsere Schifffahrt auf der Elbe.\nKeine Sorge, ich werde früh wach sein und dir sogar das Frühstück ans Bett\nbringen! (lacht)",
+          "originalPage": "media/exams/goethe-a2/model/p19.webp",
+          "originalPageImages": [
+            {
+              "page": 19,
+              "src": "media/exams/goethe-a2/model/p19.webp"
+            }
+          ]
+        },
+        {
+          "number": 11,
+          "part": 3,
+          "pdfPage": 20,
+          "prompt": "Was hat das Mädchen gestern Abend gegessen?",
+          "choices": [
+            "Fisch",
+            "Hamburger",
+            "Hähnchen"
+          ],
+          "choiceLabels": [
+            "a",
+            "b",
+            "c"
+          ],
+          "answer": "Hähnchen",
+          "explanation": "她原想吃汉堡，朋友想吃鱼，最后在鱼餐厅实际点了鸡肉。",
+          "instruction": "本部分五段短对话，每段播放一次。选择相应图片 a、b 或 c。",
+          "choiceImages": [
+            "media/exams/goethe-a2/model/q11-a.webp",
+            "media/exams/goethe-a2/model/q11-b.webp",
+            "media/exams/goethe-a2/model/q11-c.webp"
+          ],
+          "transcript": "Was hast du gestern Abend Tolles gegessen?\nIch wollte nur einen Hamburger haben, aber Lena und Sarah wollten lieber\nFisch essen gehen. Im Fischrestaurant gab es auch Hähnchen, also habe ich\ndas genommen. Es war o.k.\nJa, dann ist es ja gut.",
+          "originalPage": "media/exams/goethe-a2/model/p20.webp",
+          "originalPageImages": [
+            {
+              "page": 20,
+              "src": "media/exams/goethe-a2/model/p20.webp"
+            }
+          ]
+        },
+        {
+          "number": 12,
+          "part": 3,
+          "pdfPage": 20,
+          "prompt": "Für welches Kleidungsstück interessiert sich die Frau?",
+          "choices": [
+            "Jacke mit weißen Buchstaben",
+            "Jeansjacke",
+            "Blauer Mantel"
+          ],
+          "choiceLabels": [
+            "a",
+            "b",
+            "c"
+          ],
+          "answer": "Jacke mit weißen Buchstaben",
+          "explanation": "她想要带白色字母的夹克；牛仔夹克不喜欢，蓝大衣又太暖。",
+          "instruction": "本部分五段短对话，每段播放一次。选择相应图片 a、b 或 c。",
+          "choiceImages": [
+            "media/exams/goethe-a2/model/q12-a.webp",
+            "media/exams/goethe-a2/model/q12-b.webp",
+            "media/exams/goethe-a2/model/q12-c.webp"
+          ],
+          "transcript": "Entschuldigung, die Jacke da gefällt mir. Die mit den weißen Buchstaben.\nWelche Größe haben Sie denn?\nL\nAch, tut mir leid, aber diese haben wir nur noch in S. Aber vielleicht gefällt Ihnen\ndie Jeansjacke hier oder der blaue Mantel?\nNe, die Jeansjacke gefällt mir nicht. Mhh, der Mantel ist hübsch, aber zu warm.\nDen brauch‘ ich nicht.",
+          "originalPage": "media/exams/goethe-a2/model/p20.webp",
+          "originalPageImages": [
+            {
+              "page": 20,
+              "src": "media/exams/goethe-a2/model/p20.webp"
+            }
+          ]
+        },
+        {
+          "number": 13,
+          "part": 3,
+          "pdfPage": 20,
+          "prompt": "Was fehlt für die Anmeldung?",
+          "choices": [
+            "Anmeldeformular",
+            "Foto",
+            "Unterschrift"
+          ],
+          "choiceLabels": [
+            "a",
+            "b",
+            "c"
+          ],
+          "answer": "Foto",
+          "explanation": "表格和签名已经收到，制作会员证还缺一张照片。",
+          "instruction": "本部分五段短对话，每段播放一次。选择相应图片 a、b 或 c。",
+          "choiceImages": [
+            "media/exams/goethe-a2/model/q13-a.webp",
+            "media/exams/goethe-a2/model/q13-b.webp",
+            "media/exams/goethe-a2/model/q13-c.webp"
+          ],
+          "transcript": "Ja, bitte?\nGuten Tag, Herr Thung. Hier ist Reimann vom Sportverein Ramersdorf. Ich rufe an\nwegen Ihrer Anmeldung.\nDas ausgefüllte Formular habe ich Ihnen gestern in den Briefkasten gesteckt.\nJa, das habe ich hier, aber für den Ausweis brauchen wir noch ein Foto von Ihnen.\nKein Problem. Ich bring‘ Ihnen morgen eins.\nSchön. Sonst haben wir alles, auch Ihre Unterschrift.\nGut. Dann bis morgen.",
+          "originalPage": "media/exams/goethe-a2/model/p20.webp",
+          "originalPageImages": [
+            {
+              "page": 20,
+              "src": "media/exams/goethe-a2/model/p20.webp"
+            }
+          ]
+        },
+        {
+          "number": 14,
+          "part": 3,
+          "pdfPage": 20,
+          "prompt": "Was ist kaputt?",
+          "choices": [
+            "Aufzug",
+            "Heizung",
+            "Lampe am Eingang"
+          ],
+          "choiceLabels": [
+            "a",
+            "b",
+            "c"
+          ],
+          "answer": "Heizung",
+          "explanation": "电梯已经修好，入口灯也恢复了；现在坏的是公寓里的暖气。",
+          "instruction": "本部分五段短对话，每段播放一次。选择相应图片 a、b 或 c。",
+          "choiceImages": [
+            "media/exams/goethe-a2/model/q14-a.webp",
+            "media/exams/goethe-a2/model/q14-b.webp",
+            "media/exams/goethe-a2/model/q14-c.webp"
+          ],
+          "transcript": "Hallo Herr Talas. Hier Miguel Alba aus Haus Nr. 9. Wir haben gestern schon\nwegen der Reparaturen telefoniert.\nJa. Der Mechaniker hat den Aufzug in Ihrem Haus gestern Abend noch repariert.\nUnd die Lampe am Eingang geht auch wieder.\nJa, ja. Aber jetzt wird die Heizung in meiner Wohnung nicht mehr warm. Können\nSie vorbeikommen und sich das mal ansehen?",
+          "originalPage": "media/exams/goethe-a2/model/p20.webp",
+          "originalPageImages": [
+            {
+              "page": 20,
+              "src": "media/exams/goethe-a2/model/p20.webp"
+            }
+          ]
+        },
+        {
+          "number": 15,
+          "part": 3,
+          "pdfPage": 20,
+          "prompt": "Wohin soll der Mann gehen?",
+          "choices": [
+            "Information",
+            "Sportraum",
+            "Arztzimmer"
+          ],
+          "choiceLabels": [
+            "a",
+            "b",
+            "c"
+          ],
+          "answer": "Sportraum",
+          "explanation": "通知明确要求直接去运动室，不用在问讯处等候。",
+          "instruction": "本部分五段短对话，每段播放一次。选择相应图片 a、b 或 c。",
+          "choiceImages": [
+            "media/exams/goethe-a2/model/q15-a.webp",
+            "media/exams/goethe-a2/model/q15-b.webp",
+            "media/exams/goethe-a2/model/q15-c.webp"
+          ],
+          "transcript": "Guten Tag, hier ist Messner von der Arztpraxis Vollmer.\nJa? Guten Tag.\nIch rufe an wegen Ihrer Krankengymnastik. Sie können nächste Woche Montag\nund Donnerstag um 16 Uhr kommen.\nJa, das passt.\nSie müssen nicht an der Information warten. Gehen Sie direkt in den Sportraum.\nUnd bitte vergessen Sie das Rezept vom Arzt und Ihre Sportkleidung nicht.",
+          "originalPage": "media/exams/goethe-a2/model/p20.webp",
+          "originalPageImages": [
+            {
+              "page": 20,
+              "src": "media/exams/goethe-a2/model/p20.webp"
+            }
+          ]
+        },
+        {
+          "number": 16,
+          "part": 4,
+          "pdfPage": 21,
+          "prompt": "Sarah hatte am Anfang in Deutschland Probleme.",
+          "choices": [
+            "Ja",
+            "Nein"
+          ],
+          "choiceLabels": [
+            "J",
+            "N"
+          ],
+          "answer": "Nein",
+          "explanation": "她说很快就喜欢上德国并交到朋友，未表示初来时遇到这些困难。",
+          "instruction": "本部分是一段采访，播放两次。选择 Ja 或 Nein。",
+          "transcript": "Sarah, Sie kommen aus Ghana, in Afrika. Wann sind Sie nach Deutschland\ngekommen?\nDas war kurz nach meinem fünften Geburtstag. Da sind wir dann mit der\nganzen Familie umgezogen.\nUnd wie fanden Sie das neue Leben in Deutschland?\nJa, es hat mir sofort gefallen, ich habe ganz schnell Freunde gefunden – beim\nFußballspielen auf der Straße. Meine beiden großen Brüder haben mich\nimmer mitgenommen. Zuerst haben sie mir Tipps gegeben, aber nach ein paar\nMonaten war ich besser als sie! ((lacht))\nUnd dann? Wie ging es dann weiter?\nAls ich in der Schule war, hat mein Sportlehrer mir gesagt, bei welchem\nFußballverein ich mich anmelden soll. Und dort spiele ich immer noch.\nJetzt schon seit 14 Jahren! Und seit zwei Wochen sind Sie sogar in der\ndeutschen Frauennationalmannschaft. Glückwunsch!\nDanke. Ja, und ich hoffe, dass ich bald auch einmal in einem internationalen\nSpiel mitspielen darf.\nWas machen Sie denn, wenn Sie nicht Fußball spielen?\nIm Moment habe ich keine Zeit für anderes. Aber später, wenn ich nicht mehr\nso gut bin, möchte ich studieren.\nUnd sagen Sie uns auch welches Fach?\nNatürlich Sport!\nNa dann, alles Gute für Sie und danke für das Gespräch.\nGerne.",
+          "originalPage": "media/exams/goethe-a2/model/p21.webp",
+          "originalPageImages": [
+            {
+              "page": 21,
+              "src": "media/exams/goethe-a2/model/p21.webp"
+            }
+          ]
+        },
+        {
+          "number": 17,
+          "part": 4,
+          "pdfPage": 21,
+          "prompt": "Ihre Geschwister haben ihr das Fußballspielen gezeigt.",
+          "choices": [
+            "Ja",
+            "Nein"
+          ],
+          "choiceLabels": [
+            "J",
+            "N"
+          ],
+          "answer": "Ja",
+          "explanation": "两个哥哥带她踢球，开始时还给她指导。",
+          "instruction": "本部分是一段采访，播放两次。选择 Ja 或 Nein。",
+          "transcript": "Sarah, Sie kommen aus Ghana, in Afrika. Wann sind Sie nach Deutschland\ngekommen?\nDas war kurz nach meinem fünften Geburtstag. Da sind wir dann mit der\nganzen Familie umgezogen.\nUnd wie fanden Sie das neue Leben in Deutschland?\nJa, es hat mir sofort gefallen, ich habe ganz schnell Freunde gefunden – beim\nFußballspielen auf der Straße. Meine beiden großen Brüder haben mich\nimmer mitgenommen. Zuerst haben sie mir Tipps gegeben, aber nach ein paar\nMonaten war ich besser als sie! ((lacht))\nUnd dann? Wie ging es dann weiter?\nAls ich in der Schule war, hat mein Sportlehrer mir gesagt, bei welchem\nFußballverein ich mich anmelden soll. Und dort spiele ich immer noch.\nJetzt schon seit 14 Jahren! Und seit zwei Wochen sind Sie sogar in der\ndeutschen Frauennationalmannschaft. Glückwunsch!\nDanke. Ja, und ich hoffe, dass ich bald auch einmal in einem internationalen\nSpiel mitspielen darf.\nWas machen Sie denn, wenn Sie nicht Fußball spielen?\nIm Moment habe ich keine Zeit für anderes. Aber später, wenn ich nicht mehr\nso gut bin, möchte ich studieren.\nUnd sagen Sie uns auch welches Fach?\nNatürlich Sport!\nNa dann, alles Gute für Sie und danke für das Gespräch.\nGerne.",
+          "originalPage": "media/exams/goethe-a2/model/p21.webp",
+          "originalPageImages": [
+            {
+              "page": 21,
+              "src": "media/exams/goethe-a2/model/p21.webp"
+            }
+          ]
+        },
+        {
+          "number": 18,
+          "part": 4,
+          "pdfPage": 21,
+          "prompt": "Ihr Lehrer hat ihr einen Verein empfohlen.",
+          "choices": [
+            "Ja",
+            "Nein"
+          ],
+          "choiceLabels": [
+            "J",
+            "N"
+          ],
+          "answer": "Ja",
+          "explanation": "学校体育老师告诉她应该加入哪个足球俱乐部。",
+          "instruction": "本部分是一段采访，播放两次。选择 Ja 或 Nein。",
+          "transcript": "Sarah, Sie kommen aus Ghana, in Afrika. Wann sind Sie nach Deutschland\ngekommen?\nDas war kurz nach meinem fünften Geburtstag. Da sind wir dann mit der\nganzen Familie umgezogen.\nUnd wie fanden Sie das neue Leben in Deutschland?\nJa, es hat mir sofort gefallen, ich habe ganz schnell Freunde gefunden – beim\nFußballspielen auf der Straße. Meine beiden großen Brüder haben mich\nimmer mitgenommen. Zuerst haben sie mir Tipps gegeben, aber nach ein paar\nMonaten war ich besser als sie! ((lacht))\nUnd dann? Wie ging es dann weiter?\nAls ich in der Schule war, hat mein Sportlehrer mir gesagt, bei welchem\nFußballverein ich mich anmelden soll. Und dort spiele ich immer noch.\nJetzt schon seit 14 Jahren! Und seit zwei Wochen sind Sie sogar in der\ndeutschen Frauennationalmannschaft. Glückwunsch!\nDanke. Ja, und ich hoffe, dass ich bald auch einmal in einem internationalen\nSpiel mitspielen darf.\nWas machen Sie denn, wenn Sie nicht Fußball spielen?\nIm Moment habe ich keine Zeit für anderes. Aber später, wenn ich nicht mehr\nso gut bin, möchte ich studieren.\nUnd sagen Sie uns auch welches Fach?\nNatürlich Sport!\nNa dann, alles Gute für Sie und danke für das Gespräch.\nGerne.",
+          "originalPage": "media/exams/goethe-a2/model/p21.webp",
+          "originalPageImages": [
+            {
+              "page": 21,
+              "src": "media/exams/goethe-a2/model/p21.webp"
+            }
+          ]
+        },
+        {
+          "number": 19,
+          "part": 4,
+          "pdfPage": 21,
+          "prompt": "Sarah hat schon bei vielen internationalen Spielen mitgespielt.",
+          "choices": [
+            "Ja",
+            "Nein"
+          ],
+          "choiceLabels": [
+            "J",
+            "N"
+          ],
+          "answer": "Nein",
+          "explanation": "她刚加入国家队两周，希望将来获得第一次国际比赛上场机会。",
+          "instruction": "本部分是一段采访，播放两次。选择 Ja 或 Nein。",
+          "transcript": "Sarah, Sie kommen aus Ghana, in Afrika. Wann sind Sie nach Deutschland\ngekommen?\nDas war kurz nach meinem fünften Geburtstag. Da sind wir dann mit der\nganzen Familie umgezogen.\nUnd wie fanden Sie das neue Leben in Deutschland?\nJa, es hat mir sofort gefallen, ich habe ganz schnell Freunde gefunden – beim\nFußballspielen auf der Straße. Meine beiden großen Brüder haben mich\nimmer mitgenommen. Zuerst haben sie mir Tipps gegeben, aber nach ein paar\nMonaten war ich besser als sie! ((lacht))\nUnd dann? Wie ging es dann weiter?\nAls ich in der Schule war, hat mein Sportlehrer mir gesagt, bei welchem\nFußballverein ich mich anmelden soll. Und dort spiele ich immer noch.\nJetzt schon seit 14 Jahren! Und seit zwei Wochen sind Sie sogar in der\ndeutschen Frauennationalmannschaft. Glückwunsch!\nDanke. Ja, und ich hoffe, dass ich bald auch einmal in einem internationalen\nSpiel mitspielen darf.\nWas machen Sie denn, wenn Sie nicht Fußball spielen?\nIm Moment habe ich keine Zeit für anderes. Aber später, wenn ich nicht mehr\nso gut bin, möchte ich studieren.\nUnd sagen Sie uns auch welches Fach?\nNatürlich Sport!\nNa dann, alles Gute für Sie und danke für das Gespräch.\nGerne.",
+          "originalPage": "media/exams/goethe-a2/model/p21.webp",
+          "originalPageImages": [
+            {
+              "page": 21,
+              "src": "media/exams/goethe-a2/model/p21.webp"
+            }
+          ]
+        },
+        {
+          "number": 20,
+          "part": 4,
+          "pdfPage": 21,
+          "prompt": "Sie studiert jetzt Sport an der Universität.",
+          "choices": [
+            "Ja",
+            "Nein"
+          ],
+          "choiceLabels": [
+            "J",
+            "N"
+          ],
+          "answer": "Nein",
+          "explanation": "她现在没时间做别的，打算未来球踢得没那么好时再读体育专业。",
+          "instruction": "本部分是一段采访，播放两次。选择 Ja 或 Nein。",
+          "transcript": "Sarah, Sie kommen aus Ghana, in Afrika. Wann sind Sie nach Deutschland\ngekommen?\nDas war kurz nach meinem fünften Geburtstag. Da sind wir dann mit der\nganzen Familie umgezogen.\nUnd wie fanden Sie das neue Leben in Deutschland?\nJa, es hat mir sofort gefallen, ich habe ganz schnell Freunde gefunden – beim\nFußballspielen auf der Straße. Meine beiden großen Brüder haben mich\nimmer mitgenommen. Zuerst haben sie mir Tipps gegeben, aber nach ein paar\nMonaten war ich besser als sie! ((lacht))\nUnd dann? Wie ging es dann weiter?\nAls ich in der Schule war, hat mein Sportlehrer mir gesagt, bei welchem\nFußballverein ich mich anmelden soll. Und dort spiele ich immer noch.\nJetzt schon seit 14 Jahren! Und seit zwei Wochen sind Sie sogar in der\ndeutschen Frauennationalmannschaft. Glückwunsch!\nDanke. Ja, und ich hoffe, dass ich bald auch einmal in einem internationalen\nSpiel mitspielen darf.\nWas machen Sie denn, wenn Sie nicht Fußball spielen?\nIm Moment habe ich keine Zeit für anderes. Aber später, wenn ich nicht mehr\nso gut bin, möchte ich studieren.\nUnd sagen Sie uns auch welches Fach?\nNatürlich Sport!\nNa dann, alles Gute für Sie und danke für das Gespräch.\nGerne.",
+          "originalPage": "media/exams/goethe-a2/model/p21.webp",
+          "originalPageImages": [
+            {
+              "page": 21,
+              "src": "media/exams/goethe-a2/model/p21.webp"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "a2-practice01",
+      "level": "A2",
+      "title": "歌德 A2 · 成人练习卷 01",
+      "de": "Übungssatz 01 Erwachsene",
+      "source": "Goethe-Institut · Goethe-Zertifikat A2",
+      "pdfFile": "A2_Uebungssatz_Erwachsene.pdf",
+      "audioFile": "a2-e-ues-1e_v033.mp3",
+      "audio": "media/exams/goethe-a2/practice01.m4a",
+      "duration": 1452.251429,
+      "readingMinutes": 30,
+      "reading": [
+        {
+          "number": 1,
+          "part": 1,
+          "pdfPage": 9,
+          "originalPages": [
+            8,
+            9
+          ],
+          "prompt": "Ungesundes Essen …",
+          "choices": [
+            "ist besonders teuer.",
+            "kauft man oft unterwegs.",
+            "mögen viele nicht."
+          ],
+          "choiceLabels": [
+            "a",
+            "b",
+            "c"
+          ],
+          "answer": "kauft man oft unterwegs.",
+          "explanation": "不健康食品随处能买到，Theo 也在路边售货亭匆忙买香肠，符合在外购买。",
+          "materials": [
+            {
+              "title": "Essen im Job",
+              "text": "Mittagessen von zu Hause oder mit den Kollegen ins Restaurant? – Warum gutes Essen wichtig ist und was eine Firma für die Gesundheit ihrer Mitarbeiter tut\nViele Leute essen oft fettes und süßes Essen, weil es schnell geht, schmeckt und man es überall bekommt. Aber wenn man Probleme mit der Gesundheit bekommt, wird das auch für die Firmen schnell teuer: Die Mitarbeiter sind oft krank und fehlen.\nTheo kennt das: „Früher war ich mit den Kollegen mittags im Restaurant. Aber im Moment habe ich dafür keine Zeit. Ich kaufe mir schnell am Kiosk eine Bratwurst. Auch wenn ich mich danach schlecht fühle. Aber gesunde Salate gibt es dort nicht.“\nDie Firma Gutbrecht hat jetzt für ihre Mitarbeiter eigene Küchen gebaut. Da kann jeder in der Pause für sich kochen. Das ist gesund und außerdem kostet es nicht so viel wie im Restaurant.\n„Jetzt koche ich nicht nur zu Hause mit frischem Gemüse und habe so schon zwei Kilo verloren“, lacht Lena. „Aber man muss nach dem Kochen die Küche putzen, das machen die Kollegen und ich nicht so gern.“\nDer Chef von Gutbrecht freut sich. „Klar, die Küchen waren nicht billig. Aber jetzt gibt es mehr Kontakte. Die Arbeit in den Teams ist besser. Schwierig ist, dass die Mittagspause jetzt ziemlich lange dauert. Das muss sich wieder ändern.“"
+            }
+          ],
+          "instruction": "阅读材料，选择 a、b 或 c。",
+          "originalPage": "media/exams/goethe-a2/practice01/p9.webp",
+          "originalPageImages": [
+            {
+              "page": 8,
+              "src": "media/exams/goethe-a2/practice01/p8.webp"
+            },
+            {
+              "page": 9,
+              "src": "media/exams/goethe-a2/practice01/p9.webp"
+            }
+          ]
+        },
+        {
+          "number": 2,
+          "part": 1,
+          "pdfPage": 9,
+          "originalPages": [
+            8,
+            9
+          ],
+          "prompt": "In der Pause …",
+          "choices": [
+            "geht Theo ins Restaurant.",
+            "hat Theo nur wenig Zeit zum Essen.",
+            "isst Theo einen Salat."
+          ],
+          "choiceLabels": [
+            "a",
+            "b",
+            "c"
+          ],
+          "answer": "hat Theo nur wenig Zeit zum Essen.",
+          "explanation": "Theo 现在没有时间去餐厅，只能快速买东西吃；售货亭没有健康沙拉。",
+          "materials": [
+            {
+              "title": "Essen im Job",
+              "text": "Mittagessen von zu Hause oder mit den Kollegen ins Restaurant? – Warum gutes Essen wichtig ist und was eine Firma für die Gesundheit ihrer Mitarbeiter tut\nViele Leute essen oft fettes und süßes Essen, weil es schnell geht, schmeckt und man es überall bekommt. Aber wenn man Probleme mit der Gesundheit bekommt, wird das auch für die Firmen schnell teuer: Die Mitarbeiter sind oft krank und fehlen.\nTheo kennt das: „Früher war ich mit den Kollegen mittags im Restaurant. Aber im Moment habe ich dafür keine Zeit. Ich kaufe mir schnell am Kiosk eine Bratwurst. Auch wenn ich mich danach schlecht fühle. Aber gesunde Salate gibt es dort nicht.“\nDie Firma Gutbrecht hat jetzt für ihre Mitarbeiter eigene Küchen gebaut. Da kann jeder in der Pause für sich kochen. Das ist gesund und außerdem kostet es nicht so viel wie im Restaurant.\n„Jetzt koche ich nicht nur zu Hause mit frischem Gemüse und habe so schon zwei Kilo verloren“, lacht Lena. „Aber man muss nach dem Kochen die Küche putzen, das machen die Kollegen und ich nicht so gern.“\nDer Chef von Gutbrecht freut sich. „Klar, die Küchen waren nicht billig. Aber jetzt gibt es mehr Kontakte. Die Arbeit in den Teams ist besser. Schwierig ist, dass die Mittagspause jetzt ziemlich lange dauert. Das muss sich wieder ändern.“"
+            }
+          ],
+          "instruction": "阅读材料，选择 a、b 或 c。",
+          "originalPage": "media/exams/goethe-a2/practice01/p9.webp",
+          "originalPageImages": [
+            {
+              "page": 8,
+              "src": "media/exams/goethe-a2/practice01/p8.webp"
+            },
+            {
+              "page": 9,
+              "src": "media/exams/goethe-a2/practice01/p9.webp"
+            }
+          ]
+        },
+        {
+          "number": 3,
+          "part": 1,
+          "pdfPage": 9,
+          "originalPages": [
+            8,
+            9
+          ],
+          "prompt": "In der Firma Gutbrecht …",
+          "choices": [
+            "bauen die Mitarbeiter Küchen.",
+            "ist das Essen kostenlos.",
+            "kann jeder selbst sein Mittagessen machen."
+          ],
+          "choiceLabels": [
+            "a",
+            "b",
+            "c"
+          ],
+          "answer": "kann jeder selbst sein Mittagessen machen.",
+          "explanation": "公司建了厨房，每位员工都能在午休时自己做饭；未说免费供餐。",
+          "materials": [
+            {
+              "title": "Essen im Job",
+              "text": "Mittagessen von zu Hause oder mit den Kollegen ins Restaurant? – Warum gutes Essen wichtig ist und was eine Firma für die Gesundheit ihrer Mitarbeiter tut\nViele Leute essen oft fettes und süßes Essen, weil es schnell geht, schmeckt und man es überall bekommt. Aber wenn man Probleme mit der Gesundheit bekommt, wird das auch für die Firmen schnell teuer: Die Mitarbeiter sind oft krank und fehlen.\nTheo kennt das: „Früher war ich mit den Kollegen mittags im Restaurant. Aber im Moment habe ich dafür keine Zeit. Ich kaufe mir schnell am Kiosk eine Bratwurst. Auch wenn ich mich danach schlecht fühle. Aber gesunde Salate gibt es dort nicht.“\nDie Firma Gutbrecht hat jetzt für ihre Mitarbeiter eigene Küchen gebaut. Da kann jeder in der Pause für sich kochen. Das ist gesund und außerdem kostet es nicht so viel wie im Restaurant.\n„Jetzt koche ich nicht nur zu Hause mit frischem Gemüse und habe so schon zwei Kilo verloren“, lacht Lena. „Aber man muss nach dem Kochen die Küche putzen, das machen die Kollegen und ich nicht so gern.“\nDer Chef von Gutbrecht freut sich. „Klar, die Küchen waren nicht billig. Aber jetzt gibt es mehr Kontakte. Die Arbeit in den Teams ist besser. Schwierig ist, dass die Mittagspause jetzt ziemlich lange dauert. Das muss sich wieder ändern.“"
+            }
+          ],
+          "instruction": "阅读材料，选择 a、b 或 c。",
+          "originalPage": "media/exams/goethe-a2/practice01/p9.webp",
+          "originalPageImages": [
+            {
+              "page": 8,
+              "src": "media/exams/goethe-a2/practice01/p8.webp"
+            },
+            {
+              "page": 9,
+              "src": "media/exams/goethe-a2/practice01/p9.webp"
+            }
+          ]
+        },
+        {
+          "number": 4,
+          "part": 1,
+          "pdfPage": 9,
+          "originalPages": [
+            8,
+            9
+          ],
+          "prompt": "Lena findet die Idee gut, weil …",
+          "choices": [
+            "die anderen die Küche putzen.",
+            "sie mehr gesundes Essen isst.",
+            "sie nicht mehr zu Hause kochen muss."
+          ],
+          "choiceLabels": [
+            "a",
+            "b",
+            "c"
+          ],
+          "answer": "sie mehr gesundes Essen isst.",
+          "explanation": "Lena 现在不只在家吃新鲜蔬菜，还因此减了两公斤；她不喜欢的是清理厨房。",
+          "materials": [
+            {
+              "title": "Essen im Job",
+              "text": "Mittagessen von zu Hause oder mit den Kollegen ins Restaurant? – Warum gutes Essen wichtig ist und was eine Firma für die Gesundheit ihrer Mitarbeiter tut\nViele Leute essen oft fettes und süßes Essen, weil es schnell geht, schmeckt und man es überall bekommt. Aber wenn man Probleme mit der Gesundheit bekommt, wird das auch für die Firmen schnell teuer: Die Mitarbeiter sind oft krank und fehlen.\nTheo kennt das: „Früher war ich mit den Kollegen mittags im Restaurant. Aber im Moment habe ich dafür keine Zeit. Ich kaufe mir schnell am Kiosk eine Bratwurst. Auch wenn ich mich danach schlecht fühle. Aber gesunde Salate gibt es dort nicht.“\nDie Firma Gutbrecht hat jetzt für ihre Mitarbeiter eigene Küchen gebaut. Da kann jeder in der Pause für sich kochen. Das ist gesund und außerdem kostet es nicht so viel wie im Restaurant.\n„Jetzt koche ich nicht nur zu Hause mit frischem Gemüse und habe so schon zwei Kilo verloren“, lacht Lena. „Aber man muss nach dem Kochen die Küche putzen, das machen die Kollegen und ich nicht so gern.“\nDer Chef von Gutbrecht freut sich. „Klar, die Küchen waren nicht billig. Aber jetzt gibt es mehr Kontakte. Die Arbeit in den Teams ist besser. Schwierig ist, dass die Mittagspause jetzt ziemlich lange dauert. Das muss sich wieder ändern.“"
+            }
+          ],
+          "instruction": "阅读材料，选择 a、b 或 c。",
+          "originalPage": "media/exams/goethe-a2/practice01/p9.webp",
+          "originalPageImages": [
+            {
+              "page": 8,
+              "src": "media/exams/goethe-a2/practice01/p8.webp"
+            },
+            {
+              "page": 9,
+              "src": "media/exams/goethe-a2/practice01/p9.webp"
+            }
+          ]
+        },
+        {
+          "number": 5,
+          "part": 1,
+          "pdfPage": 9,
+          "originalPages": [
+            8,
+            9
+          ],
+          "prompt": "Der Chef der Firma ist zufrieden, weil …",
+          "choices": [
+            "die Mitarbeiter gut zusammenarbeiten.",
+            "die Mitarbeiter lange Pausen machen.",
+            "die Küchen nicht viel gekostet haben."
+          ],
+          "choiceLabels": [
+            "a",
+            "b",
+            "c"
+          ],
+          "answer": "die Mitarbeiter gut zusammenarbeiten.",
+          "explanation": "老板满意的是接触增多、团队合作改善；厨房并不便宜，午休过长也是问题。",
+          "materials": [
+            {
+              "title": "Essen im Job",
+              "text": "Mittagessen von zu Hause oder mit den Kollegen ins Restaurant? – Warum gutes Essen wichtig ist und was eine Firma für die Gesundheit ihrer Mitarbeiter tut\nViele Leute essen oft fettes und süßes Essen, weil es schnell geht, schmeckt und man es überall bekommt. Aber wenn man Probleme mit der Gesundheit bekommt, wird das auch für die Firmen schnell teuer: Die Mitarbeiter sind oft krank und fehlen.\nTheo kennt das: „Früher war ich mit den Kollegen mittags im Restaurant. Aber im Moment habe ich dafür keine Zeit. Ich kaufe mir schnell am Kiosk eine Bratwurst. Auch wenn ich mich danach schlecht fühle. Aber gesunde Salate gibt es dort nicht.“\nDie Firma Gutbrecht hat jetzt für ihre Mitarbeiter eigene Küchen gebaut. Da kann jeder in der Pause für sich kochen. Das ist gesund und außerdem kostet es nicht so viel wie im Restaurant.\n„Jetzt koche ich nicht nur zu Hause mit frischem Gemüse und habe so schon zwei Kilo verloren“, lacht Lena. „Aber man muss nach dem Kochen die Küche putzen, das machen die Kollegen und ich nicht so gern.“\nDer Chef von Gutbrecht freut sich. „Klar, die Küchen waren nicht billig. Aber jetzt gibt es mehr Kontakte. Die Arbeit in den Teams ist besser. Schwierig ist, dass die Mittagspause jetzt ziemlich lange dauert. Das muss sich wieder ändern.“"
+            }
+          ],
+          "instruction": "阅读材料，选择 a、b 或 c。",
+          "originalPage": "media/exams/goethe-a2/practice01/p9.webp",
+          "originalPageImages": [
+            {
+              "page": 8,
+              "src": "media/exams/goethe-a2/practice01/p8.webp"
+            },
+            {
+              "page": 9,
+              "src": "media/exams/goethe-a2/practice01/p9.webp"
+            }
+          ]
+        },
+        {
+          "number": 6,
+          "part": 2,
+          "pdfPage": 10,
+          "originalPages": [
+            10,
+            11
+          ],
+          "prompt": "Sie wollen in Urlaub fahren und nicht viel Geld ausgeben.",
+          "choices": [
+            "Halle A",
+            "Halle D",
+            "andere Halle"
+          ],
+          "choiceLabels": [
+            "a",
+            "b",
+            "c"
+          ],
+          "answer": "Halle D",
+          "explanation": "D 厅有在线预订省钱的信息介绍，符合节省旅行开支。",
+          "materials": [
+            {
+              "title": "Informationen zur Messe „Reisen international“",
+              "text": "Halle A\n10–12 Uhr: Informationsveranstaltung: Urlaub und Gesundheit – mit dem Arzt in die Ferien / 13–14 Uhr Gespräch: So ist Ihr Geld im Urlaub sicher – Tipps zum Geldholen und Bezahlen im Ausland / 15–16 Uhr: Buchvorstellung mit Autor Klaus Hinke: Mit Großvater unterwegs – Reisen mit dem Zug wie früher\nHalle B\n10–12 Uhr: Gespräch: Das sagt der Arzt – Medikamente im Urlaub / 13–15 Uhr: Informationsveranstaltung: Ferienjobs für Schüler ab 16 / 15–17 Uhr: Informationsveranstaltung: Urlaub mit der Großfamilie – mit den Kindern, Opa und Oma und dem Hund / Geldautomat\nHalle C\n10–12 Uhr: Informationsveranstaltung: Gruppenreisen – Angebote für Schulklassen (12–18 Jahre) / Fotoausstellung: Mit der Bahn weltweit unterwegs – die schönsten Züge der letzten 100 Jahre / Restaurant „Heimat“ – neue deutsche Küche / Apotheke und Arzt\nHalle D\n10–12 Uhr: Informationsveranstaltung: Buchen übers Internet – online Geld sparen / 15–17 Uhr: Informationsveranstaltung: deutsche Sprachschulen stellen sich vor / Anders reisen für die Umwelt – Wir lassen das Auto zu Hause – Urlaubsangebote mit Bus, Bahn oder Fähre\nHalle E\n10–12 Uhr: Informationsveranstaltung: Endlich alt genug? Los geht´s! – Ferienreisen für Schüler – ganz ohne Eltern / aktuelle Angebote von Müller-Reisen: Busreisen in Europa für Menschen ab 50 / Fotoausstellung: Norddeutschland – Urlaub auf den Inseln / Toiletten"
+            }
+          ],
+          "instruction": "阅读材料，选择 a、b 或 c。",
+          "originalPage": "media/exams/goethe-a2/practice01/p10.webp",
+          "originalPageImages": [
+            {
+              "page": 10,
+              "src": "media/exams/goethe-a2/practice01/p10.webp"
+            },
+            {
+              "page": 11,
+              "src": "media/exams/goethe-a2/practice01/p11.webp"
+            }
+          ]
+        },
+        {
+          "number": 7,
+          "part": 2,
+          "pdfPage": 10,
+          "originalPages": [
+            10,
+            11
+          ],
+          "prompt": "Sie möchten für Ihren Großvater eine Reise buchen.",
+          "choices": [
+            "Halle A",
+            "Halle E",
+            "andere Halle"
+          ],
+          "choiceLabels": [
+            "a",
+            "b",
+            "c"
+          ],
+          "answer": "Halle E",
+          "explanation": "E 厅提供 50 岁以上人群的欧洲巴士旅游；A 厅只是一本有关祖父旅行的书。",
+          "materials": [
+            {
+              "title": "Informationen zur Messe „Reisen international“",
+              "text": "Halle A\n10–12 Uhr: Informationsveranstaltung: Urlaub und Gesundheit – mit dem Arzt in die Ferien / 13–14 Uhr Gespräch: So ist Ihr Geld im Urlaub sicher – Tipps zum Geldholen und Bezahlen im Ausland / 15–16 Uhr: Buchvorstellung mit Autor Klaus Hinke: Mit Großvater unterwegs – Reisen mit dem Zug wie früher\nHalle B\n10–12 Uhr: Gespräch: Das sagt der Arzt – Medikamente im Urlaub / 13–15 Uhr: Informationsveranstaltung: Ferienjobs für Schüler ab 16 / 15–17 Uhr: Informationsveranstaltung: Urlaub mit der Großfamilie – mit den Kindern, Opa und Oma und dem Hund / Geldautomat\nHalle C\n10–12 Uhr: Informationsveranstaltung: Gruppenreisen – Angebote für Schulklassen (12–18 Jahre) / Fotoausstellung: Mit der Bahn weltweit unterwegs – die schönsten Züge der letzten 100 Jahre / Restaurant „Heimat“ – neue deutsche Küche / Apotheke und Arzt\nHalle D\n10–12 Uhr: Informationsveranstaltung: Buchen übers Internet – online Geld sparen / 15–17 Uhr: Informationsveranstaltung: deutsche Sprachschulen stellen sich vor / Anders reisen für die Umwelt – Wir lassen das Auto zu Hause – Urlaubsangebote mit Bus, Bahn oder Fähre\nHalle E\n10–12 Uhr: Informationsveranstaltung: Endlich alt genug? Los geht´s! – Ferienreisen für Schüler – ganz ohne Eltern / aktuelle Angebote von Müller-Reisen: Busreisen in Europa für Menschen ab 50 / Fotoausstellung: Norddeutschland – Urlaub auf den Inseln / Toiletten"
+            }
+          ],
+          "instruction": "阅读材料，选择 a、b 或 c。",
+          "originalPage": "media/exams/goethe-a2/practice01/p10.webp",
+          "originalPageImages": [
+            {
+              "page": 10,
+              "src": "media/exams/goethe-a2/practice01/p10.webp"
+            },
+            {
+              "page": 11,
+              "src": "media/exams/goethe-a2/practice01/p11.webp"
+            }
+          ]
+        },
+        {
+          "number": 8,
+          "part": 2,
+          "pdfPage": 10,
+          "originalPages": [
+            10,
+            11
+          ],
+          "prompt": "Sie suchen nach einem Reiseangebot für Ihr 16-jähriges Kind.",
+          "choices": [
+            "Halle B",
+            "Halle E",
+            "andere Halle"
+          ],
+          "choiceLabels": [
+            "a",
+            "b",
+            "c"
+          ],
+          "answer": "Halle E",
+          "explanation": "E 厅提供不带父母的学生假期旅游；B 厅的 16 岁信息是 Ferienjobs（假期工作）。",
+          "materials": [
+            {
+              "title": "Informationen zur Messe „Reisen international“",
+              "text": "Halle A\n10–12 Uhr: Informationsveranstaltung: Urlaub und Gesundheit – mit dem Arzt in die Ferien / 13–14 Uhr Gespräch: So ist Ihr Geld im Urlaub sicher – Tipps zum Geldholen und Bezahlen im Ausland / 15–16 Uhr: Buchvorstellung mit Autor Klaus Hinke: Mit Großvater unterwegs – Reisen mit dem Zug wie früher\nHalle B\n10–12 Uhr: Gespräch: Das sagt der Arzt – Medikamente im Urlaub / 13–15 Uhr: Informationsveranstaltung: Ferienjobs für Schüler ab 16 / 15–17 Uhr: Informationsveranstaltung: Urlaub mit der Großfamilie – mit den Kindern, Opa und Oma und dem Hund / Geldautomat\nHalle C\n10–12 Uhr: Informationsveranstaltung: Gruppenreisen – Angebote für Schulklassen (12–18 Jahre) / Fotoausstellung: Mit der Bahn weltweit unterwegs – die schönsten Züge der letzten 100 Jahre / Restaurant „Heimat“ – neue deutsche Küche / Apotheke und Arzt\nHalle D\n10–12 Uhr: Informationsveranstaltung: Buchen übers Internet – online Geld sparen / 15–17 Uhr: Informationsveranstaltung: deutsche Sprachschulen stellen sich vor / Anders reisen für die Umwelt – Wir lassen das Auto zu Hause – Urlaubsangebote mit Bus, Bahn oder Fähre\nHalle E\n10–12 Uhr: Informationsveranstaltung: Endlich alt genug? Los geht´s! – Ferienreisen für Schüler – ganz ohne Eltern / aktuelle Angebote von Müller-Reisen: Busreisen in Europa für Menschen ab 50 / Fotoausstellung: Norddeutschland – Urlaub auf den Inseln / Toiletten"
+            }
+          ],
+          "instruction": "阅读材料，选择 a、b 或 c。",
+          "originalPage": "media/exams/goethe-a2/practice01/p10.webp",
+          "originalPageImages": [
+            {
+              "page": 10,
+              "src": "media/exams/goethe-a2/practice01/p10.webp"
+            },
+            {
+              "page": 11,
+              "src": "media/exams/goethe-a2/practice01/p11.webp"
+            }
+          ]
+        },
+        {
+          "number": 9,
+          "part": 2,
+          "pdfPage": 10,
+          "originalPages": [
+            10,
+            11
+          ],
+          "prompt": "Sie haben sich wehgetan und suchen einen Arzt.",
+          "choices": [
+            "Halle A",
+            "Halle B",
+            "andere Halle"
+          ],
+          "choiceLabels": [
+            "a",
+            "b",
+            "c"
+          ],
+          "answer": "andere Halle",
+          "explanation": "实际诊所、药房和医生在 C 厅；A、B 厅只是健康主题讲座。",
+          "materials": [
+            {
+              "title": "Informationen zur Messe „Reisen international“",
+              "text": "Halle A\n10–12 Uhr: Informationsveranstaltung: Urlaub und Gesundheit – mit dem Arzt in die Ferien / 13–14 Uhr Gespräch: So ist Ihr Geld im Urlaub sicher – Tipps zum Geldholen und Bezahlen im Ausland / 15–16 Uhr: Buchvorstellung mit Autor Klaus Hinke: Mit Großvater unterwegs – Reisen mit dem Zug wie früher\nHalle B\n10–12 Uhr: Gespräch: Das sagt der Arzt – Medikamente im Urlaub / 13–15 Uhr: Informationsveranstaltung: Ferienjobs für Schüler ab 16 / 15–17 Uhr: Informationsveranstaltung: Urlaub mit der Großfamilie – mit den Kindern, Opa und Oma und dem Hund / Geldautomat\nHalle C\n10–12 Uhr: Informationsveranstaltung: Gruppenreisen – Angebote für Schulklassen (12–18 Jahre) / Fotoausstellung: Mit der Bahn weltweit unterwegs – die schönsten Züge der letzten 100 Jahre / Restaurant „Heimat“ – neue deutsche Küche / Apotheke und Arzt\nHalle D\n10–12 Uhr: Informationsveranstaltung: Buchen übers Internet – online Geld sparen / 15–17 Uhr: Informationsveranstaltung: deutsche Sprachschulen stellen sich vor / Anders reisen für die Umwelt – Wir lassen das Auto zu Hause – Urlaubsangebote mit Bus, Bahn oder Fähre\nHalle E\n10–12 Uhr: Informationsveranstaltung: Endlich alt genug? Los geht´s! – Ferienreisen für Schüler – ganz ohne Eltern / aktuelle Angebote von Müller-Reisen: Busreisen in Europa für Menschen ab 50 / Fotoausstellung: Norddeutschland – Urlaub auf den Inseln / Toiletten"
+            }
+          ],
+          "instruction": "阅读材料，选择 a、b 或 c。",
+          "originalPage": "media/exams/goethe-a2/practice01/p10.webp",
+          "originalPageImages": [
+            {
+              "page": 10,
+              "src": "media/exams/goethe-a2/practice01/p10.webp"
+            },
+            {
+              "page": 11,
+              "src": "media/exams/goethe-a2/practice01/p11.webp"
+            }
+          ]
+        },
+        {
+          "number": 10,
+          "part": 2,
+          "pdfPage": 10,
+          "originalPages": [
+            10,
+            11
+          ],
+          "prompt": "Sie möchten mit dem Zug verreisen.",
+          "choices": [
+            "Halle C",
+            "Halle D",
+            "andere Halle"
+          ],
+          "choiceLabels": [
+            "a",
+            "b",
+            "c"
+          ],
+          "answer": "Halle D",
+          "explanation": "D 厅有铁路等环保出行旅游产品；C 厅只举办火车摄影展。",
+          "materials": [
+            {
+              "title": "Informationen zur Messe „Reisen international“",
+              "text": "Halle A\n10–12 Uhr: Informationsveranstaltung: Urlaub und Gesundheit – mit dem Arzt in die Ferien / 13–14 Uhr Gespräch: So ist Ihr Geld im Urlaub sicher – Tipps zum Geldholen und Bezahlen im Ausland / 15–16 Uhr: Buchvorstellung mit Autor Klaus Hinke: Mit Großvater unterwegs – Reisen mit dem Zug wie früher\nHalle B\n10–12 Uhr: Gespräch: Das sagt der Arzt – Medikamente im Urlaub / 13–15 Uhr: Informationsveranstaltung: Ferienjobs für Schüler ab 16 / 15–17 Uhr: Informationsveranstaltung: Urlaub mit der Großfamilie – mit den Kindern, Opa und Oma und dem Hund / Geldautomat\nHalle C\n10–12 Uhr: Informationsveranstaltung: Gruppenreisen – Angebote für Schulklassen (12–18 Jahre) / Fotoausstellung: Mit der Bahn weltweit unterwegs – die schönsten Züge der letzten 100 Jahre / Restaurant „Heimat“ – neue deutsche Küche / Apotheke und Arzt\nHalle D\n10–12 Uhr: Informationsveranstaltung: Buchen übers Internet – online Geld sparen / 15–17 Uhr: Informationsveranstaltung: deutsche Sprachschulen stellen sich vor / Anders reisen für die Umwelt – Wir lassen das Auto zu Hause – Urlaubsangebote mit Bus, Bahn oder Fähre\nHalle E\n10–12 Uhr: Informationsveranstaltung: Endlich alt genug? Los geht´s! – Ferienreisen für Schüler – ganz ohne Eltern / aktuelle Angebote von Müller-Reisen: Busreisen in Europa für Menschen ab 50 / Fotoausstellung: Norddeutschland – Urlaub auf den Inseln / Toiletten"
+            }
+          ],
+          "instruction": "阅读材料，选择 a、b 或 c。",
+          "originalPage": "media/exams/goethe-a2/practice01/p10.webp",
+          "originalPageImages": [
+            {
+              "page": 10,
+              "src": "media/exams/goethe-a2/practice01/p10.webp"
+            },
+            {
+              "page": 11,
+              "src": "media/exams/goethe-a2/practice01/p11.webp"
+            }
+          ]
+        },
+        {
+          "number": 11,
+          "part": 3,
+          "pdfPage": 13,
+          "originalPages": [
+            12,
+            13
+          ],
+          "prompt": "Marta hatte beim Umzug …",
+          "choices": [
+            "das falsche Auto.",
+            "keine Probleme.",
+            "nicht genug Leute zum Helfen."
+          ],
+          "choiceLabels": [
+            "a",
+            "b",
+            "c"
+          ],
+          "answer": "keine Probleme.",
+          "explanation": "她起初担心车太小，但朋友来帮忙，实际搬家一切顺利。",
+          "materials": [
+            {
+              "title": "E-Mail von Marta",
+              "text": "Liebe Rosa,\nich habe dir ja erzählt, dass ich umziehe. Letzte Woche war der Termin. Zuerst habe ich gedacht, dass ich das falsche Auto gemietet habe und es für meine Sachen zu klein ist. Mein Tisch ist doch so groß! Aber am Umzugstag hat alles gut geklappt, denn viele meiner Freunde haben mitgeholfen. Zum Glück!\nVon hier aus bin ich viel schneller bei der Arbeit. Früher musste ich ja immer mit zwei verschiedenen Straßenbahnen fahren oder den Bus nehmen, der immer so langsam war. Mein neues Büro ist viel näher und ich bin mit meinem Fahrrad in zehn Minuten dort. Wie praktisch! Vor allem das viele Umsteigen vermisse ich gar nicht.\nNebenan gibt es eine Katze. Das ist toll. Ich habe ihr ein bisschen Wurst gegeben und jetzt kommt sie oft zu mir. Zum Glück sind die neuen Nachbarn nett und haben kein Problem damit. Ich wollte ja auch immer eine eigene Katze, aber in der alten Wohnung hat der Vermieter das leider nicht erlaubt.\nIch mache bald ein Fest in der neuen Wohnung. Vielleicht hast du auch Zeit zu kommen? Ich habe jetzt ein Gästezimmer. Dann musst du nicht mehr wie sonst im Hotel übernachten. Auch meine Eltern und Geschwister würden dich gern wiedersehen!\nWie geht es dir denn in Paris? Mein Bruder war letztes Jahr dort zum Französischlernen. Eine tolle Stadt, sagt er. Und ich finde auch, Französisch ist eine so schöne Sprache. :-) Du kannst mir dann ja alles zeigen, wenn ich dich dort besuche. Ich freue mich schon so!\nLiebe Grüße aus München\nMarta"
+            }
+          ],
+          "instruction": "阅读材料，选择 a、b 或 c。",
+          "originalPage": "media/exams/goethe-a2/practice01/p13.webp",
+          "originalPageImages": [
+            {
+              "page": 12,
+              "src": "media/exams/goethe-a2/practice01/p12.webp"
+            },
+            {
+              "page": 13,
+              "src": "media/exams/goethe-a2/practice01/p13.webp"
+            }
+          ]
+        },
+        {
+          "number": 12,
+          "part": 3,
+          "pdfPage": 13,
+          "originalPages": [
+            12,
+            13
+          ],
+          "prompt": "Auf dem Weg zur Arbeit kann Marta jetzt …",
+          "choices": [
+            "den schnellen Bus nehmen.",
+            "mit verschiedenen Straßenbahnen fahren.",
+            "mehr Zeit sparen als früher."
+          ],
+          "choiceLabels": [
+            "a",
+            "b",
+            "c"
+          ],
+          "answer": "mehr Zeit sparen als früher.",
+          "explanation": "新住处离办公室近，骑车十分钟可到，免去慢公交和多次换乘。",
+          "materials": [
+            {
+              "title": "E-Mail von Marta",
+              "text": "Liebe Rosa,\nich habe dir ja erzählt, dass ich umziehe. Letzte Woche war der Termin. Zuerst habe ich gedacht, dass ich das falsche Auto gemietet habe und es für meine Sachen zu klein ist. Mein Tisch ist doch so groß! Aber am Umzugstag hat alles gut geklappt, denn viele meiner Freunde haben mitgeholfen. Zum Glück!\nVon hier aus bin ich viel schneller bei der Arbeit. Früher musste ich ja immer mit zwei verschiedenen Straßenbahnen fahren oder den Bus nehmen, der immer so langsam war. Mein neues Büro ist viel näher und ich bin mit meinem Fahrrad in zehn Minuten dort. Wie praktisch! Vor allem das viele Umsteigen vermisse ich gar nicht.\nNebenan gibt es eine Katze. Das ist toll. Ich habe ihr ein bisschen Wurst gegeben und jetzt kommt sie oft zu mir. Zum Glück sind die neuen Nachbarn nett und haben kein Problem damit. Ich wollte ja auch immer eine eigene Katze, aber in der alten Wohnung hat der Vermieter das leider nicht erlaubt.\nIch mache bald ein Fest in der neuen Wohnung. Vielleicht hast du auch Zeit zu kommen? Ich habe jetzt ein Gästezimmer. Dann musst du nicht mehr wie sonst im Hotel übernachten. Auch meine Eltern und Geschwister würden dich gern wiedersehen!\nWie geht es dir denn in Paris? Mein Bruder war letztes Jahr dort zum Französischlernen. Eine tolle Stadt, sagt er. Und ich finde auch, Französisch ist eine so schöne Sprache. :-) Du kannst mir dann ja alles zeigen, wenn ich dich dort besuche. Ich freue mich schon so!\nLiebe Grüße aus München\nMarta"
+            }
+          ],
+          "instruction": "阅读材料，选择 a、b 或 c。",
+          "originalPage": "media/exams/goethe-a2/practice01/p13.webp",
+          "originalPageImages": [
+            {
+              "page": 12,
+              "src": "media/exams/goethe-a2/practice01/p12.webp"
+            },
+            {
+              "page": 13,
+              "src": "media/exams/goethe-a2/practice01/p13.webp"
+            }
+          ]
+        },
+        {
+          "number": 13,
+          "part": 3,
+          "pdfPage": 13,
+          "originalPages": [
+            12,
+            13
+          ],
+          "prompt": "Marta hat in der neuen Wohnung …",
+          "choices": [
+            "eine eigene Katze.",
+            "freundliche Nachbarn.",
+            "Probleme mit dem Vermieter."
+          ],
+          "choiceLabels": [
+            "a",
+            "b",
+            "c"
+          ],
+          "answer": "freundliche Nachbarn.",
+          "explanation": "猫属于邻居；新邻居很友善，不介意猫去她家。禁止养猫的是原房东。",
+          "materials": [
+            {
+              "title": "E-Mail von Marta",
+              "text": "Liebe Rosa,\nich habe dir ja erzählt, dass ich umziehe. Letzte Woche war der Termin. Zuerst habe ich gedacht, dass ich das falsche Auto gemietet habe und es für meine Sachen zu klein ist. Mein Tisch ist doch so groß! Aber am Umzugstag hat alles gut geklappt, denn viele meiner Freunde haben mitgeholfen. Zum Glück!\nVon hier aus bin ich viel schneller bei der Arbeit. Früher musste ich ja immer mit zwei verschiedenen Straßenbahnen fahren oder den Bus nehmen, der immer so langsam war. Mein neues Büro ist viel näher und ich bin mit meinem Fahrrad in zehn Minuten dort. Wie praktisch! Vor allem das viele Umsteigen vermisse ich gar nicht.\nNebenan gibt es eine Katze. Das ist toll. Ich habe ihr ein bisschen Wurst gegeben und jetzt kommt sie oft zu mir. Zum Glück sind die neuen Nachbarn nett und haben kein Problem damit. Ich wollte ja auch immer eine eigene Katze, aber in der alten Wohnung hat der Vermieter das leider nicht erlaubt.\nIch mache bald ein Fest in der neuen Wohnung. Vielleicht hast du auch Zeit zu kommen? Ich habe jetzt ein Gästezimmer. Dann musst du nicht mehr wie sonst im Hotel übernachten. Auch meine Eltern und Geschwister würden dich gern wiedersehen!\nWie geht es dir denn in Paris? Mein Bruder war letztes Jahr dort zum Französischlernen. Eine tolle Stadt, sagt er. Und ich finde auch, Französisch ist eine so schöne Sprache. :-) Du kannst mir dann ja alles zeigen, wenn ich dich dort besuche. Ich freue mich schon so!\nLiebe Grüße aus München\nMarta"
+            }
+          ],
+          "instruction": "阅读材料，选择 a、b 或 c。",
+          "originalPage": "media/exams/goethe-a2/practice01/p13.webp",
+          "originalPageImages": [
+            {
+              "page": 12,
+              "src": "media/exams/goethe-a2/practice01/p12.webp"
+            },
+            {
+              "page": 13,
+              "src": "media/exams/goethe-a2/practice01/p13.webp"
+            }
+          ]
+        },
+        {
+          "number": 14,
+          "part": 3,
+          "pdfPage": 13,
+          "originalPages": [
+            12,
+            13
+          ],
+          "prompt": "Rosa kann während ihres Besuchs …",
+          "choices": [
+            "bei Martas Familie wohnen.",
+            "in einem Hotel übernachten.",
+            "in Martas Wohnung schlafen."
+          ],
+          "choiceLabels": [
+            "a",
+            "b",
+            "c"
+          ],
+          "answer": "in Martas Wohnung schlafen.",
+          "explanation": "Marta 的新公寓有客房，Rosa 来访可住在她家，不再需要酒店。",
+          "materials": [
+            {
+              "title": "E-Mail von Marta",
+              "text": "Liebe Rosa,\nich habe dir ja erzählt, dass ich umziehe. Letzte Woche war der Termin. Zuerst habe ich gedacht, dass ich das falsche Auto gemietet habe und es für meine Sachen zu klein ist. Mein Tisch ist doch so groß! Aber am Umzugstag hat alles gut geklappt, denn viele meiner Freunde haben mitgeholfen. Zum Glück!\nVon hier aus bin ich viel schneller bei der Arbeit. Früher musste ich ja immer mit zwei verschiedenen Straßenbahnen fahren oder den Bus nehmen, der immer so langsam war. Mein neues Büro ist viel näher und ich bin mit meinem Fahrrad in zehn Minuten dort. Wie praktisch! Vor allem das viele Umsteigen vermisse ich gar nicht.\nNebenan gibt es eine Katze. Das ist toll. Ich habe ihr ein bisschen Wurst gegeben und jetzt kommt sie oft zu mir. Zum Glück sind die neuen Nachbarn nett und haben kein Problem damit. Ich wollte ja auch immer eine eigene Katze, aber in der alten Wohnung hat der Vermieter das leider nicht erlaubt.\nIch mache bald ein Fest in der neuen Wohnung. Vielleicht hast du auch Zeit zu kommen? Ich habe jetzt ein Gästezimmer. Dann musst du nicht mehr wie sonst im Hotel übernachten. Auch meine Eltern und Geschwister würden dich gern wiedersehen!\nWie geht es dir denn in Paris? Mein Bruder war letztes Jahr dort zum Französischlernen. Eine tolle Stadt, sagt er. Und ich finde auch, Französisch ist eine so schöne Sprache. :-) Du kannst mir dann ja alles zeigen, wenn ich dich dort besuche. Ich freue mich schon so!\nLiebe Grüße aus München\nMarta"
+            }
+          ],
+          "instruction": "阅读材料，选择 a、b 或 c。",
+          "originalPage": "media/exams/goethe-a2/practice01/p13.webp",
+          "originalPageImages": [
+            {
+              "page": 12,
+              "src": "media/exams/goethe-a2/practice01/p12.webp"
+            },
+            {
+              "page": 13,
+              "src": "media/exams/goethe-a2/practice01/p13.webp"
+            }
+          ]
+        },
+        {
+          "number": 15,
+          "part": 3,
+          "pdfPage": 13,
+          "originalPages": [
+            12,
+            13
+          ],
+          "prompt": "Marta möchte bald …",
+          "choices": [
+            "ihren Bruder besuchen.",
+            "Französisch lernen.",
+            "Paris kennenlernen."
+          ],
+          "choiceLabels": [
+            "a",
+            "b",
+            "c"
+          ],
+          "answer": "Paris kennenlernen.",
+          "explanation": "她打算去 Paris 看望 Rosa，让对方带她认识这座城市；去学法语的是她哥哥。",
+          "materials": [
+            {
+              "title": "E-Mail von Marta",
+              "text": "Liebe Rosa,\nich habe dir ja erzählt, dass ich umziehe. Letzte Woche war der Termin. Zuerst habe ich gedacht, dass ich das falsche Auto gemietet habe und es für meine Sachen zu klein ist. Mein Tisch ist doch so groß! Aber am Umzugstag hat alles gut geklappt, denn viele meiner Freunde haben mitgeholfen. Zum Glück!\nVon hier aus bin ich viel schneller bei der Arbeit. Früher musste ich ja immer mit zwei verschiedenen Straßenbahnen fahren oder den Bus nehmen, der immer so langsam war. Mein neues Büro ist viel näher und ich bin mit meinem Fahrrad in zehn Minuten dort. Wie praktisch! Vor allem das viele Umsteigen vermisse ich gar nicht.\nNebenan gibt es eine Katze. Das ist toll. Ich habe ihr ein bisschen Wurst gegeben und jetzt kommt sie oft zu mir. Zum Glück sind die neuen Nachbarn nett und haben kein Problem damit. Ich wollte ja auch immer eine eigene Katze, aber in der alten Wohnung hat der Vermieter das leider nicht erlaubt.\nIch mache bald ein Fest in der neuen Wohnung. Vielleicht hast du auch Zeit zu kommen? Ich habe jetzt ein Gästezimmer. Dann musst du nicht mehr wie sonst im Hotel übernachten. Auch meine Eltern und Geschwister würden dich gern wiedersehen!\nWie geht es dir denn in Paris? Mein Bruder war letztes Jahr dort zum Französischlernen. Eine tolle Stadt, sagt er. Und ich finde auch, Französisch ist eine so schöne Sprache. :-) Du kannst mir dann ja alles zeigen, wenn ich dich dort besuche. Ich freue mich schon so!\nLiebe Grüße aus München\nMarta"
+            }
+          ],
+          "instruction": "阅读材料，选择 a、b 或 c。",
+          "originalPage": "media/exams/goethe-a2/practice01/p13.webp",
+          "originalPageImages": [
+            {
+              "page": 12,
+              "src": "media/exams/goethe-a2/practice01/p12.webp"
+            },
+            {
+              "page": 13,
+              "src": "media/exams/goethe-a2/practice01/p13.webp"
+            }
+          ]
+        },
+        {
+          "number": 16,
+          "part": 4,
+          "pdfPage": 14,
+          "originalPages": [
+            14,
+            15
+          ],
+          "prompt": "Thomas interessiert sich für einen berühmten Klavierspieler und sucht Informationen über ihn.",
+          "choices": [
+            "b · www.philharmonie.de",
+            "c · www.instrumentendoktor.de",
+            "d · www.piano-heidmann.de",
+            "e · www.musik_macht_spaß.de",
+            "f · www.Musik-Flohmarkt.de",
+            "X · Keine passende Anzeige"
+          ],
+          "choiceLabels": [
+            "b",
+            "c",
+            "d",
+            "e",
+            "f",
+            "X"
+          ],
+          "answer": "f · www.Musik-Flohmarkt.de",
+          "explanation": "f 出售关于著名音乐家的书籍和影片，可查找人物资料；b 是音乐会活动。",
+          "materials": [
+            {
+              "title": "a · www.anfaengerkurse-musik.de · Beispiel, bereits verwendet",
+              "text": "Gitarrenkurs: Klassik, Pop und vieles mehr. Unterricht für Kinder ab 6 Jahre mit und ohne Erfahrung. Super Preise: Nur 25 € für 45 Minuten. Besondere Angebote für Gruppen. Information unter 089-45675621"
+            },
+            {
+              "title": "b · www.philharmonie.de",
+              "text": "Programm: Samstag, 4. April, 19 Uhr: Peter Tschaikowskis „Klavierkonzert“, großer Saal. Freuen Sie sich auf die Musik des berühmten Künstlers im neuen Konzerthaus. Weitere Informationen über unsere Preise auf unserer Internetseite."
+            },
+            {
+              "title": "c · www.instrumentendoktor.de",
+              "text": "Du hast ein Problem mit deiner Gitarre? Du kannst nicht mehr spielen? Ich kümmere mich um deine alte Gitarre, dann ist sie bald wie neu. Rufinistraße 17, 45674 Halle. Öffnungszeiten Werkstatt: Dienstag–Freitag: 10–16 Uhr, Samstag: 10–12 Uhr"
+            },
+            {
+              "title": "d · www.piano-heidmann.de",
+              "text": "Klaviere zu allen Preisen. Wir haben ein großes Angebot. Gute Qualität für wenig Geld. Bei uns finden Sie, was Sie suchen. Wir reparieren auch. Lieferung nach Hause: Auch am Wochenende. Info unter heidmann@piano.de, 040/3267893, 0160/97311222"
+            },
+            {
+              "title": "e · www.musik_macht_spaß.de",
+              "text": "Sie möchten ein Musikinstrument spielen und haben nicht viel Zeit? Ich komme zu Ihnen – abends oder am Wochenende. Fragen Sie Ihre Freunde – für Gruppen gibt es Ermäßigung. Nur für Erwachsene! Anmeldung: lana@musik_macht_spaß.de"
+            },
+            {
+              "title": "f · www.Musik-Flohmarkt.de",
+              "text": "Kaufe und verkaufe: CDs mit Gitarrenkonzerten, Klaviermusik, kaputte Instrumente und vieles mehr. Habe auch Bücher und Filme über bekannte Musiker und berühmte Konzerte. Alles supergünstig! Ruft an und fragt nach Tom. 0156-5741239 Ich freue mich auf euch!"
+            }
+          ],
+          "instruction": "为人物选择合适广告；示例 a 已使用，不能再选。每个选项只能用一次；没有匹配广告选 X。",
+          "matchGroup": "ads",
+          "originalPage": "media/exams/goethe-a2/practice01/p14.webp",
+          "originalPageImages": [
+            {
+              "page": 14,
+              "src": "media/exams/goethe-a2/practice01/p14.webp"
+            },
+            {
+              "page": 15,
+              "src": "media/exams/goethe-a2/practice01/p15.webp"
+            }
+          ]
+        },
+        {
+          "number": 17,
+          "part": 4,
+          "pdfPage": 14,
+          "originalPages": [
+            14,
+            15
+          ],
+          "prompt": "Sarahs Gitarre ist kaputt. Jemand soll die Gitarre reparieren.",
+          "choices": [
+            "b · www.philharmonie.de",
+            "c · www.instrumentendoktor.de",
+            "d · www.piano-heidmann.de",
+            "e · www.musik_macht_spaß.de",
+            "f · www.Musik-Flohmarkt.de",
+            "X · Keine passende Anzeige"
+          ],
+          "choiceLabels": [
+            "b",
+            "c",
+            "d",
+            "e",
+            "f",
+            "X"
+          ],
+          "answer": "c · www.instrumentendoktor.de",
+          "explanation": "c 是修理吉他的工作室，明确提供让旧吉他恢复可用的服务。",
+          "materials": [
+            {
+              "title": "a · www.anfaengerkurse-musik.de · Beispiel, bereits verwendet",
+              "text": "Gitarrenkurs: Klassik, Pop und vieles mehr. Unterricht für Kinder ab 6 Jahre mit und ohne Erfahrung. Super Preise: Nur 25 € für 45 Minuten. Besondere Angebote für Gruppen. Information unter 089-45675621"
+            },
+            {
+              "title": "b · www.philharmonie.de",
+              "text": "Programm: Samstag, 4. April, 19 Uhr: Peter Tschaikowskis „Klavierkonzert“, großer Saal. Freuen Sie sich auf die Musik des berühmten Künstlers im neuen Konzerthaus. Weitere Informationen über unsere Preise auf unserer Internetseite."
+            },
+            {
+              "title": "c · www.instrumentendoktor.de",
+              "text": "Du hast ein Problem mit deiner Gitarre? Du kannst nicht mehr spielen? Ich kümmere mich um deine alte Gitarre, dann ist sie bald wie neu. Rufinistraße 17, 45674 Halle. Öffnungszeiten Werkstatt: Dienstag–Freitag: 10–16 Uhr, Samstag: 10–12 Uhr"
+            },
+            {
+              "title": "d · www.piano-heidmann.de",
+              "text": "Klaviere zu allen Preisen. Wir haben ein großes Angebot. Gute Qualität für wenig Geld. Bei uns finden Sie, was Sie suchen. Wir reparieren auch. Lieferung nach Hause: Auch am Wochenende. Info unter heidmann@piano.de, 040/3267893, 0160/97311222"
+            },
+            {
+              "title": "e · www.musik_macht_spaß.de",
+              "text": "Sie möchten ein Musikinstrument spielen und haben nicht viel Zeit? Ich komme zu Ihnen – abends oder am Wochenende. Fragen Sie Ihre Freunde – für Gruppen gibt es Ermäßigung. Nur für Erwachsene! Anmeldung: lana@musik_macht_spaß.de"
+            },
+            {
+              "title": "f · www.Musik-Flohmarkt.de",
+              "text": "Kaufe und verkaufe: CDs mit Gitarrenkonzerten, Klaviermusik, kaputte Instrumente und vieles mehr. Habe auch Bücher und Filme über bekannte Musiker und berühmte Konzerte. Alles supergünstig! Ruft an und fragt nach Tom. 0156-5741239 Ich freue mich auf euch!"
+            }
+          ],
+          "instruction": "为人物选择合适广告；示例 a 已使用，不能再选。每个选项只能用一次；没有匹配广告选 X。",
+          "matchGroup": "ads",
+          "originalPage": "media/exams/goethe-a2/practice01/p14.webp",
+          "originalPageImages": [
+            {
+              "page": 14,
+              "src": "media/exams/goethe-a2/practice01/p14.webp"
+            },
+            {
+              "page": 15,
+              "src": "media/exams/goethe-a2/practice01/p15.webp"
+            }
+          ]
+        },
+        {
+          "number": 18,
+          "part": 4,
+          "pdfPage": 14,
+          "originalPages": [
+            14,
+            15
+          ],
+          "prompt": "Andreas hat ein Klavier gekauft und möchte zu Hause Unterricht haben.",
+          "choices": [
+            "b · www.philharmonie.de",
+            "c · www.instrumentendoktor.de",
+            "d · www.piano-heidmann.de",
+            "e · www.musik_macht_spaß.de",
+            "f · www.Musik-Flohmarkt.de",
+            "X · Keine passende Anzeige"
+          ],
+          "choiceLabels": [
+            "b",
+            "c",
+            "d",
+            "e",
+            "f",
+            "X"
+          ],
+          "answer": "e · www.musik_macht_spaß.de",
+          "explanation": "e 提供成人乐器教学，教师晚上或周末可上门；d 是售琴和维修。",
+          "materials": [
+            {
+              "title": "a · www.anfaengerkurse-musik.de · Beispiel, bereits verwendet",
+              "text": "Gitarrenkurs: Klassik, Pop und vieles mehr. Unterricht für Kinder ab 6 Jahre mit und ohne Erfahrung. Super Preise: Nur 25 € für 45 Minuten. Besondere Angebote für Gruppen. Information unter 089-45675621"
+            },
+            {
+              "title": "b · www.philharmonie.de",
+              "text": "Programm: Samstag, 4. April, 19 Uhr: Peter Tschaikowskis „Klavierkonzert“, großer Saal. Freuen Sie sich auf die Musik des berühmten Künstlers im neuen Konzerthaus. Weitere Informationen über unsere Preise auf unserer Internetseite."
+            },
+            {
+              "title": "c · www.instrumentendoktor.de",
+              "text": "Du hast ein Problem mit deiner Gitarre? Du kannst nicht mehr spielen? Ich kümmere mich um deine alte Gitarre, dann ist sie bald wie neu. Rufinistraße 17, 45674 Halle. Öffnungszeiten Werkstatt: Dienstag–Freitag: 10–16 Uhr, Samstag: 10–12 Uhr"
+            },
+            {
+              "title": "d · www.piano-heidmann.de",
+              "text": "Klaviere zu allen Preisen. Wir haben ein großes Angebot. Gute Qualität für wenig Geld. Bei uns finden Sie, was Sie suchen. Wir reparieren auch. Lieferung nach Hause: Auch am Wochenende. Info unter heidmann@piano.de, 040/3267893, 0160/97311222"
+            },
+            {
+              "title": "e · www.musik_macht_spaß.de",
+              "text": "Sie möchten ein Musikinstrument spielen und haben nicht viel Zeit? Ich komme zu Ihnen – abends oder am Wochenende. Fragen Sie Ihre Freunde – für Gruppen gibt es Ermäßigung. Nur für Erwachsene! Anmeldung: lana@musik_macht_spaß.de"
+            },
+            {
+              "title": "f · www.Musik-Flohmarkt.de",
+              "text": "Kaufe und verkaufe: CDs mit Gitarrenkonzerten, Klaviermusik, kaputte Instrumente und vieles mehr. Habe auch Bücher und Filme über bekannte Musiker und berühmte Konzerte. Alles supergünstig! Ruft an und fragt nach Tom. 0156-5741239 Ich freue mich auf euch!"
+            }
+          ],
+          "instruction": "为人物选择合适广告；示例 a 已使用，不能再选。每个选项只能用一次；没有匹配广告选 X。",
+          "matchGroup": "ads",
+          "originalPage": "media/exams/goethe-a2/practice01/p14.webp",
+          "originalPageImages": [
+            {
+              "page": 14,
+              "src": "media/exams/goethe-a2/practice01/p14.webp"
+            },
+            {
+              "page": 15,
+              "src": "media/exams/goethe-a2/practice01/p15.webp"
+            }
+          ]
+        },
+        {
+          "number": 19,
+          "part": 4,
+          "pdfPage": 14,
+          "originalPages": [
+            14,
+            15
+          ],
+          "prompt": "Christiane möchte eine neue Gitarre kaufen und wenig Geld ausgeben.",
+          "choices": [
+            "b · www.philharmonie.de",
+            "c · www.instrumentendoktor.de",
+            "d · www.piano-heidmann.de",
+            "e · www.musik_macht_spaß.de",
+            "f · www.Musik-Flohmarkt.de",
+            "X · Keine passende Anzeige"
+          ],
+          "choiceLabels": [
+            "b",
+            "c",
+            "d",
+            "e",
+            "f",
+            "X"
+          ],
+          "answer": "X · Keine passende Anzeige",
+          "explanation": "没有广告销售便宜的新吉他；f 提及损坏乐器，d 则销售钢琴，故选 X。",
+          "materials": [
+            {
+              "title": "a · www.anfaengerkurse-musik.de · Beispiel, bereits verwendet",
+              "text": "Gitarrenkurs: Klassik, Pop und vieles mehr. Unterricht für Kinder ab 6 Jahre mit und ohne Erfahrung. Super Preise: Nur 25 € für 45 Minuten. Besondere Angebote für Gruppen. Information unter 089-45675621"
+            },
+            {
+              "title": "b · www.philharmonie.de",
+              "text": "Programm: Samstag, 4. April, 19 Uhr: Peter Tschaikowskis „Klavierkonzert“, großer Saal. Freuen Sie sich auf die Musik des berühmten Künstlers im neuen Konzerthaus. Weitere Informationen über unsere Preise auf unserer Internetseite."
+            },
+            {
+              "title": "c · www.instrumentendoktor.de",
+              "text": "Du hast ein Problem mit deiner Gitarre? Du kannst nicht mehr spielen? Ich kümmere mich um deine alte Gitarre, dann ist sie bald wie neu. Rufinistraße 17, 45674 Halle. Öffnungszeiten Werkstatt: Dienstag–Freitag: 10–16 Uhr, Samstag: 10–12 Uhr"
+            },
+            {
+              "title": "d · www.piano-heidmann.de",
+              "text": "Klaviere zu allen Preisen. Wir haben ein großes Angebot. Gute Qualität für wenig Geld. Bei uns finden Sie, was Sie suchen. Wir reparieren auch. Lieferung nach Hause: Auch am Wochenende. Info unter heidmann@piano.de, 040/3267893, 0160/97311222"
+            },
+            {
+              "title": "e · www.musik_macht_spaß.de",
+              "text": "Sie möchten ein Musikinstrument spielen und haben nicht viel Zeit? Ich komme zu Ihnen – abends oder am Wochenende. Fragen Sie Ihre Freunde – für Gruppen gibt es Ermäßigung. Nur für Erwachsene! Anmeldung: lana@musik_macht_spaß.de"
+            },
+            {
+              "title": "f · www.Musik-Flohmarkt.de",
+              "text": "Kaufe und verkaufe: CDs mit Gitarrenkonzerten, Klaviermusik, kaputte Instrumente und vieles mehr. Habe auch Bücher und Filme über bekannte Musiker und berühmte Konzerte. Alles supergünstig! Ruft an und fragt nach Tom. 0156-5741239 Ich freue mich auf euch!"
+            }
+          ],
+          "instruction": "为人物选择合适广告；示例 a 已使用，不能再选。每个选项只能用一次；没有匹配广告选 X。",
+          "matchGroup": "ads",
+          "originalPage": "media/exams/goethe-a2/practice01/p14.webp",
+          "originalPageImages": [
+            {
+              "page": 14,
+              "src": "media/exams/goethe-a2/practice01/p14.webp"
+            },
+            {
+              "page": 15,
+              "src": "media/exams/goethe-a2/practice01/p15.webp"
+            }
+          ]
+        },
+        {
+          "number": 20,
+          "part": 4,
+          "pdfPage": 14,
+          "originalPages": [
+            14,
+            15
+          ],
+          "prompt": "Susanne möchte mit ihrer Freundin am Wochenende ausgehen und Musik hören.",
+          "choices": [
+            "b · www.philharmonie.de",
+            "c · www.instrumentendoktor.de",
+            "d · www.piano-heidmann.de",
+            "e · www.musik_macht_spaß.de",
+            "f · www.Musik-Flohmarkt.de",
+            "X · Keine passende Anzeige"
+          ],
+          "choiceLabels": [
+            "b",
+            "c",
+            "d",
+            "e",
+            "f",
+            "X"
+          ],
+          "answer": "b · www.philharmonie.de",
+          "explanation": "b 安排星期六 19:00 的钢琴协奏曲音乐会，适合周末外出听音乐。",
+          "materials": [
+            {
+              "title": "a · www.anfaengerkurse-musik.de · Beispiel, bereits verwendet",
+              "text": "Gitarrenkurs: Klassik, Pop und vieles mehr. Unterricht für Kinder ab 6 Jahre mit und ohne Erfahrung. Super Preise: Nur 25 € für 45 Minuten. Besondere Angebote für Gruppen. Information unter 089-45675621"
+            },
+            {
+              "title": "b · www.philharmonie.de",
+              "text": "Programm: Samstag, 4. April, 19 Uhr: Peter Tschaikowskis „Klavierkonzert“, großer Saal. Freuen Sie sich auf die Musik des berühmten Künstlers im neuen Konzerthaus. Weitere Informationen über unsere Preise auf unserer Internetseite."
+            },
+            {
+              "title": "c · www.instrumentendoktor.de",
+              "text": "Du hast ein Problem mit deiner Gitarre? Du kannst nicht mehr spielen? Ich kümmere mich um deine alte Gitarre, dann ist sie bald wie neu. Rufinistraße 17, 45674 Halle. Öffnungszeiten Werkstatt: Dienstag–Freitag: 10–16 Uhr, Samstag: 10–12 Uhr"
+            },
+            {
+              "title": "d · www.piano-heidmann.de",
+              "text": "Klaviere zu allen Preisen. Wir haben ein großes Angebot. Gute Qualität für wenig Geld. Bei uns finden Sie, was Sie suchen. Wir reparieren auch. Lieferung nach Hause: Auch am Wochenende. Info unter heidmann@piano.de, 040/3267893, 0160/97311222"
+            },
+            {
+              "title": "e · www.musik_macht_spaß.de",
+              "text": "Sie möchten ein Musikinstrument spielen und haben nicht viel Zeit? Ich komme zu Ihnen – abends oder am Wochenende. Fragen Sie Ihre Freunde – für Gruppen gibt es Ermäßigung. Nur für Erwachsene! Anmeldung: lana@musik_macht_spaß.de"
+            },
+            {
+              "title": "f · www.Musik-Flohmarkt.de",
+              "text": "Kaufe und verkaufe: CDs mit Gitarrenkonzerten, Klaviermusik, kaputte Instrumente und vieles mehr. Habe auch Bücher und Filme über bekannte Musiker und berühmte Konzerte. Alles supergünstig! Ruft an und fragt nach Tom. 0156-5741239 Ich freue mich auf euch!"
+            }
+          ],
+          "instruction": "为人物选择合适广告；示例 a 已使用，不能再选。每个选项只能用一次；没有匹配广告选 X。",
+          "matchGroup": "ads",
+          "originalPage": "media/exams/goethe-a2/practice01/p14.webp",
+          "originalPageImages": [
+            {
+              "page": 14,
+              "src": "media/exams/goethe-a2/practice01/p14.webp"
+            },
+            {
+              "page": 15,
+              "src": "media/exams/goethe-a2/practice01/p15.webp"
+            }
+          ]
+        }
+      ],
+      "listening": [
+        {
+          "number": 1,
+          "part": 1,
+          "pdfPage": 18,
+          "prompt": "Wo findet das Konzert statt?",
+          "choices": [
+            "Auf dem Marktplatz.",
+            "In einer Halle.",
+            "Im Festzelt."
+          ],
+          "choiceLabels": [
+            "a",
+            "b",
+            "c"
+          ],
+          "answer": "In einer Halle.",
+          "explanation": "因为下雨，音乐会改到车站附近的大型大厅举行；帐篷前的窗口只办理退票。",
+          "instruction": "本部分五段短录音，每段播放两次。选择 a、b 或 c。",
+          "transcript": "Und jetzt noch eine wichtige Information für die Besucher des Musikfestes: Wegen des\nRegens kann das Konzert heute Abend nicht draußen auf dem Marktplatz stattfinden.\nLiebe Fans, keine Angst, es wird stattfinden – in der großen Halle am Bahnhof, Beginn\n18:30 Uhr. Wer sein Ticket zurückgeben möchte, kann das bis 18 Uhr am Schalter vor\ndem Festzelt kostenlos tun.",
+          "originalPage": "media/exams/goethe-a2/practice01/p18.webp",
+          "originalPageImages": [
+            {
+              "page": 18,
+              "src": "media/exams/goethe-a2/practice01/p18.webp"
+            }
+          ]
+        },
+        {
+          "number": 2,
+          "part": 1,
+          "pdfPage": 18,
+          "prompt": "Was soll Frauke machen?",
+          "choices": [
+            "Einen Kuchen backen.",
+            "Ein Geschenk kaufen.",
+            "Getränke organisieren."
+          ],
+          "choiceLabels": [
+            "a",
+            "b",
+            "c"
+          ],
+          "answer": "Getränke organisieren.",
+          "explanation": "打电话的人负责蛋糕，Paul 负责礼物，Frauke 被请去准备果汁、水和咖啡。",
+          "instruction": "本部分五段短录音，每段播放两次。选择 a、b 或 c。",
+          "transcript": "Hallo, Frauke. Jana feiert doch am Freitag ihren Geburtstag im Büro. Ich backe morgen\neinen Kuchen. Wichtig ist noch das Geschenk. Paul hat gesagt, er kümmert sich darum.\nEr fährt heute nach der Arbeit in die Stadt und sucht ein spannendes Buch. Kannst du\ndich um Saft, Wasser und Kaffee kümmern? Rufst du mich zurück?",
+          "originalPage": "media/exams/goethe-a2/practice01/p18.webp",
+          "originalPageImages": [
+            {
+              "page": 18,
+              "src": "media/exams/goethe-a2/practice01/p18.webp"
+            }
+          ]
+        },
+        {
+          "number": 3,
+          "part": 1,
+          "pdfPage": 18,
+          "prompt": "Warum möchte der Mann das Treffen am Samstag verschieben? Weil …",
+          "choices": [
+            "er mit Freunden ausgehen möchte.",
+            "seine Frau verabredet ist.",
+            "seine Eltern zu Besuch kommen."
+          ],
+          "choiceLabels": [
+            "a",
+            "b",
+            "c"
+          ],
+          "answer": "seine Frau verabredet ist.",
+          "explanation": "星期六妻子要和朋友外出，他答应在家照顾孩子，所以需要改约；父母星期日来访。",
+          "instruction": "本部分五段短录音，每段播放两次。选择 a、b 或 c。",
+          "transcript": "Hi, Paul, Clemens hier. Du, wir hatten ja gesagt, wir gehen diesen Samstag etwas\ntrinken. Kannst du auch Sonntagabend? Am Samstagabend geht meine Frau mit\nFreunden aus und ich hab versprochen, dass ich zu Hause bleibe und auf die Kinder\naufpasse. Sonntag kommen dann noch meine Eltern zu Besuch, aber ab 19 Uhr hab ich\nZeit.",
+          "originalPage": "media/exams/goethe-a2/practice01/p18.webp",
+          "originalPageImages": [
+            {
+              "page": 18,
+              "src": "media/exams/goethe-a2/practice01/p18.webp"
+            }
+          ]
+        },
+        {
+          "number": 4,
+          "part": 1,
+          "pdfPage": 18,
+          "prompt": "Wie wird das Wetter im Süden? Es wird …",
+          "choices": [
+            "kühl und trocken.",
+            "warm und es gibt Gewitter.",
+            "warm und es regnet."
+          ],
+          "choiceLabels": [
+            "a",
+            "b",
+            "c"
+          ],
+          "answer": "warm und es regnet.",
+          "explanation": "南部气温可达 30 度，下午晚些时候有雨；强雷暴属于西部。",
+          "instruction": "本部分五段短录音，每段播放两次。选择 a、b 或 c。",
+          "transcript": "Und nun zum Wetter: Der Sommer bleibt und es wird morgen nochmal sehr warm, im\nSüden bis 30 Grad. Am späten Nachmittag soll es dort etwas regnen. Vorsicht im\nWesten. Dort wird es bis zum frühen Nachmittag auch sehr warm, es soll am\nNachmittag aber starke Gewitter geben. Im Norden und Osten wird es kühl mit\nTemperaturen bis 16 Grad. Aber es bleibt trocken.",
+          "originalPage": "media/exams/goethe-a2/practice01/p18.webp",
+          "originalPageImages": [
+            {
+              "page": 18,
+              "src": "media/exams/goethe-a2/practice01/p18.webp"
+            }
+          ]
+        },
+        {
+          "number": 5,
+          "part": 1,
+          "pdfPage": 18,
+          "prompt": "Was sollen Fahrgäste tun, wenn sie nach Frankfurt wollen?",
+          "choices": [
+            "Den ICE nehmen.",
+            "Im Zug warten.",
+            "Mit der S-Bahn fahren."
+          ],
+          "choiceLabels": [
+            "a",
+            "b",
+            "c"
+          ],
+          "answer": "Den ICE nehmen.",
+          "explanation": "前往 Frankfurt 的乘客应乘 14:15、1 站台出发的 ICE 562；S-Bahn 是去 Stuttgart 的。",
+          "instruction": "本部分五段短录音，每段播放两次。选择 a、b 或 c。",
+          "transcript": "Achtung, liebe Fahrgäste, dieser Zug kann wegen eines technischen Problems nicht\nweiterfahren. Bitte alle aussteigen. Fahrgäste nach Frankfurt fahren bitte mit dem ICE\n562 um 14.15 Uhr von Gleis 1. Fahrgäste nach Stuttgart nehmen bitte die S-Bahn um\n14.22 Uhr von Gleis 4.",
+          "originalPage": "media/exams/goethe-a2/practice01/p18.webp",
+          "originalPageImages": [
+            {
+              "page": 18,
+              "src": "media/exams/goethe-a2/practice01/p18.webp"
+            }
+          ]
+        },
+        {
+          "number": 6,
+          "part": 2,
+          "pdfPage": 19,
+          "prompt": "Was hat die Frau am Samstag in Köln gemacht?",
+          "choices": [
+            "Ausstellung im Museum",
+            "Konzert im Freien",
+            "Schifffahrt",
+            "Theater",
+            "Straßenfest",
+            "Sehenswürdigkeiten ansehen",
+            "Klavierkonzert",
+            "Radfahren"
+          ],
+          "choiceLabels": [
+            "a",
+            "c",
+            "d",
+            "e",
+            "f",
+            "g",
+            "h",
+            "i"
+          ],
+          "answer": "Theater",
+          "explanation": "原想星期六看展，但博物馆关门，因此去了剧院，选 e。",
+          "instruction": "本部分是一段完整对话，只播放一次。根据日期选图片，每个字母只用一次；示例 b 已使用。",
+          "matchGroup": "pictures",
+          "choiceImages": [
+            "media/exams/goethe-a2/practice01/match-a.webp",
+            "media/exams/goethe-a2/practice01/match-c.webp",
+            "media/exams/goethe-a2/practice01/match-d.webp",
+            "media/exams/goethe-a2/practice01/match-e.webp",
+            "media/exams/goethe-a2/practice01/match-f.webp",
+            "media/exams/goethe-a2/practice01/match-g.webp",
+            "media/exams/goethe-a2/practice01/match-h.webp",
+            "media/exams/goethe-a2/practice01/match-i.webp"
+          ],
+          "transcript": "Sonja, was machst du denn hier? Ich denke, du bist in Köln.\nLetzte Woche war ich in Köln.\nUnd wie war es?\nAch, es war toll! Am Freitag bin ich hingefahren. Meine Freundin Julia hat mich\nvom Bahnhof abgeholt und dann sind wir in einem guten Restaurant essen\ngegangen.\nSchön! Was habt ihr denn noch gemacht? Du wolltest doch die neue\nAusstellung sehen.\nJa, eigentlich am Samstag. Aber das Museum war wegen einer Veranstaltung\ngeschlossen. Also waren wir im Theater.\nDu interessierst dich wohl sehr für Kultur?\nJa, deshalb waren wir auch noch in einem Klavierkonzert. Julia wollte\neigentlich am Sonntag gehen, aber wir haben leider keine Karten mehr\ngekriegt. Also waren wir den ganzen Tag in der Stadt und haben uns\nSehenswürdigkeiten angesehen.\nDas mach ich auch gern. Und wann wart ihr dann bei dem Klavierkonzert?\nAm Montagabend. Montag gab es auch ein kostenloses Konzert von zwei\nBands draußen vor der Universität. Das hätte mich auch interessiert.\nMan kann ja nicht alles haben. (Lacht) Und Dienstag?\nIch wollte eigentlich mit dem Schiff auf dem Rhein, dem Fluss, fahren. Aber\nJulia hatte eine andere tolle Idee: eine Radtour am Fluss. Am Abend war ich\ntotal müde.\nWar das Wetter denn gut?\nWir hatten Glück. Am Mittwoch hat es leider geregnet. Das war schade, weil\nwir auf ein Straßenfest gehen wollten. Das hat dann nicht geklappt. Wir waren\ndann in der Ausstellung, im Museum.\nDarauf hattest du dich ja sehr gefreut.\nDie war sehr schön. Kann ich empfehlen!",
+          "originalPage": "media/exams/goethe-a2/practice01/p19.webp",
+          "originalPageImages": [
+            {
+              "page": 19,
+              "src": "media/exams/goethe-a2/practice01/p19.webp"
+            }
+          ]
+        },
+        {
+          "number": 7,
+          "part": 2,
+          "pdfPage": 19,
+          "prompt": "Was hat die Frau am Sonntag in Köln gemacht?",
+          "choices": [
+            "Ausstellung im Museum",
+            "Konzert im Freien",
+            "Schifffahrt",
+            "Theater",
+            "Straßenfest",
+            "Sehenswürdigkeiten ansehen",
+            "Klavierkonzert",
+            "Radfahren"
+          ],
+          "choiceLabels": [
+            "a",
+            "c",
+            "d",
+            "e",
+            "f",
+            "g",
+            "h",
+            "i"
+          ],
+          "answer": "Sehenswürdigkeiten ansehen",
+          "explanation": "星期日的音乐会没买到票，双方整天参观城市景点，选 g。",
+          "instruction": "本部分是一段完整对话，只播放一次。根据日期选图片，每个字母只用一次；示例 b 已使用。",
+          "matchGroup": "pictures",
+          "choiceImages": [
+            "media/exams/goethe-a2/practice01/match-a.webp",
+            "media/exams/goethe-a2/practice01/match-c.webp",
+            "media/exams/goethe-a2/practice01/match-d.webp",
+            "media/exams/goethe-a2/practice01/match-e.webp",
+            "media/exams/goethe-a2/practice01/match-f.webp",
+            "media/exams/goethe-a2/practice01/match-g.webp",
+            "media/exams/goethe-a2/practice01/match-h.webp",
+            "media/exams/goethe-a2/practice01/match-i.webp"
+          ],
+          "transcript": "Sonja, was machst du denn hier? Ich denke, du bist in Köln.\nLetzte Woche war ich in Köln.\nUnd wie war es?\nAch, es war toll! Am Freitag bin ich hingefahren. Meine Freundin Julia hat mich\nvom Bahnhof abgeholt und dann sind wir in einem guten Restaurant essen\ngegangen.\nSchön! Was habt ihr denn noch gemacht? Du wolltest doch die neue\nAusstellung sehen.\nJa, eigentlich am Samstag. Aber das Museum war wegen einer Veranstaltung\ngeschlossen. Also waren wir im Theater.\nDu interessierst dich wohl sehr für Kultur?\nJa, deshalb waren wir auch noch in einem Klavierkonzert. Julia wollte\neigentlich am Sonntag gehen, aber wir haben leider keine Karten mehr\ngekriegt. Also waren wir den ganzen Tag in der Stadt und haben uns\nSehenswürdigkeiten angesehen.\nDas mach ich auch gern. Und wann wart ihr dann bei dem Klavierkonzert?\nAm Montagabend. Montag gab es auch ein kostenloses Konzert von zwei\nBands draußen vor der Universität. Das hätte mich auch interessiert.\nMan kann ja nicht alles haben. (Lacht) Und Dienstag?\nIch wollte eigentlich mit dem Schiff auf dem Rhein, dem Fluss, fahren. Aber\nJulia hatte eine andere tolle Idee: eine Radtour am Fluss. Am Abend war ich\ntotal müde.\nWar das Wetter denn gut?\nWir hatten Glück. Am Mittwoch hat es leider geregnet. Das war schade, weil\nwir auf ein Straßenfest gehen wollten. Das hat dann nicht geklappt. Wir waren\ndann in der Ausstellung, im Museum.\nDarauf hattest du dich ja sehr gefreut.\nDie war sehr schön. Kann ich empfehlen!",
+          "originalPage": "media/exams/goethe-a2/practice01/p19.webp",
+          "originalPageImages": [
+            {
+              "page": 19,
+              "src": "media/exams/goethe-a2/practice01/p19.webp"
+            }
+          ]
+        },
+        {
+          "number": 8,
+          "part": 2,
+          "pdfPage": 19,
+          "prompt": "Was hat die Frau am Montag in Köln gemacht?",
+          "choices": [
+            "Ausstellung im Museum",
+            "Konzert im Freien",
+            "Schifffahrt",
+            "Theater",
+            "Straßenfest",
+            "Sehenswürdigkeiten ansehen",
+            "Klavierkonzert",
+            "Radfahren"
+          ],
+          "choiceLabels": [
+            "a",
+            "c",
+            "d",
+            "e",
+            "f",
+            "g",
+            "h",
+            "i"
+          ],
+          "answer": "Klavierkonzert",
+          "explanation": "星期一晚上去的是钢琴音乐会，不是大学前的露天乐队演出，选 h。",
+          "instruction": "本部分是一段完整对话，只播放一次。根据日期选图片，每个字母只用一次；示例 b 已使用。",
+          "matchGroup": "pictures",
+          "choiceImages": [
+            "media/exams/goethe-a2/practice01/match-a.webp",
+            "media/exams/goethe-a2/practice01/match-c.webp",
+            "media/exams/goethe-a2/practice01/match-d.webp",
+            "media/exams/goethe-a2/practice01/match-e.webp",
+            "media/exams/goethe-a2/practice01/match-f.webp",
+            "media/exams/goethe-a2/practice01/match-g.webp",
+            "media/exams/goethe-a2/practice01/match-h.webp",
+            "media/exams/goethe-a2/practice01/match-i.webp"
+          ],
+          "transcript": "Sonja, was machst du denn hier? Ich denke, du bist in Köln.\nLetzte Woche war ich in Köln.\nUnd wie war es?\nAch, es war toll! Am Freitag bin ich hingefahren. Meine Freundin Julia hat mich\nvom Bahnhof abgeholt und dann sind wir in einem guten Restaurant essen\ngegangen.\nSchön! Was habt ihr denn noch gemacht? Du wolltest doch die neue\nAusstellung sehen.\nJa, eigentlich am Samstag. Aber das Museum war wegen einer Veranstaltung\ngeschlossen. Also waren wir im Theater.\nDu interessierst dich wohl sehr für Kultur?\nJa, deshalb waren wir auch noch in einem Klavierkonzert. Julia wollte\neigentlich am Sonntag gehen, aber wir haben leider keine Karten mehr\ngekriegt. Also waren wir den ganzen Tag in der Stadt und haben uns\nSehenswürdigkeiten angesehen.\nDas mach ich auch gern. Und wann wart ihr dann bei dem Klavierkonzert?\nAm Montagabend. Montag gab es auch ein kostenloses Konzert von zwei\nBands draußen vor der Universität. Das hätte mich auch interessiert.\nMan kann ja nicht alles haben. (Lacht) Und Dienstag?\nIch wollte eigentlich mit dem Schiff auf dem Rhein, dem Fluss, fahren. Aber\nJulia hatte eine andere tolle Idee: eine Radtour am Fluss. Am Abend war ich\ntotal müde.\nWar das Wetter denn gut?\nWir hatten Glück. Am Mittwoch hat es leider geregnet. Das war schade, weil\nwir auf ein Straßenfest gehen wollten. Das hat dann nicht geklappt. Wir waren\ndann in der Ausstellung, im Museum.\nDarauf hattest du dich ja sehr gefreut.\nDie war sehr schön. Kann ich empfehlen!",
+          "originalPage": "media/exams/goethe-a2/practice01/p19.webp",
+          "originalPageImages": [
+            {
+              "page": 19,
+              "src": "media/exams/goethe-a2/practice01/p19.webp"
+            }
+          ]
+        },
+        {
+          "number": 9,
+          "part": 2,
+          "pdfPage": 19,
+          "prompt": "Was hat die Frau am Dienstag in Köln gemacht?",
+          "choices": [
+            "Ausstellung im Museum",
+            "Konzert im Freien",
+            "Schifffahrt",
+            "Theater",
+            "Straßenfest",
+            "Sehenswürdigkeiten ansehen",
+            "Klavierkonzert",
+            "Radfahren"
+          ],
+          "choiceLabels": [
+            "a",
+            "c",
+            "d",
+            "e",
+            "f",
+            "g",
+            "h",
+            "i"
+          ],
+          "answer": "Radfahren",
+          "explanation": "原想乘船，但朋友提议沿河骑车，最终进行自行车之旅，选 i。",
+          "instruction": "本部分是一段完整对话，只播放一次。根据日期选图片，每个字母只用一次；示例 b 已使用。",
+          "matchGroup": "pictures",
+          "choiceImages": [
+            "media/exams/goethe-a2/practice01/match-a.webp",
+            "media/exams/goethe-a2/practice01/match-c.webp",
+            "media/exams/goethe-a2/practice01/match-d.webp",
+            "media/exams/goethe-a2/practice01/match-e.webp",
+            "media/exams/goethe-a2/practice01/match-f.webp",
+            "media/exams/goethe-a2/practice01/match-g.webp",
+            "media/exams/goethe-a2/practice01/match-h.webp",
+            "media/exams/goethe-a2/practice01/match-i.webp"
+          ],
+          "transcript": "Sonja, was machst du denn hier? Ich denke, du bist in Köln.\nLetzte Woche war ich in Köln.\nUnd wie war es?\nAch, es war toll! Am Freitag bin ich hingefahren. Meine Freundin Julia hat mich\nvom Bahnhof abgeholt und dann sind wir in einem guten Restaurant essen\ngegangen.\nSchön! Was habt ihr denn noch gemacht? Du wolltest doch die neue\nAusstellung sehen.\nJa, eigentlich am Samstag. Aber das Museum war wegen einer Veranstaltung\ngeschlossen. Also waren wir im Theater.\nDu interessierst dich wohl sehr für Kultur?\nJa, deshalb waren wir auch noch in einem Klavierkonzert. Julia wollte\neigentlich am Sonntag gehen, aber wir haben leider keine Karten mehr\ngekriegt. Also waren wir den ganzen Tag in der Stadt und haben uns\nSehenswürdigkeiten angesehen.\nDas mach ich auch gern. Und wann wart ihr dann bei dem Klavierkonzert?\nAm Montagabend. Montag gab es auch ein kostenloses Konzert von zwei\nBands draußen vor der Universität. Das hätte mich auch interessiert.\nMan kann ja nicht alles haben. (Lacht) Und Dienstag?\nIch wollte eigentlich mit dem Schiff auf dem Rhein, dem Fluss, fahren. Aber\nJulia hatte eine andere tolle Idee: eine Radtour am Fluss. Am Abend war ich\ntotal müde.\nWar das Wetter denn gut?\nWir hatten Glück. Am Mittwoch hat es leider geregnet. Das war schade, weil\nwir auf ein Straßenfest gehen wollten. Das hat dann nicht geklappt. Wir waren\ndann in der Ausstellung, im Museum.\nDarauf hattest du dich ja sehr gefreut.\nDie war sehr schön. Kann ich empfehlen!",
+          "originalPage": "media/exams/goethe-a2/practice01/p19.webp",
+          "originalPageImages": [
+            {
+              "page": 19,
+              "src": "media/exams/goethe-a2/practice01/p19.webp"
+            }
+          ]
+        },
+        {
+          "number": 10,
+          "part": 2,
+          "pdfPage": 19,
+          "prompt": "Was hat die Frau am Mittwoch in Köln gemacht?",
+          "choices": [
+            "Ausstellung im Museum",
+            "Konzert im Freien",
+            "Schifffahrt",
+            "Theater",
+            "Straßenfest",
+            "Sehenswürdigkeiten ansehen",
+            "Klavierkonzert",
+            "Radfahren"
+          ],
+          "choiceLabels": [
+            "a",
+            "c",
+            "d",
+            "e",
+            "f",
+            "g",
+            "h",
+            "i"
+          ],
+          "answer": "Ausstellung im Museum",
+          "explanation": "星期三下雨，街头节庆计划取消，改为去博物馆看展览，选 a。",
+          "instruction": "本部分是一段完整对话，只播放一次。根据日期选图片，每个字母只用一次；示例 b 已使用。",
+          "matchGroup": "pictures",
+          "choiceImages": [
+            "media/exams/goethe-a2/practice01/match-a.webp",
+            "media/exams/goethe-a2/practice01/match-c.webp",
+            "media/exams/goethe-a2/practice01/match-d.webp",
+            "media/exams/goethe-a2/practice01/match-e.webp",
+            "media/exams/goethe-a2/practice01/match-f.webp",
+            "media/exams/goethe-a2/practice01/match-g.webp",
+            "media/exams/goethe-a2/practice01/match-h.webp",
+            "media/exams/goethe-a2/practice01/match-i.webp"
+          ],
+          "transcript": "Sonja, was machst du denn hier? Ich denke, du bist in Köln.\nLetzte Woche war ich in Köln.\nUnd wie war es?\nAch, es war toll! Am Freitag bin ich hingefahren. Meine Freundin Julia hat mich\nvom Bahnhof abgeholt und dann sind wir in einem guten Restaurant essen\ngegangen.\nSchön! Was habt ihr denn noch gemacht? Du wolltest doch die neue\nAusstellung sehen.\nJa, eigentlich am Samstag. Aber das Museum war wegen einer Veranstaltung\ngeschlossen. Also waren wir im Theater.\nDu interessierst dich wohl sehr für Kultur?\nJa, deshalb waren wir auch noch in einem Klavierkonzert. Julia wollte\neigentlich am Sonntag gehen, aber wir haben leider keine Karten mehr\ngekriegt. Also waren wir den ganzen Tag in der Stadt und haben uns\nSehenswürdigkeiten angesehen.\nDas mach ich auch gern. Und wann wart ihr dann bei dem Klavierkonzert?\nAm Montagabend. Montag gab es auch ein kostenloses Konzert von zwei\nBands draußen vor der Universität. Das hätte mich auch interessiert.\nMan kann ja nicht alles haben. (Lacht) Und Dienstag?\nIch wollte eigentlich mit dem Schiff auf dem Rhein, dem Fluss, fahren. Aber\nJulia hatte eine andere tolle Idee: eine Radtour am Fluss. Am Abend war ich\ntotal müde.\nWar das Wetter denn gut?\nWir hatten Glück. Am Mittwoch hat es leider geregnet. Das war schade, weil\nwir auf ein Straßenfest gehen wollten. Das hat dann nicht geklappt. Wir waren\ndann in der Ausstellung, im Museum.\nDarauf hattest du dich ja sehr gefreut.\nDie war sehr schön. Kann ich empfehlen!",
+          "originalPage": "media/exams/goethe-a2/practice01/p19.webp",
+          "originalPageImages": [
+            {
+              "page": 19,
+              "src": "media/exams/goethe-a2/practice01/p19.webp"
+            }
+          ]
+        },
+        {
+          "number": 11,
+          "part": 3,
+          "pdfPage": 20,
+          "prompt": "Was kauft der Mann?",
+          "choices": [
+            "Sofa",
+            "Wohnzimmertisch",
+            "Vier Stühle"
+          ],
+          "choiceLabels": [
+            "a",
+            "b",
+            "c"
+          ],
+          "answer": "Wohnzimmertisch",
+          "explanation": "沙发太大，他不买了；自己已有椅子，最终只对客厅桌子感兴趣。",
+          "instruction": "本部分五段短对话，每段播放一次。选择相应图片 a、b 或 c。",
+          "choiceImages": [
+            "media/exams/goethe-a2/practice01/q11-a.webp",
+            "media/exams/goethe-a2/practice01/q11-b.webp",
+            "media/exams/goethe-a2/practice01/q11-c.webp"
+          ],
+          "transcript": "Schlemmer, hallo?\nHallo, Frau Schlemmer, hier Florian Mayer, Sie verkaufen alte Möbel.\nJa.\nHeute Morgen hab‘ ich Ihnen geschrieben, dass ich das Sofa kaufen möchte.\nJa, ich erinnere mich.\nTut mir leid, aber es ist zu groß, das kann ich nicht mit meinem Auto abholen.\nAber der Wohnzimmertisch interessiert mich.\nKönnen Sie haben. Und die vier Stühle, nehmen Sie die auch?\nDa habe ich eigene.\nOK.",
+          "originalPage": "media/exams/goethe-a2/practice01/p20.webp",
+          "originalPageImages": [
+            {
+              "page": 20,
+              "src": "media/exams/goethe-a2/practice01/p20.webp"
+            }
+          ]
+        },
+        {
+          "number": 12,
+          "part": 3,
+          "pdfPage": 20,
+          "prompt": "Welcher Vorschlag für den Firmenausflug in diesem Jahr gefällt beiden?",
+          "choices": [
+            "Stadtführung",
+            "Kunstausstellung",
+            "Wanderung am See"
+          ],
+          "choiceLabels": [
+            "a",
+            "b",
+            "c"
+          ],
+          "answer": "Wanderung am See",
+          "explanation": "去年去过城市导览，男方对艺术展没兴趣；两人都赞成到湖边徒步。",
+          "instruction": "本部分五段短对话，每段播放一次。选择相应图片 a、b 或 c。",
+          "choiceImages": [
+            "media/exams/goethe-a2/practice01/q12-a.webp",
+            "media/exams/goethe-a2/practice01/q12-b.webp",
+            "media/exams/goethe-a2/practice01/q12-c.webp"
+          ],
+          "transcript": "Du, Sabine, ich sammle Ideen für unseren Firmenausflug.\nAh, ja! Was haben wir denn im letzten Jahr gemacht?\nEine interessante Stadtführung.\nRichtig! Die war toll. (nachdenklich) Im Stadtmuseum gibt es eine gute neue\nKunstausstellung.\nKunst, finde ich nicht so interessant.\nOkay, und wenn wir zum See fahren und dort eine Wanderung machen? Darauf\nhätt ich Lust.\nJa, find ich gut.",
+          "originalPage": "media/exams/goethe-a2/practice01/p20.webp",
+          "originalPageImages": [
+            {
+              "page": 20,
+              "src": "media/exams/goethe-a2/practice01/p20.webp"
+            }
+          ]
+        },
+        {
+          "number": 13,
+          "part": 3,
+          "pdfPage": 20,
+          "prompt": "Wie fährt die Frau zur Arbeit?",
+          "choices": [
+            "Mit dem Zug",
+            "Im Auto des Nachbarn",
+            "Mit ihrem eigenen Auto"
+          ],
+          "choiceLabels": [
+            "a",
+            "b",
+            "c"
+          ],
+          "answer": "Im Auto des Nachbarn",
+          "explanation": "她错过了火车，自己的车在维修，邻居最终提出开车载她进城。",
+          "instruction": "本部分五段短对话，每段播放一次。选择相应图片 a、b 或 c。",
+          "choiceImages": [
+            "media/exams/goethe-a2/practice01/q13-a.webp",
+            "media/exams/goethe-a2/practice01/q13-b.webp",
+            "media/exams/goethe-a2/practice01/q13-c.webp"
+          ],
+          "transcript": "Och, Mann!\nGuten Morgen, Frau Nachbarin! Was ist denn?\nMorgen, Herr Köhler. Ich muss zur Arbeit und hab den Zug verpasst.\nOh, wie ärgerlich. Warum nehmen Sie nicht Ihr Auto?\n(seufzt) Das ist in der Werkstatt.\nGut, dann fahren Sie bei mir mit. Ich muss jetzt auch mit dem Auto in die Stadt.\nDas ist wirklich nett!",
+          "originalPage": "media/exams/goethe-a2/practice01/p20.webp",
+          "originalPageImages": [
+            {
+              "page": 20,
+              "src": "media/exams/goethe-a2/practice01/p20.webp"
+            }
+          ]
+        },
+        {
+          "number": 14,
+          "part": 3,
+          "pdfPage": 20,
+          "prompt": "Was ist kaputt?",
+          "choices": [
+            "Toilette",
+            "Waschmaschine",
+            "Dusche"
+          ],
+          "choiceLabels": [
+            "a",
+            "b",
+            "c"
+          ],
+          "answer": "Toilette",
+          "explanation": "淋浴间是干的，洗衣机在地下室，马桶下面积水最多，问题在马桶。",
+          "instruction": "本部分五段短对话，每段播放一次。选择相应图片 a、b 或 c。",
+          "choiceImages": [
+            "media/exams/goethe-a2/practice01/q14-a.webp",
+            "media/exams/goethe-a2/practice01/q14-b.webp",
+            "media/exams/goethe-a2/practice01/q14-c.webp"
+          ],
+          "transcript": "Sanitär Reparaturen, guten Tag.\nGuten Tag. Mollack mein Name. Bei mir ist Wasser im Badezimmer. Ich brauche\neinen Handwerker.\nJa, kein Problem. Kommt das Wasser aus der Dusche?\nDie ist ganz trocken.\nAh, gut, es kann natürlich auch die Waschmaschine sein.\nDie steht bei mir im Keller. Unter der Toilette ist das meiste Wasser.\nAh,\nja, dann liegt da wohl das Problem.",
+          "originalPage": "media/exams/goethe-a2/practice01/p20.webp",
+          "originalPageImages": [
+            {
+              "page": 20,
+              "src": "media/exams/goethe-a2/practice01/p20.webp"
+            }
+          ]
+        },
+        {
+          "number": 15,
+          "part": 3,
+          "pdfPage": 20,
+          "prompt": "Warum kann der Mann nicht zur Arbeit kommen?",
+          "choices": [
+            "Er ist selbst krank.",
+            "Er muss mit seiner Tochter zum Arzt.",
+            "Er fährt zum Flughafen."
+          ],
+          "choiceLabels": [
+            "a",
+            "b",
+            "c"
+          ],
+          "answer": "Er muss mit seiner Tochter zum Arzt.",
+          "explanation": "患流感的是女儿，他要带女儿看医生；去机场出差的是妻子。",
+          "instruction": "本部分五段短对话，每段播放一次。选择相应图片 a、b 或 c。",
+          "choiceImages": [
+            "media/exams/goethe-a2/practice01/q15-a.webp",
+            "media/exams/goethe-a2/practice01/q15-b.webp",
+            "media/exams/goethe-a2/practice01/q15-c.webp"
+          ],
+          "transcript": "Hallo, Frau Hansen! Hier Larsen. Ich kann heute leider nicht zur Arbeit kommen.\nOh, sind Sie krank?\nMeine Tochter hat eine Grippe und ich muss mit ihr zum Arzt gehen.\nWir haben doch heute den wichtigen Gesprächstermin! Kann das nicht Ihre Frau\nmachen?\nMeine Frau nimmt gleich das Taxi zum Flughafen. Sie muss beruflich für eine\nWoche nach London.",
+          "originalPage": "media/exams/goethe-a2/practice01/p20.webp",
+          "originalPageImages": [
+            {
+              "page": 20,
+              "src": "media/exams/goethe-a2/practice01/p20.webp"
+            }
+          ]
+        },
+        {
+          "number": 16,
+          "part": 4,
+          "pdfPage": 21,
+          "prompt": "Frau Plessing findet es schade, dass ihre Kinder nicht mehr zu Hause wohnen.",
+          "choices": [
+            "Ja",
+            "Nein"
+          ],
+          "choiceLabels": [
+            "J",
+            "N"
+          ],
+          "answer": "Ja",
+          "explanation": "她提到四个孩子都已长大搬出家，并说 Ja, leider，表示遗憾。",
+          "instruction": "本部分是一段采访，播放两次。选择 Ja 或 Nein。",
+          "transcript": "Frau Plessing, Sie und Ihr Mann haben seit einem Jahr das erste\nFamilienhotel in der Stadt. Wie kamen Sie auf diese Idee?\nUnsere vier Kinder sind alle erwachsen und leben nicht mehr bei uns zu\nHause. Ja, leider. Unser Leben war dann plötzlich sehr ruhig.\nAh, Sie wollten wieder Kontakt mit Kindern?\nJa, auch, und wir kennen die Arbeit im Hotel: Mein Mann hat viele Jahre in\neinem Hotel an der Rezeption gearbeitet und ich habe im Hotelrestaurant\ngekocht. Wir dachten, mit unseren Erfahrungen können wir auch selbst ein\nkleines Hotel führen. Wir wollten es versuchen.\nVerstehe.\nJa, und außerdem haben wir auf unseren Reisen gesehen, was in einem\nnormalen Hotel nicht so gut ist, wenn man mit einer großen Familie\nunterwegs ist.\nAha. Und hatten Sie schon viele Gäste?\nHier im Haus gibt es drei Wohnungen mit Küche für Familien, die gern alles\nselbst machen. Die waren von Anfang an fast immer vermietet. Außerdem\nhaben wir drei große Zimmer, die kann man mit Frühstück buchen oder auch\nmit Mittag- und Abendessen. So wie man es braucht.\nAh, ja.\nIn den Sommerferien war das Hotel voll. Jetzt gerade haben wir nicht viele\nReservierungen.\nDann hoffen wir, dass viele Familien unser Gespräch gehört haben und Ihr\nHotel kennenlernen möchten. Alles Gute für Sie!\nVielen Dank!",
+          "originalPage": "media/exams/goethe-a2/practice01/p21.webp",
+          "originalPageImages": [
+            {
+              "page": 21,
+              "src": "media/exams/goethe-a2/practice01/p21.webp"
+            }
+          ]
+        },
+        {
+          "number": 17,
+          "part": 4,
+          "pdfPage": 21,
+          "prompt": "Herr Plessing hat früher als Koch gearbeitet.",
+          "choices": [
+            "Ja",
+            "Nein"
+          ],
+          "choiceLabels": [
+            "J",
+            "N"
+          ],
+          "answer": "Nein",
+          "explanation": "丈夫以前在酒店前台工作，在酒店餐厅做饭的是妻子。",
+          "instruction": "本部分是一段采访，播放两次。选择 Ja 或 Nein。",
+          "transcript": "Frau Plessing, Sie und Ihr Mann haben seit einem Jahr das erste\nFamilienhotel in der Stadt. Wie kamen Sie auf diese Idee?\nUnsere vier Kinder sind alle erwachsen und leben nicht mehr bei uns zu\nHause. Ja, leider. Unser Leben war dann plötzlich sehr ruhig.\nAh, Sie wollten wieder Kontakt mit Kindern?\nJa, auch, und wir kennen die Arbeit im Hotel: Mein Mann hat viele Jahre in\neinem Hotel an der Rezeption gearbeitet und ich habe im Hotelrestaurant\ngekocht. Wir dachten, mit unseren Erfahrungen können wir auch selbst ein\nkleines Hotel führen. Wir wollten es versuchen.\nVerstehe.\nJa, und außerdem haben wir auf unseren Reisen gesehen, was in einem\nnormalen Hotel nicht so gut ist, wenn man mit einer großen Familie\nunterwegs ist.\nAha. Und hatten Sie schon viele Gäste?\nHier im Haus gibt es drei Wohnungen mit Küche für Familien, die gern alles\nselbst machen. Die waren von Anfang an fast immer vermietet. Außerdem\nhaben wir drei große Zimmer, die kann man mit Frühstück buchen oder auch\nmit Mittag- und Abendessen. So wie man es braucht.\nAh, ja.\nIn den Sommerferien war das Hotel voll. Jetzt gerade haben wir nicht viele\nReservierungen.\nDann hoffen wir, dass viele Familien unser Gespräch gehört haben und Ihr\nHotel kennenlernen möchten. Alles Gute für Sie!\nVielen Dank!",
+          "originalPage": "media/exams/goethe-a2/practice01/p21.webp",
+          "originalPageImages": [
+            {
+              "page": 21,
+              "src": "media/exams/goethe-a2/practice01/p21.webp"
+            }
+          ]
+        },
+        {
+          "number": 18,
+          "part": 4,
+          "pdfPage": 21,
+          "prompt": "Herr und Frau Plessing wissen, was Familien im Urlaub brauchen.",
+          "choices": [
+            "Ja",
+            "Nein"
+          ],
+          "choiceLabels": [
+            "J",
+            "N"
+          ],
+          "answer": "Ja",
+          "explanation": "他们既有酒店工作经验，也在全家旅行中了解了普通酒店对大家庭的不足。",
+          "instruction": "本部分是一段采访，播放两次。选择 Ja 或 Nein。",
+          "transcript": "Frau Plessing, Sie und Ihr Mann haben seit einem Jahr das erste\nFamilienhotel in der Stadt. Wie kamen Sie auf diese Idee?\nUnsere vier Kinder sind alle erwachsen und leben nicht mehr bei uns zu\nHause. Ja, leider. Unser Leben war dann plötzlich sehr ruhig.\nAh, Sie wollten wieder Kontakt mit Kindern?\nJa, auch, und wir kennen die Arbeit im Hotel: Mein Mann hat viele Jahre in\neinem Hotel an der Rezeption gearbeitet und ich habe im Hotelrestaurant\ngekocht. Wir dachten, mit unseren Erfahrungen können wir auch selbst ein\nkleines Hotel führen. Wir wollten es versuchen.\nVerstehe.\nJa, und außerdem haben wir auf unseren Reisen gesehen, was in einem\nnormalen Hotel nicht so gut ist, wenn man mit einer großen Familie\nunterwegs ist.\nAha. Und hatten Sie schon viele Gäste?\nHier im Haus gibt es drei Wohnungen mit Küche für Familien, die gern alles\nselbst machen. Die waren von Anfang an fast immer vermietet. Außerdem\nhaben wir drei große Zimmer, die kann man mit Frühstück buchen oder auch\nmit Mittag- und Abendessen. So wie man es braucht.\nAh, ja.\nIn den Sommerferien war das Hotel voll. Jetzt gerade haben wir nicht viele\nReservierungen.\nDann hoffen wir, dass viele Familien unser Gespräch gehört haben und Ihr\nHotel kennenlernen möchten. Alles Gute für Sie!\nVielen Dank!",
+          "originalPage": "media/exams/goethe-a2/practice01/p21.webp",
+          "originalPageImages": [
+            {
+              "page": 21,
+              "src": "media/exams/goethe-a2/practice01/p21.webp"
+            }
+          ]
+        },
+        {
+          "number": 19,
+          "part": 4,
+          "pdfPage": 21,
+          "prompt": "Die Ferienwohnungen im Hotel sind besonders beliebt.",
+          "choices": [
+            "Ja",
+            "Nein"
+          ],
+          "choiceLabels": [
+            "J",
+            "N"
+          ],
+          "answer": "Ja",
+          "explanation": "带厨房的三套家庭公寓从一开始就几乎总是租满，说明很受欢迎。",
+          "instruction": "本部分是一段采访，播放两次。选择 Ja 或 Nein。",
+          "transcript": "Frau Plessing, Sie und Ihr Mann haben seit einem Jahr das erste\nFamilienhotel in der Stadt. Wie kamen Sie auf diese Idee?\nUnsere vier Kinder sind alle erwachsen und leben nicht mehr bei uns zu\nHause. Ja, leider. Unser Leben war dann plötzlich sehr ruhig.\nAh, Sie wollten wieder Kontakt mit Kindern?\nJa, auch, und wir kennen die Arbeit im Hotel: Mein Mann hat viele Jahre in\neinem Hotel an der Rezeption gearbeitet und ich habe im Hotelrestaurant\ngekocht. Wir dachten, mit unseren Erfahrungen können wir auch selbst ein\nkleines Hotel führen. Wir wollten es versuchen.\nVerstehe.\nJa, und außerdem haben wir auf unseren Reisen gesehen, was in einem\nnormalen Hotel nicht so gut ist, wenn man mit einer großen Familie\nunterwegs ist.\nAha. Und hatten Sie schon viele Gäste?\nHier im Haus gibt es drei Wohnungen mit Küche für Familien, die gern alles\nselbst machen. Die waren von Anfang an fast immer vermietet. Außerdem\nhaben wir drei große Zimmer, die kann man mit Frühstück buchen oder auch\nmit Mittag- und Abendessen. So wie man es braucht.\nAh, ja.\nIn den Sommerferien war das Hotel voll. Jetzt gerade haben wir nicht viele\nReservierungen.\nDann hoffen wir, dass viele Familien unser Gespräch gehört haben und Ihr\nHotel kennenlernen möchten. Alles Gute für Sie!\nVielen Dank!",
+          "originalPage": "media/exams/goethe-a2/practice01/p21.webp",
+          "originalPageImages": [
+            {
+              "page": 21,
+              "src": "media/exams/goethe-a2/practice01/p21.webp"
+            }
+          ]
+        },
+        {
+          "number": 20,
+          "part": 4,
+          "pdfPage": 21,
+          "prompt": "Im Hotel gibt es immer viele Gäste.",
+          "choices": [
+            "Ja",
+            "Nein"
+          ],
+          "choiceLabels": [
+            "J",
+            "N"
+          ],
+          "answer": "Nein",
+          "explanation": "暑假酒店住满，但目前预订并不多，不能说一直有很多客人。",
+          "instruction": "本部分是一段采访，播放两次。选择 Ja 或 Nein。",
+          "transcript": "Frau Plessing, Sie und Ihr Mann haben seit einem Jahr das erste\nFamilienhotel in der Stadt. Wie kamen Sie auf diese Idee?\nUnsere vier Kinder sind alle erwachsen und leben nicht mehr bei uns zu\nHause. Ja, leider. Unser Leben war dann plötzlich sehr ruhig.\nAh, Sie wollten wieder Kontakt mit Kindern?\nJa, auch, und wir kennen die Arbeit im Hotel: Mein Mann hat viele Jahre in\neinem Hotel an der Rezeption gearbeitet und ich habe im Hotelrestaurant\ngekocht. Wir dachten, mit unseren Erfahrungen können wir auch selbst ein\nkleines Hotel führen. Wir wollten es versuchen.\nVerstehe.\nJa, und außerdem haben wir auf unseren Reisen gesehen, was in einem\nnormalen Hotel nicht so gut ist, wenn man mit einer großen Familie\nunterwegs ist.\nAha. Und hatten Sie schon viele Gäste?\nHier im Haus gibt es drei Wohnungen mit Küche für Familien, die gern alles\nselbst machen. Die waren von Anfang an fast immer vermietet. Außerdem\nhaben wir drei große Zimmer, die kann man mit Frühstück buchen oder auch\nmit Mittag- und Abendessen. So wie man es braucht.\nAh, ja.\nIn den Sommerferien war das Hotel voll. Jetzt gerade haben wir nicht viele\nReservierungen.\nDann hoffen wir, dass viele Familien unser Gespräch gehört haben und Ihr\nHotel kennenlernen möchten. Alles Gute für Sie!\nVielen Dank!",
+          "originalPage": "media/exams/goethe-a2/practice01/p21.webp",
+          "originalPageImages": [
+            {
+              "page": 21,
+              "src": "media/exams/goethe-a2/practice01/p21.webp"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

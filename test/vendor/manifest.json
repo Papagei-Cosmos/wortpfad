@@ -1,0 +1,24 @@
+{
+  "retrieved": "2026-10-22",
+  "sources": [
+    {
+      "name": "Motion",
+      "version": "14.6.0",
+      "file": "motion-14.6.0.js",
+      "origin": "https://registry.npmjs.org/motion/-/motion-14.6.0.tgz",
+      "integrity": "sha512-qqaZbyubgk7x3zxjPgP1l3Br/KQXol/IIV1uqb358SoN4ApcqNuV7+wyDPg/XLErmuyQL5lL8JVI/fOmDsmBKQ==",
+      "license": "MIT",
+      "modified": false,
+      "sha256": "5cd165acfdf8e14ca5358c3d876142e5465419ee0d100bcf195da474cf8db2bf"
+    },
+    {
+      "name": "ZzFX",
+      "version": "1.4.0",
+      "file": "zzfx.js",
+      "origin": "https://github.com/KilledByAPixel/ZzFX/blob/master/ZzFX.js",
+      "license": "MIT",
+      "modified": "audioContext initialized to null; only offline buildSamples used",
+      "sha256": "d15fa05ea26e3f93395d4399f76bb7bcc31402260ba4f872496d5e7b2d612a38"
+    }
+  ]
+}

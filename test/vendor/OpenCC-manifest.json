@@ -1,0 +1,19 @@
+{
+  "repository": "BYVoid/OpenCC",
+  "revision": "bcf847cf3fbd79c74779567f9a491ea8ab878183",
+  "license": "Apache-2.0; see LICENSE",
+  "files": {
+    "TSCharacters.txt": {
+      "url": "https://raw.githubusercontent.com/BYVoid/OpenCC/bcf847cf3fbd79c74779567f9a491ea8ab878183/data/dictionary/TSCharacters.txt",
+      "sha256": "9ff46a7d30e5765375eb13d33f2b03a34d298913caf2b120380679f33ae1642d"
+    },
+    "TSPhrases.txt": {
+      "url": "https://raw.githubusercontent.com/BYVoid/OpenCC/bcf847cf3fbd79c74779567f9a491ea8ab878183/data/dictionary/TSPhrases.txt",
+      "sha256": "9a23666e95c97dbf8668b5d71ca19f09f33b4f3a3aa9e05677dab4b608cef102"
+    },
+    "LICENSE": {
+      "url": "https://raw.githubusercontent.com/BYVoid/OpenCC/bcf847cf3fbd79c74779567f9a491ea8ab878183/LICENSE",
+      "sha256": "b534e465949558eec2597b04f5092b5e161236a68dfbfd04d547592ac3964308"
+    }
+  }
+}

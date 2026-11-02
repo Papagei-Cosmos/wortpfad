@@ -1,0 +1,70 @@
+{
+  "generatedAt": "2026-10-22T14:03:25.127Z",
+  "engine": "ZzFX 1.4.0",
+  "source": "https://github.com/KilledByAPixel/ZzFX",
+  "license": "MIT",
+  "sounds": {
+    "click-random90": {
+      "params": [
+        1.2,
+        null,
+        575,
+        0.39,
+        0.02,
+        0.06,
+        3,
+        1.9,
+        -28,
+        -1,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        0.07,
+        0.71
+      ],
+      "defaultSlotsUseUndefined": true,
+      "renderSeed": 90,
+      "engineVolume": 0.3,
+      "duration": 0.54,
+      "peak": 0.2828735411167145,
+      "sha256": "c8fe1407fa2191e840f8d2e1ab4006e3e687ff9432abe3428d119c76c07bb66c"
+    },
+    "error-random82": {
+      "params": [
+        null,
+        null,
+        436,
+        0.46,
+        0.08,
+        0.01,
+        null,
+        2.7,
+        -1,
+        null,
+        -409,
+        0.57,
+        null,
+        null,
+        null,
+        null,
+        null,
+        0.56,
+        0.02
+      ],
+      "defaultSlotsUseUndefined": true,
+      "renderSeed": 82,
+      "engineVolume": 0.3,
+      "duration": 0.57,
+      "peak": 0.2990941822528839,
+      "sha256": "a3880fcbe968f57ea845628f42778af6540f9294cb190fd73638a4cac264c032"
+    },
+    "success": {
+      "sourceFile": "User upload: pickupCoin (1).wav",
+      "unchanged": true,
+      "sha256": "8c3495602fc5386c49cf6a704c8bd05253e7da68b6f0b188f481d6fee428ceeb"
+    }
+  }
+}

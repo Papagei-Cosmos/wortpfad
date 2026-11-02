@@ -1,0 +1,437 @@
+{
+  "sourcePackages": [
+    {
+      "id": "a2",
+      "level": "A2",
+      "filename": "Goethe_Institute_A2_Wordlist-1.apk.1g",
+      "sha256": "e1daa1276f95abf97542e718cf01710f92dbb72185b3f59bed73032e254dcac8",
+      "recordCount": 1880,
+      "cardCount": 3760,
+      "mediaFiles": 3760
+    },
+    {
+      "id": "b1",
+      "level": "B1",
+      "filename": "Goethe_Institute_B1_Wordlist_-_NemakiSrpski_3000_cards.apk.1g",
+      "sha256": "702f9c527eafa8591008b869c20a101eb064a322025598b848928aee166a35ee",
+      "recordCount": 3199,
+      "cardCount": 6398,
+      "mediaFiles": 3158
+    },
+    {
+      "id": "b2-goethe",
+      "level": "B2",
+      "filename": "Goethe_Zertifikat_B2.apk.1g",
+      "sha256": "61aeea3e302721ec9bd8a2da3f22f6ff7eec055132449909c18e2e94335bc235",
+      "recordCount": 9,
+      "cardCount": 9,
+      "mediaFiles": 0
+    },
+    {
+      "id": "b2-extra",
+      "level": "B2",
+      "filename": "_B2C14681_.apk.1g",
+      "sha256": "3cf43e01b6cab2748c65002b8a8101de104a0b1ade71dc409e3cd46bf0052d87",
+      "recordCount": 4681,
+      "cardCount": 9362,
+      "mediaFiles": 11127
+    }
+  ],
+  "levels": {
+    "A2": {
+      "entries": 1215,
+      "practiceEntries": 1215,
+      "chineseEntries": 1215,
+      "examples": 1922,
+      "translatedExamples": 1922,
+      "savedWordAudio": 1215,
+      "savedExampleAudio": 1922,
+      "conjugationTables": 296,
+      "missingChinese": [],
+      "excluded": []
+    },
+    "B1": {
+      "entries": 3164,
+      "practiceEntries": 3115,
+      "chineseEntries": 3164,
+      "examples": 4692,
+      "translatedExamples": 4692,
+      "savedWordAudio": 3164,
+      "savedExampleAudio": 4692,
+      "conjugationTables": 744,
+      "missingChinese": [],
+      "excluded": [
+        {
+          "lemma": "all-",
+          "reason": [
+            "导入原文、机器译文及词形待人工核对",
+            "词干或待规范表达未作为拼写标准答案"
+          ]
+        },
+        {
+          "lemma": "aller-",
+          "reason": [
+            "导入原文、机器译文及词形待人工核对",
+            "词干或待规范表达未作为拼写标准答案"
+          ]
+        },
+        {
+          "lemma": "ander-",
+          "reason": [
+            "导入原文、机器译文及词形待人工核对",
+            "词干或待规范表达未作为拼写标准答案"
+          ]
+        },
+        {
+          "lemma": "-arm",
+          "reason": [
+            "导入原文、机器译文及词形待人工核对",
+            "词干或待规范表达未作为拼写标准答案"
+          ]
+        },
+        {
+          "lemma": "beid-",
+          "reason": [
+            "导入原文、机器译文及词形待人工核对",
+            "词干或待规范表达未作为拼写标准答案"
+          ]
+        },
+        {
+          "lemma": "besonder-",
+          "reason": [
+            "导入原文、机器译文及词形待人工核对",
+            "词干或待规范表达未作为拼写标准答案"
+          ]
+        },
+        {
+          "lemma": "Bio-",
+          "reason": [
+            "导入原文、机器译文及词形待人工核对",
+            "词干或待规范表达未作为拼写标准答案"
+          ]
+        },
+        {
+          "lemma": "Na ovom jezeru se mogu iznajmiti čamci.",
+          "reason": [
+            "导入原文、机器译文及词形待人工核对",
+            "词干或待规范表达未作为拼写标准答案"
+          ]
+        },
+        {
+          "lemma": "dies-",
+          "reason": [
+            "导入原文、机器译文及词形待人工核对",
+            "词干或待规范表达未作为拼写标准答案"
+          ]
+        },
+        {
+          "lemma": "Doppel-",
+          "reason": [
+            "导入原文、机器译文及词形待人工核对",
+            "词干或待规范表达未作为拼写标准答案"
+          ]
+        },
+        {
+          "lemma": "eigen-",
+          "reason": [
+            "导入原文、机器译文及词形待人工核对",
+            "词干或待规范表达未作为拼写标准答案"
+          ]
+        },
+        {
+          "lemma": "ein-",
+          "reason": [
+            "导入原文、机器译文及词形待人工核对",
+            "词干或待规范表达未作为拼写标准答案"
+          ]
+        },
+        {
+          "lemma": "einig-",
+          "reason": [
+            "导入原文、机器译文及词形待人工核对",
+            "词干或待规范表达未作为拼写标准答案"
+          ]
+        },
+        {
+          "lemma": "Einzel-",
+          "reason": [
+            "导入原文、机器译文及词形待人工核对",
+            "词干或待规范表达未作为拼写标准答案"
+          ]
+        },
+        {
+          "lemma": "Elektro-",
+          "reason": [
+            "导入原文、机器译文及词形待人工核对",
+            "词干或待规范表达未作为拼写标准答案"
+          ]
+        },
+        {
+          "lemma": "erst-",
+          "reason": [
+            "导入原文、机器译文及词形待人工核对",
+            "词干或待规范表达未作为拼写标准答案"
+          ]
+        },
+        {
+          "lemma": "Ferien-",
+          "reason": [
+            "导入原文、机器译文及词形待人工核对",
+            "词干或待规范表达未作为拼写标准答案"
+          ]
+        },
+        {
+          "lemma": "-frei",
+          "reason": [
+            "导入原文、机器译文及词形待人工核对",
+            "词干或待规范表达未作为拼写标准答案"
+          ]
+        },
+        {
+          "lemma": "gesamt-",
+          "reason": [
+            "导入原文、机器译文及词形待人工核对",
+            "词干或待规范表达未作为拼写标准答案"
+          ]
+        },
+        {
+          "lemma": "Groß-",
+          "reason": [
+            "导入原文、机器译文及词形待人工核对",
+            "词干或待规范表达未作为拼写标准答案"
+          ]
+        },
+        {
+          "lemma": "herein-",
+          "reason": [
+            "导入原文、机器译文及词形待人工核对",
+            "词干或待规范表达未作为拼写标准答案"
+          ]
+        },
+        {
+          "lemma": "heutig-",
+          "reason": [
+            "导入原文、机器译文及词形待人工核对",
+            "词干或待规范表达未作为拼写标准答案"
+          ]
+        },
+        {
+          "lemma": "inner-",
+          "reason": [
+            "导入原文、机器译文及词形待人工核对",
+            "词干或待规范表达未作为拼写标准答案"
+          ]
+        },
+        {
+          "lemma": "kein-",
+          "reason": [
+            "导入原文、机器译文及词形待人工核对",
+            "词干或待规范表达未作为拼写标准答案"
+          ]
+        },
+        {
+          "lemma": "Kriminal-",
+          "reason": [
+            "导入原文、机器译文及词形待人工核对",
+            "词干或待规范表达未作为拼写标准答案"
+          ]
+        },
+        {
+          "lemma": "letzt-",
+          "reason": [
+            "导入原文、机器译文及词形待人工核对",
+            "词干或待规范表达未作为拼写标准答案"
+          ]
+        },
+        {
+          "lemma": "Lieblings-",
+          "reason": [
+            "导入原文、机器译文及词形待人工核对",
+            "词干或待规范表达未作为拼写标准答案"
+          ]
+        },
+        {
+          "lemma": "link-",
+          "reason": [
+            "导入原文、机器译文及词形待人工核对",
+            "词干或待规范表达未作为拼写标准答案"
+          ]
+        },
+        {
+          "lemma": "manch-",
+          "reason": [
+            "导入原文、机器译文及词形待人工核对",
+            "词干或待规范表达未作为拼写标准答案"
+          ]
+        },
+        {
+          "lemma": "meist-",
+          "reason": [
+            "导入原文、机器译文及词形待人工核对",
+            "词干或待规范表达未作为拼写标准答案"
+          ]
+        },
+        {
+          "lemma": "miss-",
+          "reason": [
+            "导入原文、机器译文及词形待人工核对",
+            "词干或待规范表达未作为拼写标准答案"
+          ]
+        },
+        {
+          "lemma": "mittler-",
+          "reason": [
+            "导入原文、机器译文及词形待人工核对",
+            "词干或待规范表达未作为拼写标准答案"
+          ]
+        },
+        {
+          "lemma": "nächst-",
+          "reason": [
+            "导入原文、机器译文及词形待人工核对",
+            "词干或待规范表达未作为拼写标准答案"
+          ]
+        },
+        {
+          "lemma": "mittler-",
+          "reason": [
+            "导入原文、机器译文及词形待人工核对",
+            "词干或待规范表达未作为拼写标准答案"
+          ]
+        },
+        {
+          "lemma": "ober-",
+          "reason": [
+            "导入原文、机器译文及词形待人工核对",
+            "词干或待规范表达未作为拼写标准答案"
+          ]
+        },
+        {
+          "lemma": "Öko-",
+          "reason": [
+            "导入原文、机器译文及词形待人工核对",
+            "词干或待规范表达未作为拼写标准答案"
+          ]
+        },
+        {
+          "lemma": "recht-",
+          "reason": [
+            "导入原文、机器译文及词形待人工核对",
+            "词干或待规范表达未作为拼写标准答案"
+          ]
+        },
+        {
+          "lemma": "Schwieger-",
+          "reason": [
+            "导入原文、机器译文及词形待人工核对",
+            "词干或待规范表达未作为拼写标准答案"
+          ]
+        },
+        {
+          "lemma": "selb-",
+          "reason": [
+            "导入原文、机器译文及词形待人工核对",
+            "词干或待规范表达未作为拼写标准答案"
+          ]
+        },
+        {
+          "lemma": "sogenannt-",
+          "reason": [
+            "导入原文、机器译文及词形待人工核对",
+            "词干或待规范表达未作为拼写标准答案"
+          ]
+        },
+        {
+          "lemma": "solch-",
+          "reason": [
+            "导入原文、机器译文及词形待人工核对",
+            "词干或待规范表达未作为拼写标准答案"
+          ]
+        },
+        {
+          "lemma": "Speise-",
+          "reason": [
+            "导入原文、机器译文及词形待人工核对",
+            "词干或待规范表达未作为拼写标准答案"
+          ]
+        },
+        {
+          "lemma": "Spezial-",
+          "reason": [
+            "导入原文、机器译文及词形待人工核对",
+            "词干或待规范表达未作为拼写标准答案"
+          ]
+        },
+        {
+          "lemma": "Traum-",
+          "reason": [
+            "导入原文、机器译文及词形待人工核对",
+            "词干或待规范表达未作为拼写标准答案"
+          ]
+        },
+        {
+          "lemma": "un-",
+          "reason": [
+            "导入原文、机器译文及词形待人工核对",
+            "词干或待规范表达未作为拼写标准答案"
+          ]
+        },
+        {
+          "lemma": "unter-",
+          "reason": [
+            "导入原文、机器译文及词形待人工核对",
+            "词干或待规范表达未作为拼写标准答案"
+          ]
+        },
+        {
+          "lemma": "vorder-",
+          "reason": [
+            "导入原文、机器译文及词形待人工核对",
+            "词干或待规范表达未作为拼写标准答案"
+          ]
+        },
+        {
+          "lemma": "was für ein-",
+          "reason": [
+            "导入原文、机器译文及词形待人工核对",
+            "词干或待规范表达未作为拼写标准答案"
+          ]
+        },
+        {
+          "lemma": "-weise",
+          "reason": [
+            "导入原文、机器译文及词形待人工核对",
+            "词干或待规范表达未作为拼写标准答案"
+          ]
+        }
+      ]
+    },
+    "B2": {
+      "entries": 2366,
+      "practiceEntries": 2366,
+      "chineseEntries": 2366,
+      "examples": 2873,
+      "translatedExamples": 2873,
+      "savedWordAudio": 2366,
+      "savedExampleAudio": 2873,
+      "conjugationTables": 580,
+      "missingChinese": [],
+      "excluded": []
+    },
+    "C1": {
+      "entries": 2324,
+      "practiceEntries": 2324,
+      "chineseEntries": 2324,
+      "examples": 2695,
+      "translatedExamples": 2695,
+      "savedWordAudio": 2324,
+      "savedExampleAudio": 2695,
+      "conjugationTables": 538,
+      "missingChinese": [],
+      "excluded": []
+    }
+  },
+  "entries": 9069,
+  "rawRecords": 9769,
+  "humanReviewed": 0
+}

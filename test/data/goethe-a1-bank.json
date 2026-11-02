@@ -1,0 +1,1630 @@
+{
+  "version": 1,
+  "revision": "2026-10-26.1",
+  "description": "用户提供的三套歌德 A1 样题与练习卷；题干、选项、材料和参考答案按原卷录入，中文解析为词间补充。不包括写作、口语，不与语法原创题混称。",
+  "papers": [
+    {
+      "id": "model",
+      "level": "A1",
+      "title": "歌德 A1 · 样题",
+      "de": "Modellsatz",
+      "source": "Goethe-Institut · Start Deutsch 1",
+      "pdfFile": "sd_1_modellsatz.pdf",
+      "audioFile": "sd1_modellsatz-v7.mp4",
+      "audio": "media/exams/goethe-a1/model.m4a",
+      "duration": 1028.597007,
+      "reading": [
+        {
+          "number": 1,
+          "part": 1,
+          "pdfPage": 16,
+          "prompt": "Lis Zug kommt nach halb eins an.",
+          "materials": [
+            {
+              "title": "E-Mail von Karin",
+              "text": "Hallo Li,\ndanke für deine Mail. Dein Zug kommt hier in Hannover um 12.36 Uhr an. Ich bin ab 12.15 Uhr im Hauptbahnhof und warte auf dich vor der Auskunft.\nDu kannst mich den ganzen Vormittag auf meinem Handy (++49 173 62 205 59) erreichen.\nDeine Karin"
+            }
+          ],
+          "choices": [
+            "Richtig",
+            "Falsch"
+          ],
+          "answer": "Richtig",
+          "explanation": "halb eins 是 12:30；列车 12:36 到达，确实在 12:30 之后。",
+          "originalPage": "media/exams/goethe-a1/model/p16.webp"
+        },
+        {
+          "number": 2,
+          "part": 1,
+          "pdfPage": 16,
+          "prompt": "Karin wartet den ganzen Vormittag vor der Auskunft.",
+          "materials": [
+            {
+              "title": "E-Mail von Karin",
+              "text": "Hallo Li,\ndanke für deine Mail. Dein Zug kommt hier in Hannover um 12.36 Uhr an. Ich bin ab 12.15 Uhr im Hauptbahnhof und warte auf dich vor der Auskunft.\nDu kannst mich den ganzen Vormittag auf meinem Handy (++49 173 62 205 59) erreichen.\nDeine Karin"
+            }
+          ],
+          "choices": [
+            "Richtig",
+            "Falsch"
+          ],
+          "answer": "Falsch",
+          "explanation": "Karin 从 12:15 才开始在车站等候；整个上午可通过手机联系，不代表整个上午都在问讯处等待。",
+          "originalPage": "media/exams/goethe-a1/model/p16.webp"
+        },
+        {
+          "number": 3,
+          "part": 1,
+          "pdfPage": 17,
+          "prompt": "Ralf hatte am letzten Wochenende Geburtstag.",
+          "materials": [
+            {
+              "title": "Einladung von Ralf",
+              "text": "Liebe Carmen,\nam kommenden Sonntag habe ich Geburtstag. Ich möchte gerne mit dir feiern und lade dich herzlich zu meiner Party am Samstagabend ein. Wir fangen um 21 Uhr an. Ist das okay für dich? Es werden viele Leute da sein, die du auch kennst.\nKannst du vielleicht einen Salat mitbringen? Und vergiss bitte nicht einen Pullover oder eine Jacke! Wir wollen nämlich draußen im Garten feiern.\nIch freue mich sehr auf dich!\nBis zum Wochenende\nRalf"
+            }
+          ],
+          "choices": [
+            "Richtig",
+            "Falsch"
+          ],
+          "answer": "Falsch",
+          "explanation": "生日是 kommenden Sonntag，即即将到来的星期日，不是上周末。",
+          "originalPage": "media/exams/goethe-a1/model/p17.webp"
+        },
+        {
+          "number": 4,
+          "part": 1,
+          "pdfPage": 17,
+          "prompt": "Ralf hat nur zwei oder drei Leute eingeladen.",
+          "materials": [
+            {
+              "title": "Einladung von Ralf",
+              "text": "Liebe Carmen,\nam kommenden Sonntag habe ich Geburtstag. Ich möchte gerne mit dir feiern und lade dich herzlich zu meiner Party am Samstagabend ein. Wir fangen um 21 Uhr an. Ist das okay für dich? Es werden viele Leute da sein, die du auch kennst.\nKannst du vielleicht einen Salat mitbringen? Und vergiss bitte nicht einen Pullover oder eine Jacke! Wir wollen nämlich draußen im Garten feiern.\nIch freue mich sehr auf dich!\nBis zum Wochenende\nRalf"
+            }
+          ],
+          "choices": [
+            "Richtig",
+            "Falsch"
+          ],
+          "answer": "Falsch",
+          "explanation": "信中写 Es werden viele Leute da sein，来的人很多，并非只有两三人。",
+          "originalPage": "media/exams/goethe-a1/model/p17.webp"
+        },
+        {
+          "number": 5,
+          "part": 1,
+          "pdfPage": 17,
+          "prompt": "Die Party findet draußen statt.",
+          "materials": [
+            {
+              "title": "Einladung von Ralf",
+              "text": "Liebe Carmen,\nam kommenden Sonntag habe ich Geburtstag. Ich möchte gerne mit dir feiern und lade dich herzlich zu meiner Party am Samstagabend ein. Wir fangen um 21 Uhr an. Ist das okay für dich? Es werden viele Leute da sein, die du auch kennst.\nKannst du vielleicht einen Salat mitbringen? Und vergiss bitte nicht einen Pullover oder eine Jacke! Wir wollen nämlich draußen im Garten feiern.\nIch freue mich sehr auf dich!\nBis zum Wochenende\nRalf"
+            }
+          ],
+          "choices": [
+            "Richtig",
+            "Falsch"
+          ],
+          "answer": "Richtig",
+          "explanation": "信中明确说 draußen im Garten feiern，在室外花园庆祝。",
+          "originalPage": "media/exams/goethe-a1/model/p17.webp"
+        },
+        {
+          "number": 6,
+          "part": 2,
+          "pdfPage": 18,
+          "prompt": "Sie möchten mit dem Schiff auf dem Rhein fahren.",
+          "materials": [
+            {
+              "title": "a · www.schiff-ruedesheim.de",
+              "text": "Hotel – Pension „Schiff“\nEinzel- und Doppelzimmer mit Dusche / WC\nRestaurant mit Rhein-Terrasse"
+            },
+            {
+              "title": "b · www.bingen-ruedesheimer.de",
+              "text": "Bingen-Rüdesheimer Rheinschiffe\ntäglich von Rüdesheim nach Koblenz\nalle Abfahrtszeiten und Preise"
+            }
+          ],
+          "choices": [
+            "www.schiff-ruedesheim.de",
+            "www.bingen-ruedesheimer.de"
+          ],
+          "answer": "www.bingen-ruedesheimer.de",
+          "explanation": "b 是莱茵河游船，列出航线、发船时间与票价；a 的 Schiff 是酒店名称。",
+          "originalPage": "media/exams/goethe-a1/model/p18.webp"
+        },
+        {
+          "number": 7,
+          "part": 2,
+          "pdfPage": 19,
+          "prompt": "Sie möchten Deutsch in Deutschland lernen.",
+          "materials": [
+            {
+              "title": "a · www.sprachenfuchs.de",
+              "text": "Sprachinstitut Fuchs\nDresden, Prager Str. 4\nDeutsch · Englisch · Französisch · Russisch\nDie Schule · Die Kurse · Die Preise · Kontakt"
+            },
+            {
+              "title": "b · www.eviva.com",
+              "text": "Eviva-Idiomas\nSprachkurse für Deutsche\nSpanisch auf Mallorca\nEnglisch auf Malta\nUnsere Preise · Unser Unterricht · Buchungen"
+            }
+          ],
+          "choices": [
+            "www.sprachenfuchs.de",
+            "www.eviva.com"
+          ],
+          "answer": "www.sprachenfuchs.de",
+          "explanation": "a 在德国德累斯顿提供德语课程；b 面向德国人提供海外西班牙语和英语课程。",
+          "originalPage": "media/exams/goethe-a1/model/p19.webp"
+        },
+        {
+          "number": 8,
+          "part": 2,
+          "pdfPage": 19,
+          "prompt": "Sie möchten ein Zugticket im Internet kaufen.",
+          "materials": [
+            {
+              "title": "a · www.DER.com",
+              "text": "Deutsches Reisebüro\nTicketbestellungen und Reservierungen für Flüge weltweit, Deutsche Bahn, Eurobus\n24-Stunden-Service"
+            },
+            {
+              "title": "b · www.RED.com",
+              "text": "Reisedienst GmbH\nTicketservice für Theater, Konzerte, Busreisen in Deutschland und nach Polen, Tschechien und Ungarn"
+            }
+          ],
+          "choices": [
+            "www.DER.com",
+            "www.RED.com"
+          ],
+          "answer": "www.DER.com",
+          "explanation": "a 明确包含 Deutsche Bahn 铁路票；b 提供剧院、音乐会和巴士旅行票务。",
+          "originalPage": "media/exams/goethe-a1/model/p19.webp"
+        },
+        {
+          "number": 9,
+          "part": 2,
+          "pdfPage": 20,
+          "prompt": "Sie möchten Informationen über den Bodensee.",
+          "materials": [
+            {
+              "title": "a · www.bodensee.de",
+              "text": "Touristeninformation\nUrlaubsorte · Ferienwohnungen · Hotelservice · Rundreisen\nBodensee"
+            },
+            {
+              "title": "b · www.rottenmeier.de",
+              "text": "Hans Rottenmeier\nFerienwohnungen am Bodensee\nHäuser · Preise · Kontakt"
+            }
+          ],
+          "choices": [
+            "www.bodensee.de",
+            "www.rottenmeier.de"
+          ],
+          "answer": "www.bodensee.de",
+          "explanation": "a 是博登湖旅游信息门户；b 主要介绍个人经营的度假住房。",
+          "originalPage": "media/exams/goethe-a1/model/p20.webp"
+        },
+        {
+          "number": 10,
+          "part": 2,
+          "pdfPage": 20,
+          "prompt": "Sie sind in Wiesbaden und möchten mit dem Zug am Mittag in Hamburg sein.",
+          "materials": [
+            {
+              "title": "a · Reiseauskunft",
+              "text": "Hamburg ab 17.02. 12.18\nWiesbaden an 17.02. 16.52\nDauer 4:34 · 1 Umstieg · ICE, S"
+            },
+            {
+              "title": "b · Reiseauskunft",
+              "text": "Wiesbaden ab 17.02. 08.09\nHamburg an 17.02. 12.40\nDauer 4:31 · 1 Umstieg · S, ICE"
+            }
+          ],
+          "choices": [
+            "a · Hamburg → Wiesbaden",
+            "b · Wiesbaden → Hamburg"
+          ],
+          "answer": "b · Wiesbaden → Hamburg",
+          "explanation": "b 从 Wiesbaden 出发，12:40 到 Hamburg；a 的方向相反。",
+          "originalPage": "media/exams/goethe-a1/model/p20.webp"
+        },
+        {
+          "number": 11,
+          "part": 3,
+          "pdfPage": 21,
+          "prompt": "In der Sprachschule können Sie etwas zu essen kaufen.",
+          "materials": [
+            {
+              "title": "In der Sprachschule",
+              "text": "In der 10-Uhr-Pause bekommen Sie an der Rezeption ein Frühstückspaket:\nBelegte Brötchen und Getränke für 2 Euro."
+            }
+          ],
+          "choices": [
+            "Richtig",
+            "Falsch"
+          ],
+          "answer": "Richtig",
+          "explanation": "学校在十点休息时出售包含三明治和饮料的早餐包，价格为 2 欧元。",
+          "originalPage": "media/exams/goethe-a1/model/p21.webp"
+        },
+        {
+          "number": 12,
+          "part": 3,
+          "pdfPage": 22,
+          "prompt": "Es ist Samstagnachmittag. Sie können auf der Post Briefmarken kaufen.",
+          "materials": [
+            {
+              "title": "An der Post",
+              "text": "Öffnungszeiten:\nmontags – freitags 8.00 – 12.00 und 13.00 – 18.00\nsamstags 8.00 – 12.00"
+            }
+          ],
+          "choices": [
+            "Richtig",
+            "Falsch"
+          ],
+          "answer": "Falsch",
+          "explanation": "星期六仅 8:00–12:00 营业，下午不能在此购买邮票。",
+          "originalPage": "media/exams/goethe-a1/model/p22.webp"
+        },
+        {
+          "number": 13,
+          "part": 3,
+          "pdfPage": 22,
+          "prompt": "Sie können hier Zigaretten rauchen.",
+          "materials": [
+            {
+              "title": "Am Bahnhof",
+              "text": "Auf dem gesamten Bahnhof ist das Rauchen verboten."
+            }
+          ],
+          "choices": [
+            "Richtig",
+            "Falsch"
+          ],
+          "answer": "Falsch",
+          "explanation": "告示明确说明整个车站禁烟。",
+          "originalPage": "media/exams/goethe-a1/model/p22.webp"
+        },
+        {
+          "number": 14,
+          "part": 3,
+          "pdfPage": 23,
+          "prompt": "Heute Abend können Sie in diesem Restaurant tanzen.",
+          "materials": [
+            {
+              "title": "Eingang Restaurant",
+              "text": "Heute im Bavaria:\nBayerischer Abend\nBrezeln, Weißwürste, Sauerkraut\nVolksmusik, ab 20 Uhr Tanz"
+            }
+          ],
+          "choices": [
+            "Richtig",
+            "Falsch"
+          ],
+          "answer": "Richtig",
+          "explanation": "告示写 ab 20 Uhr Tanz，晚上八点起可以跳舞。",
+          "originalPage": "media/exams/goethe-a1/model/p23.webp"
+        },
+        {
+          "number": 15,
+          "part": 3,
+          "pdfPage": 23,
+          "prompt": "Von 23 Uhr bis 1 Uhr fährt kein Bus.",
+          "materials": [
+            {
+              "title": "An der Haltestelle",
+              "text": "In der Neujahrsnacht\nBusverkehr bis 23.00 Uhr\nund von 1.00 Uhr bis 5.00 Uhr alle 30 Minuten"
+            }
+          ],
+          "choices": [
+            "Richtig",
+            "Falsch"
+          ],
+          "answer": "Richtig",
+          "explanation": "巴士运营至 23:00，凌晨 1:00 才恢复，23:00–1:00 之间没有班次。",
+          "originalPage": "media/exams/goethe-a1/model/p23.webp"
+        }
+      ],
+      "listening": [
+        {
+          "number": 1,
+          "part": 1,
+          "pdfPage": 9,
+          "prompt": "Was kostet der Pullover?",
+          "choices": [
+            "Dreißig Euro.",
+            "Fünfundneunzig Euro.",
+            "Neunzehn Euro fünfundneunzig Cent."
+          ],
+          "answer": "Neunzehn Euro fünfundneunzig Cent.",
+          "explanation": "卖方最终确认价格为 19,95 欧元；30 是折扣百分比相关的干扰信息。",
+          "transcript": "Kunde: Entschuldigung, was kostet dieser\nPullover jetzt? Da steht 30 Prozent billiger.\nVerkäuferin: Einen Moment bitte …\nneunzehnfünfund neunzig.\nKunde: 19,95 Euro?\nVerkäuferin: Ja, Euro natürlich.\nKunde: Hm, … ok, den nehme ich.",
+          "originalPage": "media/exams/goethe-a1/model/p9.webp"
+        },
+        {
+          "number": 2,
+          "part": 1,
+          "pdfPage": 9,
+          "prompt": "Wie spät ist es?",
+          "choices": [
+            "15 Uhr.",
+            "Gleich 5 Uhr.",
+            "Halb 5 Uhr."
+          ],
+          "answer": "Gleich 5 Uhr.",
+          "explanation": "路人回答 jetzt ist es gleich 5 Uhr，即快到五点，不是四点半。",
+          "transcript": "Passant: Ach, entschuldigen Sie bitte.\nPassantin: Ja bitte.\nPassant: Haben Sie eine Uhr? …\nWie spät ist es bitte?\nPassantin: Ja – jetzt ist es gleich 5 Uhr.\nPassant: Was, schon 5. Vielen Dank,\nWiedersehen.",
+          "originalPage": "media/exams/goethe-a1/model/p9.webp"
+        },
+        {
+          "number": 3,
+          "part": 1,
+          "pdfPage": 9,
+          "prompt": "Was isst die Frau im Restaurant?",
+          "choices": [
+            "Pommes.",
+            "Fisch.",
+            "Wurst."
+          ],
+          "answer": "Pommes.",
+          "explanation": "沙拉售罄，她不吃肉，最后决定点 Pommes（薯条）。",
+          "transcript": "Kellner: Was wünschen Sie bitte?\nGast: Ich hätte gern die Salatplatte und\nein ...\nKellner: Entschuldigung, die Salatplatte ist\nleider aus, aber die Bratwurst kann ich\nIhnen empfehlen … ganz frisch heute.\nGast: Nein danke ... ich esse kein Fleisch.\nGibt es etwas ohne Fleisch?\nKellner: Ja ... nicht mehr viel: Fisch oder ...\nPommes.\nGast: Fisch ... hm ... Tja, dann wohl die\nPommes.",
+          "originalPage": "media/exams/goethe-a1/model/p9.webp"
+        },
+        {
+          "number": 4,
+          "part": 1,
+          "pdfPage": 10,
+          "prompt": "In welche Klasse geht Frau Hegers Sohn?",
+          "choices": [
+            "In die neunte Klasse.",
+            "In die dritte Klasse.",
+            "In die vierte Klasse."
+          ],
+          "answer": "In die dritte Klasse.",
+          "explanation": "孩子九岁，但问的是年级；母亲明确说 dritte Klasse（三年级）。",
+          "transcript": "Kollege: Haben Sie Kinder, Frau Heger?\nKollegin: Ja, einen Sohn.\nKollege: Und wie alt ist er?\nKollegin: Neun Jahre ... seit gestern.\nKollege: Ah, dann geht er ja schon zur\nSchule?\nKollegin: Ja klar, schon in die dritte Klasse.",
+          "originalPage": "media/exams/goethe-a1/model/p10.webp"
+        },
+        {
+          "number": 5,
+          "part": 1,
+          "pdfPage": 10,
+          "prompt": "Wie kommt die Frau in den 2. Stock?",
+          "choices": [
+            "Mit dem Aufzug.",
+            "Auf der Treppe um die Ecke.",
+            "Mit der Rolltreppe."
+          ],
+          "answer": "Mit dem Aufzug.",
+          "explanation": "自动扶梯坏了，售货员建议右转后乘 Aufzug（电梯）。",
+          "transcript": "Kundin: Ach, entschuldigen Sie, wie\nkomme ich denn hier in den zweiten\nStock?\nDie Rolltreppe da vorn ist kaputt.\nVerkäufer: Da gehen Sie hier rechts um die\nEcke und nehmen den Aufzug.\nKundin: Um die Ecke rechts. Danke.",
+          "originalPage": "media/exams/goethe-a1/model/p10.webp"
+        },
+        {
+          "number": 6,
+          "part": 1,
+          "pdfPage": 10,
+          "prompt": "Wohin fährt Herr Albers?",
+          "choices": [
+            "In Urlaub ans Meer.",
+            "Zur Arbeit.",
+            "Zur Familie."
+          ],
+          "answer": "Zur Familie.",
+          "explanation": "他说去波兰看亲戚：Zu meinen Verwandten nach Polen。",
+          "transcript": "Kollegin: Guten Morgen, Herr Albers.\nSo früh schon bei der Arbeit?\nKollege: Ja, ich habe noch viel zu tun.\nMorgen fahre ich doch für 3 Wochen weg.\nKollegin: Ach ja, das hab‘ ich vergessen.\nWohin fahren Sie denn?\nKollege: Zu meinen Verwandten nach\nPolen.\nKollegin: Na dann ... schöne Zeit.",
+          "originalPage": "media/exams/goethe-a1/model/p10.webp"
+        },
+        {
+          "number": 7,
+          "part": 2,
+          "pdfPage": 11,
+          "prompt": "Die Kunden sollen die Weihnachtsfeier besuchen.",
+          "choices": [
+            "Richtig",
+            "Falsch"
+          ],
+          "answer": "Falsch",
+          "explanation": "这是圣诞节商品特价广告，邀请顾客到三楼购物，不是参加圣诞聚会。",
+          "transcript": "Liebe Kunden, zu Weihnachten bieten wir\nIhnen Superpreise an … z. B. erstklassiger\nitalienischer Weißwein für 12 Euro 78 die\nFlasche oder exklusiver argentinischer\nRotwein für 9 Euro 68. Besuchen Sie uns\nim 3. Stock. Frohe Weihnachten.",
+          "originalPage": "media/exams/goethe-a1/model/p11.webp"
+        },
+        {
+          "number": 8,
+          "part": 2,
+          "pdfPage": 11,
+          "prompt": "Die Fahrgäste sollen sich im Restaurant treffen.",
+          "choices": [
+            "Richtig",
+            "Falsch"
+          ],
+          "answer": "Falsch",
+          "explanation": "广播要求半点十二点半回到巴士集合：um halb eins am Bus，不是在餐厅集合。",
+          "transcript": "Liebe Fahrgäste. Wir sind kurz vor\nWürzburg. Sicherlich haben Sie schon\nHunger. An der nächsten Raststätte halten\nwir für eine Stunde. Wir treffen uns wieder\num halb eins am Bus, aber bitte pünktlich\nsein.",
+          "originalPage": "media/exams/goethe-a1/model/p11.webp"
+        },
+        {
+          "number": 9,
+          "part": 2,
+          "pdfPage": 11,
+          "prompt": "Die Fahrgäste sollen im Zug bleiben.",
+          "choices": [
+            "Richtig",
+            "Falsch"
+          ],
+          "answer": "Richtig",
+          "explanation": "广播说 Bitte hier nicht aussteigen，要求乘客不要下车。",
+          "transcript": "Liebe Fahrgäste! Bitte beachten Sie. Das ist\nein außerplanmäßiger Halt. Bitte hier nicht\naussteigen. In ein paar Minuten erreichen\nwir den Bahnhof Bonn – Bad Godesberg.",
+          "originalPage": "media/exams/goethe-a1/model/p11.webp"
+        },
+        {
+          "number": 10,
+          "part": 2,
+          "pdfPage": 11,
+          "prompt": "Der Herr soll sofort zum Schalter kommen.",
+          "choices": [
+            "Richtig",
+            "Falsch"
+          ],
+          "answer": "Richtig",
+          "explanation": "Janda 的航班马上关闭，他被要求去 F7 柜台。",
+          "transcript": "Herr Stefan Janda gebucht auf dem Flug\nLH 737 nach Warschau, wird zum Schalter\nF7 gebeten. Der Flug wird in ein paar\nMinuten geschlossen. Herr Janda gebucht\nnach Warschau bitte nach F7.",
+          "originalPage": "media/exams/goethe-a1/model/p11.webp"
+        },
+        {
+          "number": 11,
+          "part": 3,
+          "pdfPage": 12,
+          "prompt": "Die Nummer ist:",
+          "choices": [
+            "11833.",
+            "11883.",
+            "12833."
+          ],
+          "answer": "11833.",
+          "explanation": "电话语音报出的号码是 11 8 33，连写为 11833。",
+          "transcript": "Telefonansagedienst der deutschen Telekom. Die Rufnummer des Teilnehmers hat\nsich geändert. Bitte rufen Sie die TelefonAuskunft an unter 11 8 33.",
+          "originalPage": "media/exams/goethe-a1/model/p12.webp"
+        },
+        {
+          "number": 12,
+          "part": 3,
+          "pdfPage": 12,
+          "prompt": "Wo genau treffen sich die Männer?",
+          "choices": [
+            "Am Zug.",
+            "Am Bahnhof.",
+            "An der Information."
+          ],
+          "answer": "An der Information.",
+          "explanation": "Boris 指定在车站的问讯处等：an der Information；问的是具体地点。",
+          "transcript": "Hallo Jan, hier ist Boris. Du, ich bin noch\nim Zug. Du holst mich doch vom Bahnhof\nab? Ich warte an der Information auf dich.",
+          "originalPage": "media/exams/goethe-a1/model/p12.webp"
+        },
+        {
+          "number": 13,
+          "part": 3,
+          "pdfPage": 12,
+          "prompt": "Wie lange will der Mann noch warten?",
+          "choices": [
+            "20 Minuten.",
+            "2 Minuten.",
+            "10 Minuten."
+          ],
+          "answer": "10 Minuten.",
+          "explanation": "他已经等了二十多分钟，但还愿意再等十分钟：Zehn Minuten Zeit hast du noch。",
+          "transcript": "Mensch Jan, du Penner, hier noch mal\nBoris. Ich bin jetzt am Bahnhof. Und du?\nWo bist du denn? Ich warte schon über 20\nMinuten auf dich. Zehn Minuten Zeit hast\ndu noch ... bis 2, dann nehme ich ein Taxi.",
+          "originalPage": "media/exams/goethe-a1/model/p12.webp"
+        },
+        {
+          "number": 14,
+          "part": 3,
+          "pdfPage": 13,
+          "prompt": "An welchem Tag will die Frau kommen?",
+          "choices": [
+            "Am Montag.",
+            "Am Sonntag.",
+            "Am Samstag."
+          ],
+          "answer": "Am Sonntag.",
+          "explanation": "星期六不行，但星期日有时间：Am Sonntag haben wir aber Zeit。",
+          "transcript": "Guten Tag, hier Rogalla. Wir können am\nSamstag leider nicht zu Ihnen kommen.\nAm Sonntag haben wir aber Zeit. Rufen Sie\nuns doch bitte zurück, ob Ihnen das passt.\nDanke.",
+          "originalPage": "media/exams/goethe-a1/model/p13.webp"
+        },
+        {
+          "number": 15,
+          "part": 3,
+          "pdfPage": 13,
+          "prompt": "Was ist kaputt?",
+          "choices": [
+            "Der Fernseher.",
+            "Der Computer.",
+            "Das Handy."
+          ],
+          "answer": "Der Computer.",
+          "explanation": "Walter 说 Mein Computer hat einen Fehler，电脑出故障了。",
+          "transcript": "Hallo Alex. Walter hier. Kannst du schnell\nmal rüber kommen? Mein Computer hat\neinen Fehler. Ich kann nichts drucken.\nMelde dich doch bitte gleich, wenn du\nnach Hause kommst.",
+          "originalPage": "media/exams/goethe-a1/model/p13.webp"
+        }
+      ]
+    },
+    {
+      "id": "practice01",
+      "level": "A1",
+      "title": "歌德 A1 · 练习卷 01",
+      "de": "Übungssatz 01",
+      "source": "Goethe-Institut · Start Deutsch 1",
+      "pdfFile": "sd_1_uebungssatz01.pdf",
+      "audioFile": "sd1_uebungssatz_01-v7.mp4",
+      "audio": "media/exams/goethe-a1/practice01.m4a",
+      "duration": 1139.774694,
+      "reading": [
+        {
+          "number": 1,
+          "part": 1,
+          "pdfPage": 16,
+          "prompt": "Renate macht in Weimar Urlaub.",
+          "materials": [
+            {
+              "title": "Brief von Renate",
+              "text": "Liebe Nora,\nich bin nächste Woche drei Tage – von Montag bis Mittwoch – in Weimar. Ich muss viel arbeiten, habe viele Termine. Aber am Dienstag ab 18.00 Uhr habe ich Zeit. Können wir uns dann sehen?\nIch wohne im Hotel „Drei Kronen“ in der Parkstraße. Das Hotel hat ein sehr gutes Restaurant. Wir können dorthin gehen.\nWas denkst du? Ich freue mich auf dich!\nAlles Liebe\nRenate"
+            }
+          ],
+          "choices": [
+            "Richtig",
+            "Falsch"
+          ],
+          "answer": "Falsch",
+          "explanation": "Renate 说要工作并参加许多约会，前往 Weimar 是出差而非度假。",
+          "originalPage": "media/exams/goethe-a1/practice01/p16.webp"
+        },
+        {
+          "number": 2,
+          "part": 1,
+          "pdfPage": 16,
+          "prompt": "Sie möchte am Abend mit Nora zusammen essen.",
+          "materials": [
+            {
+              "title": "Brief von Renate",
+              "text": "Liebe Nora,\nich bin nächste Woche drei Tage – von Montag bis Mittwoch – in Weimar. Ich muss viel arbeiten, habe viele Termine. Aber am Dienstag ab 18.00 Uhr habe ich Zeit. Können wir uns dann sehen?\nIch wohne im Hotel „Drei Kronen“ in der Parkstraße. Das Hotel hat ein sehr gutes Restaurant. Wir können dorthin gehen.\nWas denkst du? Ich freue mich auf dich!\nAlles Liebe\nRenate"
+            }
+          ],
+          "choices": [
+            "Richtig",
+            "Falsch"
+          ],
+          "answer": "Richtig",
+          "explanation": "她星期二 18:00 后有时间，提议一起去酒店的餐厅。",
+          "originalPage": "media/exams/goethe-a1/practice01/p16.webp"
+        },
+        {
+          "number": 3,
+          "part": 1,
+          "pdfPage": 17,
+          "prompt": "Die Sportsfreunde machen jeden Sommer einen Ausflug.",
+          "materials": [
+            {
+              "title": "Brief an die Sportsfreunde",
+              "text": "Liebe Sportsfreunde vom Verein 1896,\nauch dieses Jahr wollen wir wieder unseren Sommerausflug machen. Wir fahren mit dem Bus an den Dümmer See. Dort wollen wir wandern und in einem netten Restaurant zu Mittag essen.\nAbfahrt ist am 27. Juni um 9 Uhr vor dem Vereinshaus. Die Busfahrt kostet 10 Euro pro Person; das Essen und die Getränke zahlt jeder allein.\nLiebe Freunde, bitte meldet euch bald an!\nBis dann\nHeinz Paschke"
+            }
+          ],
+          "choices": [
+            "Richtig",
+            "Falsch"
+          ],
+          "answer": "Richtig",
+          "explanation": "auch dieses Jahr ... wieder 表明今年也像往年一样举行夏季出游。",
+          "originalPage": "media/exams/goethe-a1/practice01/p17.webp"
+        },
+        {
+          "number": 4,
+          "part": 1,
+          "pdfPage": 17,
+          "prompt": "Der Bus wartet vor dem Vereinshaus.",
+          "materials": [
+            {
+              "title": "Brief an die Sportsfreunde",
+              "text": "Liebe Sportsfreunde vom Verein 1896,\nauch dieses Jahr wollen wir wieder unseren Sommerausflug machen. Wir fahren mit dem Bus an den Dümmer See. Dort wollen wir wandern und in einem netten Restaurant zu Mittag essen.\nAbfahrt ist am 27. Juni um 9 Uhr vor dem Vereinshaus. Die Busfahrt kostet 10 Euro pro Person; das Essen und die Getränke zahlt jeder allein.\nLiebe Freunde, bitte meldet euch bald an!\nBis dann\nHeinz Paschke"
+            }
+          ],
+          "choices": [
+            "Richtig",
+            "Falsch"
+          ],
+          "answer": "Richtig",
+          "explanation": "集合出发地点是 vor dem Vereinshaus，即协会会所前。",
+          "originalPage": "media/exams/goethe-a1/practice01/p17.webp"
+        },
+        {
+          "number": 5,
+          "part": 1,
+          "pdfPage": 17,
+          "prompt": "Für die Fahrt und das Essen bezahlt jeder 10 Euro.",
+          "materials": [
+            {
+              "title": "Brief an die Sportsfreunde",
+              "text": "Liebe Sportsfreunde vom Verein 1896,\nauch dieses Jahr wollen wir wieder unseren Sommerausflug machen. Wir fahren mit dem Bus an den Dümmer See. Dort wollen wir wandern und in einem netten Restaurant zu Mittag essen.\nAbfahrt ist am 27. Juni um 9 Uhr vor dem Vereinshaus. Die Busfahrt kostet 10 Euro pro Person; das Essen und die Getränke zahlt jeder allein.\nLiebe Freunde, bitte meldet euch bald an!\nBis dann\nHeinz Paschke"
+            }
+          ],
+          "choices": [
+            "Richtig",
+            "Falsch"
+          ],
+          "answer": "Falsch",
+          "explanation": "10 欧元仅是巴士费用，餐饮由每人另付。",
+          "originalPage": "media/exams/goethe-a1/practice01/p17.webp"
+        },
+        {
+          "number": 6,
+          "part": 2,
+          "pdfPage": 18,
+          "prompt": "Sie studieren in Frankfurt und möchten eine Wohnung mieten.",
+          "materials": [
+            {
+              "title": "a · www.goetheuni-frankfurt.de",
+              "text": "Wohnen in Frankfurt\nWohngemeinschaften\nPlätze im Studentenwohnheim\nEin- und Zwei-Zimmer-Wohnungen"
+            },
+            {
+              "title": "b · www.agentur-spiess.com",
+              "text": "AGENTUR-SPIESS\nWir finden für Sie ein neues Zuhause.\nGünstige Kaufangebote\nHäuser · Wohnungen · Apartments"
+            }
+          ],
+          "choices": [
+            "www.goetheuni-frankfurt.de",
+            "www.agentur-spiess.com"
+          ],
+          "answer": "www.goetheuni-frankfurt.de",
+          "explanation": "a 提供学生宿舍、合租和住房；b 明确是 Kaufangebote，即房产出售。",
+          "originalPage": "media/exams/goethe-a1/practice01/p18.webp"
+        },
+        {
+          "number": 7,
+          "part": 2,
+          "pdfPage": 19,
+          "prompt": "Sie möchten wissen: Wie kommt man vom Hamburger Bahnhof zum Hamburger Flughafen?",
+          "materials": [
+            {
+              "title": "a · www.flughafen-service.de",
+              "text": "Flughafen Hamburg\nUnsere Service-Leistungen:\nFlughafenhotel · Restaurants · Einkaufen / Banken / Geldwechsel · Besucherführungen"
+            },
+            {
+              "title": "b · www.hh-flughafen.de",
+              "text": "Abflug · Ankunft · Parken\nFlughafenbus\nHamburg Hauptbahnhof\nHamburg Altona"
+            }
+          ],
+          "choices": [
+            "www.flughafen-service.de",
+            "www.hh-flughafen.de"
+          ],
+          "answer": "www.hh-flughafen.de",
+          "explanation": "b 有 Flughafenbus（机场巴士）及 Hamburg Hauptbahnhof 的交通信息。",
+          "originalPage": "media/exams/goethe-a1/practice01/p19.webp"
+        },
+        {
+          "number": 8,
+          "part": 2,
+          "pdfPage": 19,
+          "prompt": "Sie suchen ein Angebot für Ihre Urlaubsreise.",
+          "materials": [
+            {
+              "title": "a · www.travel-münchen.de",
+              "text": "Der Reiseladen bietet an:\nHeute Abend aktuell\nMeine schönste Reise – unsere Mitarbeiter erzählen von ihren Expeditionen!\nUm 20 Uhr im Laden."
+            },
+            {
+              "title": "b · www.lastminute.de",
+              "text": "Spanien, Abflug 27.8. ab Hannover\n*** Hotel Soller, 370,– Euro/Woche mit Halbpension\nTürkei, Abflug 28.8. ab Hamburg\n**** Club Side, 465,– Euro/Woche"
+            }
+          ],
+          "choices": [
+            "www.travel-münchen.de",
+            "www.lastminute.de"
+          ],
+          "answer": "www.lastminute.de",
+          "explanation": "b 列出了航班、酒店及价格，是旅游产品；a 只是旅行分享活动。",
+          "originalPage": "media/exams/goethe-a1/practice01/p19.webp"
+        },
+        {
+          "number": 9,
+          "part": 2,
+          "pdfPage": 20,
+          "prompt": "Sie suchen eine Wohnung für Ihren Urlaub.",
+          "materials": [
+            {
+              "title": "a · www.st.peter-ording.de/mietwohnungen",
+              "text": "Schöne 3-Zimmerwohnung im Zentrum von St. Peter Ording\n5 Minuten zum Meer.\n450 € kalt + Nebenkosten\nKeine Küche."
+            },
+            {
+              "title": "b · www.ferienandernordsee.de",
+              "text": "Ferienhäuser und -wohnungen\nAlle Größen\nDas ganze Jahr\nAuch auf den Inseln: Sylt, Juist, Amrum, Langeoog"
+            }
+          ],
+          "choices": [
+            "www.st.peter.ording.de/mietwohnungen",
+            "www.ferienandernordsee.de"
+          ],
+          "answer": "www.ferienandernordsee.de",
+          "explanation": "b 专门提供度假屋和度假公寓；a 是按冷租加杂费出租的普通住房。",
+          "originalPage": "media/exams/goethe-a1/practice01/p20.webp"
+        },
+        {
+          "number": 10,
+          "part": 2,
+          "pdfPage": 20,
+          "prompt": "Sie arbeiten in Deutschland. In Ihrer Freizeit möchten Sie Fußball spielen.",
+          "materials": [
+            {
+              "title": "a · www.goal.de",
+              "text": "Aktuelle Informationen aus der Welt des Fußballs.\nHier finden Sie alles über die Spiele, die Ergebnisse, die Fußballstars, die Mannschaften."
+            },
+            {
+              "title": "b · www.vereinssport.de",
+              "text": "Welcher Verein für meinen Sport?\nTennis / Squash · Leichtathletik · Radsport · Fußball / Basketball · Schwimmen / Wasserball"
+            }
+          ],
+          "choices": [
+            "www.goal.de",
+            "www.vereinssport.de"
+          ],
+          "answer": "www.vereinssport.de",
+          "explanation": "b 能查找足球等运动的俱乐部，适合自己参与；a 提供足球新闻资讯。",
+          "originalPage": "media/exams/goethe-a1/practice01/p20.webp"
+        },
+        {
+          "number": 11,
+          "part": 3,
+          "pdfPage": 21,
+          "prompt": "Am Samstag können Sie und Ihre Freunde mit dem Ticket für 29 Euro fahren.",
+          "materials": [
+            {
+              "title": "Am Fahrkartenautomaten",
+              "text": "Bayern-Ticket:\nEin Tag. Fünf Personen. 29 Euro.\nMontag und Freitag ab 9 Uhr,\nam Wochenende von 6 bis 24 Uhr."
+            }
+          ],
+          "choices": [
+            "Richtig",
+            "Falsch"
+          ],
+          "answer": "Richtig",
+          "explanation": "周末 6:00–24:00 可使用该票，票价 29 欧元，可供五人同行。",
+          "originalPage": "media/exams/goethe-a1/practice01/p21.webp"
+        },
+        {
+          "number": 12,
+          "part": 3,
+          "pdfPage": 22,
+          "prompt": "Nach 22 Uhr kommen Sie nicht mehr ins Hotel.",
+          "materials": [
+            {
+              "title": "Im Hotelzimmer",
+              "text": "Liebe Gäste,\nab 21 Uhr ist die Haustür geschlossen.\nBitte nehmen Sie Ihren Zimmerschlüssel mit, er ist auch der Hausschlüssel!"
+            }
+          ],
+          "choices": [
+            "Richtig",
+            "Falsch"
+          ],
+          "answer": "Falsch",
+          "explanation": "虽然大门 21:00 后关闭，但房间钥匙也能开大门，带钥匙仍能进入酒店。",
+          "originalPage": "media/exams/goethe-a1/practice01/p22.webp"
+        },
+        {
+          "number": 13,
+          "part": 3,
+          "pdfPage": 22,
+          "prompt": "Am Sonntagmittag können Sie in diesem Restaurant essen.",
+          "materials": [
+            {
+              "title": "Eingang Restaurant",
+              "text": "Wir haben für Sie täglich\nvon 11.30 bis 15.00 Uhr und von 18.00 bis 22.00 Uhr geöffnet,\nauch am Wochenende und an Feiertagen."
+            }
+          ],
+          "choices": [
+            "Richtig",
+            "Falsch"
+          ],
+          "answer": "Richtig",
+          "explanation": "餐厅每天包括周末和节假日都营业，星期日中午在 11:30–15:00 内可以用餐。",
+          "originalPage": "media/exams/goethe-a1/practice01/p22.webp"
+        },
+        {
+          "number": 14,
+          "part": 3,
+          "pdfPage": 23,
+          "prompt": "Man kann diesen Samstagabend einen Film sehen.",
+          "materials": [
+            {
+              "title": "Im Kultur-Verein",
+              "text": "Ab sofort:\nJeden Samstag um 20 Uhr Filmabend!\nAm 3.5. „Im Juli“ von Fatih Akin.\nEintritt 2 Euro."
+            }
+          ],
+          "choices": [
+            "Richtig",
+            "Falsch"
+          ],
+          "answer": "Richtig",
+          "explanation": "从现在起每周六 20:00 都有电影之夜。",
+          "originalPage": "media/exams/goethe-a1/practice01/p23.webp"
+        },
+        {
+          "number": 15,
+          "part": 3,
+          "pdfPage": 23,
+          "prompt": "Fahrkarten können Sie an allen Schaltern bekommen.",
+          "materials": [
+            {
+              "title": "Im Bahnhof",
+              "text": "Kartenverkauf an Schalter 1 bis 3.\nInformationen an Schalter 4."
+            }
+          ],
+          "choices": [
+            "Richtig",
+            "Falsch"
+          ],
+          "answer": "Falsch",
+          "explanation": "仅 1–3 号窗口售票，4 号窗口只提供咨询，不能说所有窗口都能买票。",
+          "originalPage": "media/exams/goethe-a1/practice01/p23.webp"
+        }
+      ],
+      "listening": [
+        {
+          "number": 1,
+          "part": 1,
+          "pdfPage": 9,
+          "prompt": "Wo gibt es Kleidung für Kinder?",
+          "choices": [
+            "Im 1. Stock.",
+            "Im 2. Stock.",
+            "Im 4. Stock."
+          ],
+          "answer": "Im 2. Stock.",
+          "explanation": "童装在二楼；四楼是玩具，一楼是女装。",
+          "transcript": "Maria: Weißt du, wo es hier Kleidung für\nKinder gibt?\nLaura: Oh, das weiß ich auch nicht. Aber\nsehen wir einmal auf die Information –\nKinderspielzeug gibt es im vierten Stock,\nDamenkleidung im ersten. Hier: Im zweiten\nStock findest du Kinderkleidung.",
+          "originalPage": "media/exams/goethe-a1/practice01/p9.webp"
+        },
+        {
+          "number": 2,
+          "part": 1,
+          "pdfPage": 9,
+          "prompt": "Was bestellt die Dame?",
+          "choices": [
+            "Hähnchen.",
+            "Fisch.",
+            "Salat."
+          ],
+          "answer": "Salat.",
+          "explanation": "她拒绝鱼，最后说 Salat ist eine gute Idee，决定点沙拉。",
+          "transcript": "Ober: Hier, bitte, die Speisekarte. Ich kann\nheute den Fisch empfehlen.\nDame: Nein, danke, ich mag keinen Fisch.\nOber: Dann vielleicht Hähnchen mit Pommes\nfrites oder unseren Chefsalat mit Ei und\nSchinken?\nDame: Salat ist eine gute Idee. Den bringen Sie\nmir, bitte.",
+          "originalPage": "media/exams/goethe-a1/practice01/p9.webp"
+        },
+        {
+          "number": 3,
+          "part": 1,
+          "pdfPage": 9,
+          "prompt": "Wie lange hat das Museum am Mittwoch geöffnet?",
+          "choices": [
+            "Bis 15 Uhr.",
+            "Bis 18 Uhr.",
+            "Bis 22 Uhr."
+          ],
+          "answer": "Bis 15 Uhr.",
+          "explanation": "星期三下午 15:00 闭馆；18:00 和 22:00 是其他日期的时间。",
+          "transcript": "Student: Bitte eine Eintrittskarte für Studenten.\nFrau: Gern, aber das Museum schließt in einer\nhalben Stunde.\nStudent: Ach, so früh schon!\nFrau: Ja, am Mittwochnachmittag schließen\nwir schon um 15 Uhr, aber an den anderen\nTagen ist bis 18 Uhr geöffnet und am\nDonnerstag schließen wir erst um 22 Uhr.",
+          "originalPage": "media/exams/goethe-a1/practice01/p9.webp"
+        },
+        {
+          "number": 4,
+          "part": 1,
+          "pdfPage": 10,
+          "prompt": "Welchen Sport empfiehlt der Arzt?",
+          "choices": [
+            "Fahrrad fahren.",
+            "Fußball.",
+            "Laufen."
+          ],
+          "answer": "Fahrrad fahren.",
+          "explanation": "医生推荐骑车：Rad fahren；足球和跑步是朋友提到的活动。",
+          "transcript": "Tim: Mein Arzt sagt, ich soll mehr Sport\nmachen.\nKlaus: Richtig! Komm in meinen Verein, da\nkannst du Fußball spielen. Und am Wochenende laufe ich immer eine Stunde.\nTim: Nein, für mich ist Rad fahren das Beste\n– sagt mein Arzt. Laufen ist nichts für mich.",
+          "originalPage": "media/exams/goethe-a1/practice01/p10.webp"
+        },
+        {
+          "number": 5,
+          "part": 1,
+          "pdfPage": 10,
+          "prompt": "Wo macht Familie Bauer Urlaub?",
+          "choices": [
+            "Am Meer.",
+            "Bei Verwandten.",
+            "Zu Hause."
+          ],
+          "answer": "Bei Verwandten.",
+          "explanation": "他们以前常去海边，今年要看望德国南部的亲戚。",
+          "transcript": "Herr: Guten Tag, Frau Bauer. Machen Sie\ndieses Jahr wieder Urlaub am Meer oder\nbleiben Sie zu Haus?\nDame: Nein. Wir waren in den letzten Jahren\nimmer am Meer. Dieses Jahr besuchen wir\nunsere Verwandten in Süddeutschland. Die\nfreuen sich schon sehr. Und wohin fahren\nSie?",
+          "originalPage": "media/exams/goethe-a1/practice01/p10.webp"
+        },
+        {
+          "number": 6,
+          "part": 1,
+          "pdfPage": 10,
+          "prompt": "Wie lange dauert der Flug nach München?",
+          "choices": [
+            "30 Minuten.",
+            "45 Minuten.",
+            "50 Minuten."
+          ],
+          "answer": "50 Minuten.",
+          "explanation": "飞行本身只有五十分钟；三十分钟是提前到机场的时间，四十五分钟是去机场的路程。",
+          "transcript": "Dame: Du, Bruno, wie lange fliegst du von hier\nnach München?\nBruno: Nicht lange, nur 50 Minuten. Aber ich\nmuss eine halbe Stunde vor dem Abflug im\nFlughafen sein und bis zum Flughafen brauche\nich auch noch 45 Minuten.\nDame: Dann geht es doch nicht so schnell.",
+          "originalPage": "media/exams/goethe-a1/practice01/p10.webp"
+        },
+        {
+          "number": 7,
+          "part": 2,
+          "pdfPage": 11,
+          "prompt": "Die Fahrgäste sollen im Zug bleiben.",
+          "choices": [
+            "Richtig",
+            "Falsch"
+          ],
+          "answer": "Richtig",
+          "explanation": "列车短暂停车检查车载电脑，广播明确要求不要下车。",
+          "transcript": "Liebe Fahrgäste, herzlich willkommen an Bord\ndes ICE 987 nach Frankfurt. Eine wichtige\nInformation: Am nächsten Bahnhof müssen\nwir kurz anhalten. Es gibt Probleme mit dem\nBordcomputer. Bitte steigen Sie nicht aus! Wir\nfahren gleich weiter.",
+          "originalPage": "media/exams/goethe-a1/practice01/p11.webp"
+        },
+        {
+          "number": 8,
+          "part": 2,
+          "pdfPage": 11,
+          "prompt": "Fluggäste nach Rom sollen zu Ausgang A7 kommen.",
+          "choices": [
+            "Richtig",
+            "Falsch"
+          ],
+          "answer": "Falsch",
+          "explanation": "前往罗马的乘客应去一楼 B18；二楼 A7 当前被占用。",
+          "transcript": "Achtung! Eine Durchsage für die Gäste des\nFlugs LH 487 nach Rom.\nBitte kommen Sie zu Ausgang B 18 im ersten\nStock. Der Ausgang A 7 im zweiten Stock ist\nzurzeit besetzt. Ich wiederhole: Passagiere\nnach Rom bitte Ausgang B 18.",
+          "originalPage": "media/exams/goethe-a1/practice01/p11.webp"
+        },
+        {
+          "number": 9,
+          "part": 2,
+          "pdfPage": 11,
+          "prompt": "Die Urlauber sollen um vier Uhr am Bus sein.",
+          "choices": [
+            "Richtig",
+            "Falsch"
+          ],
+          "answer": "Falsch",
+          "explanation": "巴士 14:00（下午两点）继续行驶，不是四点。",
+          "transcript": "Liebe Urlauber! Wir machen jetzt eine Pause\nvon einer Stunde. Sie können einen Kaffee\ntrinken oder das kleine Museum direkt am\nMeer besuchen. Aber bitte: Um 14 Uhr fahren\nwir weiter. Bitte, kommen Sie pünktlich zum\nBus. Wir möchten nicht warten.",
+          "originalPage": "media/exams/goethe-a1/practice01/p11.webp"
+        },
+        {
+          "number": 10,
+          "part": 2,
+          "pdfPage": 11,
+          "prompt": "Der Vater von Mario soll sofort zur Information gehen.",
+          "choices": [
+            "Richtig",
+            "Falsch"
+          ],
+          "answer": "Richtig",
+          "explanation": "Mario 在一楼问讯处等父亲，广播要求父亲尽快前往。",
+          "transcript": "Liebe Kunden! Das waren unsere Sonderangebote für heute. Und nun noch eine dringende\nAnsage: Der kleine Mario sucht seinen Vater.\nKommen Sie bitte schnell zum Informationsschalter im 1. Stock. Mario wartet dort auf Sie.",
+          "originalPage": "media/exams/goethe-a1/practice01/p11.webp"
+        },
+        {
+          "number": 11,
+          "part": 3,
+          "pdfPage": 12,
+          "prompt": "Wann soll Frau Krause anrufen?",
+          "choices": [
+            "Vor 13 Uhr.",
+            "Zwischen 13 und 18 Uhr.",
+            "Zwischen 18 und 19 Uhr."
+          ],
+          "answer": "Zwischen 13 und 18 Uhr.",
+          "explanation": "请 13:00 后回电；说话人随后更正当日营业至 18:00，因此为 13:00–18:00。",
+          "transcript": "Autohaus Mayer. Guten Tag, Frau Krause.\nWir haben noch eine Frage zu der Reparatur\nvon Ihrem Wagen. Bitte rufen Sie uns nach\n13 Uhr wieder zurück. Heute sind wir bis 19\nUhr hier. Nein, Entschuldigung, heute ist ja\nschon Freitag. Dann heute nur bis 18 Uhr.\nDanke!",
+          "originalPage": "media/exams/goethe-a1/practice01/p12.webp"
+        },
+        {
+          "number": 12,
+          "part": 3,
+          "pdfPage": 12,
+          "prompt": "Was möchte Nina heute Abend machen?",
+          "choices": [
+            "Einen Film sehen.",
+            "Lernen.",
+            "Zu Hause bleiben."
+          ],
+          "answer": "Einen Film sehen.",
+          "explanation": "Nina 不想待在家里，提议去 Metropolis 看电影。",
+          "transcript": "Hallo Irene, hier Nina. Ich möchte heute\nAbend nicht zu Hause bleiben. Im Metropolis\ngibt es einen guten Film. Kommst du mit oder\nmusst du lernen? Ruf mich bitte auf dem\nHandy an.",
+          "originalPage": "media/exams/goethe-a1/practice01/p12.webp"
+        },
+        {
+          "number": 13,
+          "part": 3,
+          "pdfPage": 12,
+          "prompt": "Was soll Sarah mitbringen?",
+          "choices": [
+            "Ein Deutschbuch.",
+            "Ein Wörterbuch.",
+            "Eine CD."
+          ],
+          "answer": "Ein Wörterbuch.",
+          "explanation": "Christoph 请 Sarah 把他的 Wörterbuch（词典）带到课堂。",
+          "transcript": "Sarah, ich bin’s, Christoph. Du, ist mein\nWörterbuch vielleicht bei dir? Auf dem\nkleinen Schrank mit den CDs? Bitte bring es\ngleich in den Kurs mit. Und ich gebe dir\nheute natürlich dein Buch zurück! Bis dann!",
+          "originalPage": "media/exams/goethe-a1/practice01/p12.webp"
+        },
+        {
+          "number": 14,
+          "part": 3,
+          "pdfPage": 13,
+          "prompt": "Wo wollen sich die Frauen mit Sabine treffen?",
+          "choices": [
+            "Beim Konzert.",
+            "Im Café.",
+            "In der Disco."
+          ],
+          "answer": "In der Disco.",
+          "explanation": "咖啡馆是昨天去的，今晚先听音乐会，然后在 Disco Aladin 与 Sabine 会合。",
+          "transcript": "Hallo Sabine! Maria hier. War total schön im\nCafé gestern, danke noch mal! Ich gehe gleich\nmit Julia ins Konzert und danach so um elf in\ndie Disco Aladin. Wir treffen dich dort, okay?",
+          "originalPage": "media/exams/goethe-a1/practice01/p13.webp"
+        },
+        {
+          "number": 15,
+          "part": 3,
+          "pdfPage": 13,
+          "prompt": "Wann will Herr Heinze Frau Solms treffen?",
+          "choices": [
+            "Um 12 Uhr.",
+            "Um 13 Uhr.",
+            "Um 18 Uhr."
+          ],
+          "answer": "Um 13 Uhr.",
+          "explanation": "会面时间是 13:00；12:00 是之前预约结束时间，18:00 是回电期限。",
+          "transcript": "Guten Tag, Frau Solms, Heinze hier.\nMorgen habe ich bis 12 Uhr einen Termin. Aber\nnach der Mittagspause habe ich Zeit.\nWollen wir uns um 13 Uhr treffen? Rufen Sie\nmich bitte bis 18 Uhr zurück.",
+          "originalPage": "media/exams/goethe-a1/practice01/p13.webp"
+        }
+      ]
+    },
+    {
+      "id": "practice02",
+      "level": "A1",
+      "title": "歌德 A1 · 练习卷 02",
+      "de": "Übungssatz 02",
+      "source": "Goethe-Institut · Start Deutsch 1",
+      "pdfFile": "sd_1_uebungssatz02.pdf",
+      "audioFile": "sd1_uebungssatz_02-v7.mp4",
+      "audio": "media/exams/goethe-a1/practice02.m4a",
+      "duration": 1144.138005,
+      "reading": [
+        {
+          "number": 1,
+          "part": 1,
+          "pdfPage": 16,
+          "prompt": "Herr Beck übernachtet im Hotel.",
+          "materials": [
+            {
+              "title": "Brief von Winfried Beck",
+              "text": "Liebe Frau Dehner,\nvielen Dank für die Einladung zu Ihrem Jazz-Konzert. Ich komme gern und ich freue mich sehr auf das Konzert. Ich danke Ihnen auch, dass ich in Ihrem Gästezimmer schlafen kann und kein Hotel suchen muss.\nMein Zug kommt schon um circa 16 Uhr an. Kann ich Ihnen am Nachmittag dann vor dem Konzert etwas helfen?\nBis bald und herzliche Grüße\nWinfried Beck"
+            }
+          ],
+          "choices": [
+            "Richtig",
+            "Falsch"
+          ],
+          "answer": "Falsch",
+          "explanation": "Beck 可以住 Dehner 的客房，不需要找酒店。",
+          "originalPage": "media/exams/goethe-a1/practice02/p16.webp"
+        },
+        {
+          "number": 2,
+          "part": 1,
+          "pdfPage": 16,
+          "prompt": "Herr Beck bietet Frau Dehner seine Hilfe an.",
+          "materials": [
+            {
+              "title": "Brief von Winfried Beck",
+              "text": "Liebe Frau Dehner,\nvielen Dank für die Einladung zu Ihrem Jazz-Konzert. Ich komme gern und ich freue mich sehr auf das Konzert. Ich danke Ihnen auch, dass ich in Ihrem Gästezimmer schlafen kann und kein Hotel suchen muss.\nMein Zug kommt schon um circa 16 Uhr an. Kann ich Ihnen am Nachmittag dann vor dem Konzert etwas helfen?\nBis bald und herzliche Grüße\nWinfried Beck"
+            }
+          ],
+          "choices": [
+            "Richtig",
+            "Falsch"
+          ],
+          "answer": "Richtig",
+          "explanation": "他询问能否在音乐会前的下午帮忙，主动提供帮助。",
+          "originalPage": "media/exams/goethe-a1/practice02/p16.webp"
+        },
+        {
+          "number": 3,
+          "part": 1,
+          "pdfPage": 17,
+          "prompt": "Frau Stein ist in Berlin.",
+          "materials": [
+            {
+              "title": "Betreff: Neuer Arbeitsplan",
+              "text": "Liebe Frau Jakobs,\nich komme heute, Dienstag, noch nicht aus Berlin zurück. Ich habe morgen ein Gespräch mit dem Kunden Maybach. Der ist ganz wichtig für uns. Und am Donnerstag habe ich zwei weitere neue Termine.\nAber am Freitag bin ich ab 8 Uhr wieder im Büro. Bitte machen Sie mir für 11 Uhr einen Termin mit Dr. Falk.\nVielen Dank und herzliche Grüße\nHelga Stein"
+            }
+          ],
+          "choices": [
+            "Richtig",
+            "Falsch"
+          ],
+          "answer": "Richtig",
+          "explanation": "她写今天星期二还不会从 Berlin 返回，说明当前仍在那里。",
+          "originalPage": "media/exams/goethe-a1/practice02/p17.webp"
+        },
+        {
+          "number": 4,
+          "part": 1,
+          "pdfPage": 17,
+          "prompt": "Am Mittwoch hat Frau Stein frei.",
+          "materials": [
+            {
+              "title": "Betreff: Neuer Arbeitsplan",
+              "text": "Liebe Frau Jakobs,\nich komme heute, Dienstag, noch nicht aus Berlin zurück. Ich habe morgen ein Gespräch mit dem Kunden Maybach. Der ist ganz wichtig für uns. Und am Donnerstag habe ich zwei weitere neue Termine.\nAber am Freitag bin ich ab 8 Uhr wieder im Büro. Bitte machen Sie mir für 11 Uhr einen Termin mit Dr. Falk.\nVielen Dank und herzliche Grüße\nHelga Stein"
+            }
+          ],
+          "choices": [
+            "Richtig",
+            "Falsch"
+          ],
+          "answer": "Falsch",
+          "explanation": "她明天即星期三要与重要客户 Maybach 会谈，并非休息。",
+          "originalPage": "media/exams/goethe-a1/practice02/p17.webp"
+        },
+        {
+          "number": 5,
+          "part": 1,
+          "pdfPage": 17,
+          "prompt": "Frau Stein will am Freitag Dr. Falk treffen.",
+          "materials": [
+            {
+              "title": "Betreff: Neuer Arbeitsplan",
+              "text": "Liebe Frau Jakobs,\nich komme heute, Dienstag, noch nicht aus Berlin zurück. Ich habe morgen ein Gespräch mit dem Kunden Maybach. Der ist ganz wichtig für uns. Und am Donnerstag habe ich zwei weitere neue Termine.\nAber am Freitag bin ich ab 8 Uhr wieder im Büro. Bitte machen Sie mir für 11 Uhr einen Termin mit Dr. Falk.\nVielen Dank und herzliche Grüße\nHelga Stein"
+            }
+          ],
+          "choices": [
+            "Richtig",
+            "Falsch"
+          ],
+          "answer": "Richtig",
+          "explanation": "她星期五回办公室，并要求安排当天 11:00 与 Dr. Falk 会面。",
+          "originalPage": "media/exams/goethe-a1/practice02/p17.webp"
+        },
+        {
+          "number": 6,
+          "part": 2,
+          "pdfPage": 18,
+          "prompt": "Sie wollen viele Freunde zu Ihrem Geburtstag einladen. Sie suchen einen Ort.",
+          "materials": [
+            {
+              "title": "a · www.raum-in-koeln.de",
+              "text": "Raum für Tanz, Sport, Hochzeiten und andere private Feiern zu vermieten.\nAuch abends Termine frei, günstige Preise."
+            },
+            {
+              "title": "b · www.wohnen-in-koeln.de",
+              "text": "Schöne Zimmer und Apartments für 2–12 Wochen im Großraum Köln zu interessanten Preisen."
+            }
+          ],
+          "choices": [
+            "www.raum-in-koeln.de",
+            "www.wohnen-in-koeln.de"
+          ],
+          "answer": "www.raum-in-koeln.de",
+          "explanation": "a 提供私人庆典场地出租，适合生日聚会；b 是数周的住房出租。",
+          "originalPage": "media/exams/goethe-a1/practice02/p18.webp"
+        },
+        {
+          "number": 7,
+          "part": 2,
+          "pdfPage": 19,
+          "prompt": "Der Computer ist kaputt. Sie können ihn nicht allein reparieren.",
+          "materials": [
+            {
+              "title": "a · www.computer-loesungen.de",
+              "text": "Für alles, was mit Computern, Druckern, Scannern, Internet usw. zu tun hat. Auch Reparaturen."
+            },
+            {
+              "title": "b · www.technohaus.de",
+              "text": "Gebrauchte Kühlschränke, Herde, Waschmaschinen, Computer, Drucker, Fernseher, Radios, Handys usw. zu supergünstigen Preisen!"
+            }
+          ],
+          "choices": [
+            "www.computer-loesungen.de",
+            "www.technohaus.de"
+          ],
+          "answer": "www.computer-loesungen.de",
+          "explanation": "a 明确提供 Reparaturen 维修服务；b 销售二手电器。",
+          "originalPage": "media/exams/goethe-a1/practice02/p19.webp"
+        },
+        {
+          "number": 8,
+          "part": 2,
+          "pdfPage": 19,
+          "prompt": "Sie möchten am Samstagabend mit Freunden tanzen gehen.",
+          "materials": [
+            {
+              "title": "a · www.tanzen-macht-spass.de",
+              "text": "Tanzschule Renz\nInformieren Sie sich jetzt über die neuen Tanzkurse für Jugendliche und Erwachsene.\nBitte bestellen Sie unseren Tanzplan."
+            },
+            {
+              "title": "b · www.wohin-am-wochenende.de",
+              "text": "Ins Aladin! Das neue Tanz-Restaurant.\nErst gut essen, dann tanzen – die ganze Nacht!\nFreitag + Samstag haben wir bis 4 Uhr geöffnet."
+            }
+          ],
+          "choices": [
+            "www.tanzen-macht-spass.de",
+            "www.wohin-am-wochenende.de"
+          ],
+          "answer": "www.wohin-am-wochenende.de",
+          "explanation": "b 是周五、周六营业至凌晨四点的舞蹈餐厅；a 提供舞蹈课程。",
+          "originalPage": "media/exams/goethe-a1/practice02/p19.webp"
+        },
+        {
+          "number": 9,
+          "part": 2,
+          "pdfPage": 20,
+          "prompt": "Sie möchten am Wochenende Fußball spielen.",
+          "materials": [
+            {
+              "title": "a · www.freizeitsport-freiburg.de",
+              "text": "Basketball, Fitness, Fußball und mehr.\nMontags bis donnerstags 18.30 bis 21.00 Uhr im Südpark am See."
+            },
+            {
+              "title": "b · www.fc-1897.de/training",
+              "text": "Der Fußballklub FC 1897 sucht Spieler und Spielerinnen.\nTreffpunkt: Sportanlage Ulrichsplatz\nSonntags 10–12 Uhr.\nKeine Anmeldung."
+            }
+          ],
+          "choices": [
+            "www.freizeitsport-freiburg.de",
+            "www.fc-1897.de/training"
+          ],
+          "answer": "www.fc-1897.de/training",
+          "explanation": "b 的足球活动在星期日，符合周末；a 在星期一至星期四。",
+          "originalPage": "media/exams/goethe-a1/practice02/p20.webp"
+        },
+        {
+          "number": 10,
+          "part": 2,
+          "pdfPage": 20,
+          "prompt": "Sie studieren und möchten ein bisschen arbeiten.",
+          "materials": [
+            {
+              "title": "a · 0176 – 55 44 321",
+              "text": "Unsere Bäckerei braucht Hilfe.\nWir suchen eine junge Frau/einen jungen Mann im Verkauf am Samstag von 7 bis 11 Uhr.\n0176 – 55 44 321"
+            },
+            {
+              "title": "b · 0160 – 683 456 20",
+              "text": "Junge Verkäuferin/Junger Verkäufer gesucht für Zeitungskiosk\n42-Stunden-Woche bei guter Bezahlung.\n0160 – 683 456 20"
+            }
+          ],
+          "choices": [
+            "0176 – 55 44 321",
+            "0160 – 683 456 20"
+          ],
+          "answer": "0176 – 55 44 321",
+          "explanation": "a 每周六工作四小时，适合学生兼职；b 每周 42 小时，属于全职。",
+          "originalPage": "media/exams/goethe-a1/practice02/p20.webp"
+        },
+        {
+          "number": 11,
+          "part": 3,
+          "pdfPage": 21,
+          "prompt": "Am Sonntagvormittag bekommen Sie hier Blumen.",
+          "materials": [
+            {
+              "title": "Vor einem Blumenladen",
+              "text": "Neu! Neu! Neu! Neu! Neu!\nLiebe Kunden!\nAb sofort haben wir auch sonntags von 9–12 Uhr für Sie geöffnet!"
+            }
+          ],
+          "choices": [
+            "Richtig",
+            "Falsch"
+          ],
+          "answer": "Richtig",
+          "explanation": "花店从现在起星期日 9:00–12:00 也营业，可以在星期日上午买花。",
+          "originalPage": "media/exams/goethe-a1/practice02/p21.webp"
+        },
+        {
+          "number": 12,
+          "part": 3,
+          "pdfPage": 22,
+          "prompt": "Jeden Montag bietet das Restaurant indisches Essen an.",
+          "materials": [
+            {
+              "title": "Im Restaurant",
+              "text": "Liebe Gäste,\nim nächsten Monat kocht bei uns ein Koch aus Kalkutta indische Spezialitäten.\nWir freuen uns auf Ihren Besuch."
+            }
+          ],
+          "choices": [
+            "Richtig",
+            "Falsch"
+          ],
+          "answer": "Falsch",
+          "explanation": "原文是 nächsten Monat（下个月），不是 jeden Montag（每星期一）。",
+          "originalPage": "media/exams/goethe-a1/practice02/p22.webp"
+        },
+        {
+          "number": 13,
+          "part": 3,
+          "pdfPage": 22,
+          "prompt": "Es ist der 2. Mai, 21 Uhr. Sie können jetzt nicht zum Hauptbahnhof fahren.",
+          "materials": [
+            {
+              "title": "Bei der Straßenbahn",
+              "text": "Linie 8:\nAb 1.5. nur bis Hauptbahnhof.\nZur Weiterfahrt nach Huchting: Linie 1 oder Bus Nr. 53"
+            }
+          ],
+          "choices": [
+            "Richtig",
+            "Falsch"
+          ],
+          "answer": "Falsch",
+          "explanation": "5 月 1 日起 8 号线仍开到 Hauptbahnhof；受影响的是继续前往 Huchting 的路线。",
+          "originalPage": "media/exams/goethe-a1/practice02/p22.webp"
+        },
+        {
+          "number": 14,
+          "part": 3,
+          "pdfPage": 23,
+          "prompt": "Sie können die Wohnung nicht besichtigen.",
+          "materials": [
+            {
+              "title": "An einer Haustür",
+              "text": "Sehr geehrte Interessenten,\nes gibt leider keine Besichtigungen mehr.\nDie 3-Zimmer-Wohnung im 3. Stock ist schon vermietet."
+            }
+          ],
+          "choices": [
+            "Richtig",
+            "Falsch"
+          ],
+          "answer": "Richtig",
+          "explanation": "住房已出租，告示明确写不再安排看房。",
+          "originalPage": "media/exams/goethe-a1/practice02/p23.webp"
+        },
+        {
+          "number": 15,
+          "part": 3,
+          "pdfPage": 23,
+          "prompt": "Ab 22 Uhr können Sie keine Fahrkarten mehr kaufen.",
+          "materials": [
+            {
+              "title": "Im Bahnhof",
+              "text": "Sehr geehrte Fahrgäste!\nAb 22 Uhr sind unsere Schalter geschlossen.\nFahrkarten bekommen Sie dann an unseren Automaten."
+            }
+          ],
+          "choices": [
+            "Richtig",
+            "Falsch"
+          ],
+          "answer": "Falsch",
+          "explanation": "22:00 后关闭的是人工窗口，仍可在自动售票机购买车票。",
+          "originalPage": "media/exams/goethe-a1/practice02/p23.webp"
+        }
+      ],
+      "listening": [
+        {
+          "number": 1,
+          "part": 1,
+          "pdfPage": 9,
+          "prompt": "Wo wollen die Freundinnen die Party machen?",
+          "choices": [
+            "Im Garten.",
+            "Im Haus.",
+            "Am See."
+          ],
+          "answer": "Im Garten.",
+          "explanation": "最后同意在花园庆祝，下雨时才进屋；湖边方案没有被接受。",
+          "transcript": "Hanna: Wo wollen wir dieses Jahr unsere\nParty machen?\nSteffi: Ich bin für eine Feier am See. Wir\nkönnen schwimmen, grillen …\nHanna: Ich bin nicht dafür. Ich finde eine\nParty im Garten viel besser. Bei Regen können\nwir schnell ins Haus und im Haus schön\nweiter feiern.\nSteffi: In Ordnung. Da können wir ja auch\ngrillen.",
+          "originalPage": "media/exams/goethe-a1/practice02/p9.webp"
+        },
+        {
+          "number": 2,
+          "part": 1,
+          "pdfPage": 9,
+          "prompt": "Wann wollen sie sich treffen?",
+          "choices": [
+            "Um 19.30 Uhr.",
+            "Um 20.30 Uhr.",
+            "Um 21.00 Uhr."
+          ],
+          "answer": "Um 20.30 Uhr.",
+          "explanation": "两人约 halb neun（20:30）在售票处见面；21:00 是音乐会开始时间。",
+          "transcript": "Martin: Möchtest du heute Abend mit mir in\ndas Konzert von Rosenstolz gehen?\nLuisa: Hmm. Gern. Aber wann beginnt das\nKonzert? Ich bin ja bis um halb acht im\nSpanisch-Kurs.\nMartin: Dann gibt es kein Problem. Die\nfangen um neun Uhr an. Wollen wir uns um\nhalb neun an der Kasse treffen?\nLuisa: Ja, wunderbar. Dann bis heute Abend.",
+          "originalPage": "media/exams/goethe-a1/practice02/p9.webp"
+        },
+        {
+          "number": 3,
+          "part": 1,
+          "pdfPage": 9,
+          "prompt": "Wo stehen Taxis?",
+          "choices": [
+            "An der Ecke rechts.",
+            "Die Straße geradeaus.",
+            "Geradeaus und links."
+          ],
+          "answer": "Geradeaus und links.",
+          "explanation": "先直走，到街角左转，再走约一百米；不是右转。",
+          "transcript": "Dame: Entschuldigen Sie bitte. Ich suche ein\nTaxi, vielleicht dort vorne rechts?\nHerr: Nein, da vorne rechts gibt es keine.\nGehen Sie hier geradeaus und an der Ecke\nnach links. Sie müssen dann noch circa 100\nMeter gehen. Da stehen schon die Taxis.\nDame: Vielen Dank.",
+          "originalPage": "media/exams/goethe-a1/practice02/p9.webp"
+        },
+        {
+          "number": 4,
+          "part": 1,
+          "pdfPage": 10,
+          "prompt": "Wie lange dauern die Sommerkurse?",
+          "choices": [
+            "Zwei Wochen.",
+            "Drei Wochen.",
+            "Vier Wochen."
+          ],
+          "answer": "Zwei Wochen.",
+          "explanation": "七八月份的暑期课程为两周，普通课程才是三周或四周。",
+          "transcript": "Herr: Guten Tag. Ich möchte einen Sprachkurs\nbesuchen. Wie lange dauern Ihre Kurse?\nDame: Die Sommerkurse jetzt im Juli und\nAugust zwei Wochen. Unsere normalen Kurse\ndauern aber drei oder vier Wochen.\nHerr: Gut. Ich möchte einen Sommerkurs.\nDame: Im Juli oder August?\nHerr: Anfang Juli.",
+          "originalPage": "media/exams/goethe-a1/practice02/p10.webp"
+        },
+        {
+          "number": 5,
+          "part": 1,
+          "pdfPage": 10,
+          "prompt": "Was soll Johanna mitbringen?",
+          "choices": [
+            "Salat.",
+            "Saft.",
+            "Karten."
+          ],
+          "answer": "Karten.",
+          "explanation": "Johanna 要带 Kartenspiel（纸牌）；沙拉和果汁由另外两人准备。",
+          "transcript": "Mann: Hallo Johanna, wir treffen uns heute\nNachmittag im Park. Kommst du auch?\nFrau: Ja, gerne. Soll ich was mitbringen?\nMann: Vielleicht ein Kartenspiel.\nFrau: Okay. Und etwas zu essen?\nMann: Nein, das machen wir schon. Ich\nbringe Salat mit und Clara Saft.",
+          "originalPage": "media/exams/goethe-a1/practice02/p10.webp"
+        },
+        {
+          "number": 6,
+          "part": 1,
+          "pdfPage": 10,
+          "prompt": "Wann ist Frau Horn aus dem Urlaub zurück?",
+          "choices": [
+            "Am Mittwoch.",
+            "Am Freitag.",
+            "Am Montag."
+          ],
+          "answer": "Am Montag.",
+          "explanation": "她周三至周五休假，下星期一回来上班。来电者周三再打不代表她周三才回来。",
+          "transcript": "Dame: Guten Tag. Ich möchte bitte Frau\nHorn sprechen.\nHerr: Frau Horn ist leider nicht im Büro. Sie\nist von Mittwoch bis Freitag im Urlaub. Aber\nam Montag kommt sie aus dem Urlaub\nzurück. Ab acht Uhr ist sie im Büro.\nDame: Aha, na dann rufe ich nächsten\nMittwoch wieder an. Da habe ich Zeit.",
+          "originalPage": "media/exams/goethe-a1/practice02/p10.webp"
+        },
+        {
+          "number": 7,
+          "part": 2,
+          "pdfPage": 11,
+          "prompt": "Die Fahrgäste sollen den Bus nehmen.",
+          "choices": [
+            "Richtig",
+            "Falsch"
+          ],
+          "answer": "Richtig",
+          "explanation": "电车车门故障，乘客需下车换乘 19 路巴士。",
+          "transcript": "Liebe Fahrgäste, diese Straßenbahn hat ein\nProblem mit den Türen. Sie schließen nicht mehr\nrichtig. Leider können wir nicht weiterfahren.\nBitte steigen Sie an der nächsten Haltestelle aus.\nDort haben Sie Anschluss an den Bus Linie 19.",
+          "originalPage": "media/exams/goethe-a1/practice02/p11.webp"
+        },
+        {
+          "number": 8,
+          "part": 2,
+          "pdfPage": 11,
+          "prompt": "Die Kunden sollen in den zweiten Stock kommen.",
+          "choices": [
+            "Richtig",
+            "Falsch"
+          ],
+          "answer": "Falsch",
+          "explanation": "广播邀请顾客去 dritten Stock（三楼），不是二楼。",
+          "transcript": "Liebe Kunden, heute haben wir tolle\nSonderangebote bei den Badmöbeln. Kommen Sie\ndoch mal in den dritten Stock und sehen Sie sich\num. Und am Wochenende feiert unser Möbelhaus\nGeburtstag. Sie sind herzlich eingeladen!",
+          "originalPage": "media/exams/goethe-a1/practice02/p11.webp"
+        },
+        {
+          "number": 9,
+          "part": 2,
+          "pdfPage": 11,
+          "prompt": "Die Leute sollen zu Hause bleiben.",
+          "choices": [
+            "Richtig",
+            "Falsch"
+          ],
+          "answer": "Richtig",
+          "explanation": "附近工厂发生火灾，警方要求关窗关门，不要出门。",
+          "transcript": "Achtung. Hier spricht die Polizei. Es gibt ein\ngroßes Feuer in der Firma Chemotec. Bitte\nschließen Sie alle Türen und Fenster und gehen\nSie nicht aus dem Haus.",
+          "originalPage": "media/exams/goethe-a1/practice02/p11.webp"
+        },
+        {
+          "number": 10,
+          "part": 2,
+          "pdfPage": 11,
+          "prompt": "Fahrgäste nach Innsbruck sollen mit dem ICE 346 fahren.",
+          "choices": [
+            "Richtig",
+            "Falsch"
+          ],
+          "answer": "Richtig",
+          "explanation": "原定 Innsbruck 列车停运，广播要求乘 ICE 346 到 München 后换乘。",
+          "transcript": "Willkommen in Berlin Hauptbahnhof. Ihre\nnächsten Züge: ICE 389 nach Dresden 18.48\nUhr, Gleis 3. Intercity nach Innsbruck 18.52\nUhr fährt heute nicht. Fahrgäste nach Innsbruck\nbenutzen bitte den ICE 346 nach München um\n19.20 Uhr und steigen dort um.",
+          "originalPage": "media/exams/goethe-a1/practice02/p11.webp"
+        },
+        {
+          "number": 11,
+          "part": 3,
+          "pdfPage": 12,
+          "prompt": "Wann will Greta das Formular holen?",
+          "choices": [
+            "Heute Abend.",
+            "Morgen.",
+            "Montagmorgen."
+          ],
+          "answer": "Montagmorgen.",
+          "explanation": "Greta 打算星期一上午取表；今天晚上是请对方回电话的时间。",
+          "transcript": "Hallo Barbara, hier Greta. Ich will am Montagmorgen das Formular für die Wohnungsanmeldung holen. Möchtest du mitkommen?\nDu kannst dich ja dann auch gleich beim Amt\nanmelden. Bitte ruf mich noch heute Abend an.\nMorgen hat das Amt keine Sprechstunden.\nTschüss.",
+          "originalPage": "media/exams/goethe-a1/practice02/p12.webp"
+        },
+        {
+          "number": 12,
+          "part": 3,
+          "pdfPage": 12,
+          "prompt": "Wo möchte Heinz Siggi treffen?",
+          "choices": [
+            "Am Bahnhof.",
+            "Im italienischen Restaurant.",
+            "Im Restaurant „Zwiebel“."
+          ],
+          "answer": "Am Bahnhof.",
+          "explanation": "Zwiebel 关门，所以先约在车站会合，再找其他餐厅。",
+          "transcript": "Hallo Siggi, hier Heinz. Es geht um heute\nAbend. Ich sehe gerade, das Restaurant Zwiebel\nhat heute geschlossen. Können wir uns am\nBahnhof treffen und dann zusammen ein\nanderes Restaurant suchen? Das italienische\nRestaurant um die Ecke soll gut und nicht teuer\nsein. Bis heute Abend. Tschüss.",
+          "originalPage": "media/exams/goethe-a1/practice02/p12.webp"
+        },
+        {
+          "number": 13,
+          "part": 3,
+          "pdfPage": 12,
+          "prompt": "Wann möchte Eva Schmitz am Mittwoch kommen?",
+          "choices": [
+            "Um 10.00 Uhr.",
+            "Um 11.00 Uhr.",
+            "Um 12.00 Uhr."
+          ],
+          "answer": "Um 10.00 Uhr.",
+          "explanation": "她提出星期三 10:00 来，11:00–12:00 另有预约。",
+          "transcript": "Guten Tag, hier Eva Schmitz. Leider bin ich\nkrank und kann morgen nicht kommen. Geht es\nauch am Mittwoch um 10 Uhr? Da habe ich\nsowieso einen Termin von 11.00 bis 12.00 Uhr\nin Ihrem Institut.",
+          "originalPage": "media/exams/goethe-a1/practice02/p12.webp"
+        },
+        {
+          "number": 14,
+          "part": 3,
+          "pdfPage": 13,
+          "prompt": "Was soll man sagen?",
+          "choices": [
+            "Die Adresse.",
+            "Die E-Mail-Adresse.",
+            "Die Telefonnummer."
+          ],
+          "answer": "Die Telefonnummer.",
+          "explanation": "录音要求留下电话号码便于回电，并明确说不要电子邮箱地址。",
+          "transcript": "Guten Tag, Sie rufen wegen der\nWohnungsanzeige an? Die genaue Adresse ist\nAm Achterkamp 5. Bitte sprechen Sie Ihre\nNummer auf den Anrufbeantworter, ich rufe Sie\ndann zurück und sage Ihnen wann Sie die\nWohnung sehen können. Bitte keine E-MailAdressen!",
+          "originalPage": "media/exams/goethe-a1/practice02/p13.webp"
+        },
+        {
+          "number": 15,
+          "part": 3,
+          "pdfPage": 13,
+          "prompt": "Wie kommt Herr Müller ins Büro?",
+          "choices": [
+            "Mit dem Fahrrad.",
+            "Mit der Straßenbahn.",
+            "Mit dem Auto."
+          ],
+          "answer": "Mit dem Fahrrad.",
+          "explanation": "他的汽车坏了，电车站又远，因此将骑自行车去办公室。",
+          "transcript": "Guten Morgen, Frau Seiler. Hier Ernst Müller.\nMein Auto ist leider kaputt. Ich muss das\nFahrrad nehmen und komme also ein bisschen\nspäter ins Büro. Die Straßenbahn ist zu weit\nweg von mir zu Hause. Bitte entschuldigen Sie\nmich bei Herrn Krause. Danke.",
+          "originalPage": "media/exams/goethe-a1/practice02/p13.webp"
+        }
+      ]
+    }
+  ]
+}
