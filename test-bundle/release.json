@@ -1,0 +1,315 @@
+{
+  "version": "2026.11.02-test1",
+  "archiveSize": 190308305,
+  "archiveSHA256": "93d161c962ef48957373859259270c41f978ae6a4eb95715c2bdb92907674fda",
+  "source": "wortpfad-web-v15",
+  "parts": [
+    {
+      "path": "test-bundle/part-000.bin",
+      "size": 3145728,
+      "sha": "a913d51c70c5a79f8df7fc19abc9628c4514c6a6"
+    },
+    {
+      "path": "test-bundle/part-001.bin",
+      "size": 3145728,
+      "sha": "38493ef82c121d5b630cdc18a57b3bac0a1115b1"
+    },
+    {
+      "path": "test-bundle/part-002.bin",
+      "size": 3145728,
+      "sha": "d484034fd482cde7f44f0ce4a84c60b735a0bafb"
+    },
+    {
+      "path": "test-bundle/part-003.bin",
+      "size": 3145728,
+      "sha": "9e063f5f3c4f06c0dbcaf46628a1a31701c13fa0"
+    },
+    {
+      "path": "test-bundle/part-004.bin",
+      "size": 3145728,
+      "sha": "8a223bb55303d91dd9d297970ed919011fbf55e7"
+    },
+    {
+      "path": "test-bundle/part-005.bin",
+      "size": 3145728,
+      "sha": "17edf04b224990007f66ed4bfc4b2eeb1ffa72fc"
+    },
+    {
+      "path": "test-bundle/part-006.bin",
+      "size": 3145728,
+      "sha": "b57c7a4ade78bf348ffd81bb74921da9eaf088f7"
+    },
+    {
+      "path": "test-bundle/part-007.bin",
+      "size": 3145728,
+      "sha": "a92862c7406a41a94e3c76ef8b3e66e62bc3dd67"
+    },
+    {
+      "path": "test-bundle/part-008.bin",
+      "size": 3145728,
+      "sha": "c67ebe58fd37218bd5452f3268f9480f5f5dda98"
+    },
+    {
+      "path": "test-bundle/part-009.bin",
+      "size": 3145728,
+      "sha": "930567414bafed9eb20ea9ce1d9e9c3ffd5b00b0"
+    },
+    {
+      "path": "test-bundle/part-010.bin",
+      "size": 3145728,
+      "sha": "f82df81584c0ed23349f5ffa3e882a59cb98caa3"
+    },
+    {
+      "path": "test-bundle/part-011.bin",
+      "size": 3145728,
+      "sha": "e36b1e1e6583a1f9e3888fb6a558858adadceb55"
+    },
+    {
+      "path": "test-bundle/part-012.bin",
+      "size": 3145728,
+      "sha": "1be18a29f2a7c219b09daa5c1970f1cac42198b0"
+    },
+    {
+      "path": "test-bundle/part-013.bin",
+      "size": 3145728,
+      "sha": "d727c0d5243f892e980c6f3520ac68a9f67a7355"
+    },
+    {
+      "path": "test-bundle/part-014.bin",
+      "size": 3145728,
+      "sha": "0961c3224dac978b511b976cf0ed9baf362130ae"
+    },
+    {
+      "path": "test-bundle/part-015.bin",
+      "size": 3145728,
+      "sha": "7cf9745aa8dfe4a4e1c64b9294e75478d60fc590"
+    },
+    {
+      "path": "test-bundle/part-016.bin",
+      "size": 3145728,
+      "sha": "9991eabdd6f81f2dd8208ea9b54e6cd9ab661491"
+    },
+    {
+      "path": "test-bundle/part-017.bin",
+      "size": 3145728,
+      "sha": "b5a780f6471fe8ec71bb43f91761265d432b7f34"
+    },
+    {
+      "path": "test-bundle/part-018.bin",
+      "size": 3145728,
+      "sha": "c6308c0b1ec70bbd0e091285e733745bb62e5ccf"
+    },
+    {
+      "path": "test-bundle/part-019.bin",
+      "size": 3145728,
+      "sha": "e45cd1a17922d427562c4c4f8f484c2811048bf3"
+    },
+    {
+      "path": "test-bundle/part-020.bin",
+      "size": 3145728,
+      "sha": "6bbf59a787f298e9642064189c7a4d415d3fae38"
+    },
+    {
+      "path": "test-bundle/part-021.bin",
+      "size": 3145728,
+      "sha": "34a8b71a5c1fa4da99e5d06cae8ac4f18a825ebc"
+    },
+    {
+      "path": "test-bundle/part-022.bin",
+      "size": 3145728,
+      "sha": "80946c60993fa7828a3e280302d04973b2ecda9d"
+    },
+    {
+      "path": "test-bundle/part-023.bin",
+      "size": 3145728,
+      "sha": "c4eeade43cb4bb4f2bed37e04fba549a783cd379"
+    },
+    {
+      "path": "test-bundle/part-024.bin",
+      "size": 3145728,
+      "sha": "3841793245e6a568d2c572dc0d45233aafa27f1d"
+    },
+    {
+      "path": "test-bundle/part-025.bin",
+      "size": 3145728,
+      "sha": "79e94f287284299388ca964c1b6815dd6a1bfec2"
+    },
+    {
+      "path": "test-bundle/part-026.bin",
+      "size": 3145728,
+      "sha": "f7e0c6c61f840b29d5e1135b0c22c19f4f7207d2"
+    },
+    {
+      "path": "test-bundle/part-027.bin",
+      "size": 3145728,
+      "sha": "61d8a8f30276db8411385f72ba8d384ff9d1ae9b"
+    },
+    {
+      "path": "test-bundle/part-028.bin",
+      "size": 3145728,
+      "sha": "7e701510a36ce8409914d5dadc5e31507271d66b"
+    },
+    {
+      "path": "test-bundle/part-029.bin",
+      "size": 3145728,
+      "sha": "97aa598b2654ced3c483457cc9aa4f7f655142e0"
+    },
+    {
+      "path": "test-bundle/part-030.bin",
+      "size": 3145728,
+      "sha": "dd16a97f63bbca575e51a414a0103eca547448ae"
+    },
+    {
+      "path": "test-bundle/part-031.bin",
+      "size": 3145728,
+      "sha": "dcca688aec493f25d75d63f1d2138fd5c0668804"
+    },
+    {
+      "path": "test-bundle/part-032.bin",
+      "size": 3145728,
+      "sha": "1c31a144b73d76596402e2e720e7fd904f89f50b"
+    },
+    {
+      "path": "test-bundle/part-033.bin",
+      "size": 3145728,
+      "sha": "517d5809ae44d0f3af5d0b65ded079abbc31694b"
+    },
+    {
+      "path": "test-bundle/part-034.bin",
+      "size": 3145728,
+      "sha": "ad169e853445afa93daac52b06b00624d4d0ee00"
+    },
+    {
+      "path": "test-bundle/part-035.bin",
+      "size": 3145728,
+      "sha": "70438f1d148c3122caedb0e1f6a4c0dfaa9b7392"
+    },
+    {
+      "path": "test-bundle/part-036.bin",
+      "size": 3145728,
+      "sha": "d8a9569423b375a10dc1a557cefbe2c27b595c1c"
+    },
+    {
+      "path": "test-bundle/part-037.bin",
+      "size": 3145728,
+      "sha": "87bfed5f264d3c04914a43d4dd3a48e1bb1b66e8"
+    },
+    {
+      "path": "test-bundle/part-038.bin",
+      "size": 3145728,
+      "sha": "b09ee6cb25e992068632f99cf8af533eea8a4f68"
+    },
+    {
+      "path": "test-bundle/part-039.bin",
+      "size": 3145728,
+      "sha": "ffb141b214dd489606a75d225f415e525f769f53"
+    },
+    {
+      "path": "test-bundle/part-040.bin",
+      "size": 3145728,
+      "sha": "f0034b87421aa0ebf7d57d0649fe3142aa61d667"
+    },
+    {
+      "path": "test-bundle/part-041.bin",
+      "size": 3145728,
+      "sha": "6530eab44fdf5ac38d94cfd84a36f54efea49632"
+    },
+    {
+      "path": "test-bundle/part-042.bin",
+      "size": 3145728,
+      "sha": "e6e8cb63ad0d27976fd42c0af7149d2a8125cb8d"
+    },
+    {
+      "path": "test-bundle/part-043.bin",
+      "size": 3145728,
+      "sha": "70282f5a1f93a3ef6202578fb199ac1ec26c99ac"
+    },
+    {
+      "path": "test-bundle/part-044.bin",
+      "size": 3145728,
+      "sha": "131ec67ebc6fb185617eb69ca3aaa1d4b06f413e"
+    },
+    {
+      "path": "test-bundle/part-045.bin",
+      "size": 3145728,
+      "sha": "9226ba44531a34946feec6dbfdb689876ee86751"
+    },
+    {
+      "path": "test-bundle/part-046.bin",
+      "size": 3145728,
+      "sha": "f6756af2d040eff9018ee2e37132e3fd6852fe0e"
+    },
+    {
+      "path": "test-bundle/part-047.bin",
+      "size": 3145728,
+      "sha": "9da94afe24b624b4c4aa17af2f7d2df9bb007f7e"
+    },
+    {
+      "path": "test-bundle/part-048.bin",
+      "size": 3145728,
+      "sha": "396cafd5bf1618b9c86e1c03c9eb58ca2d62b70d"
+    },
+    {
+      "path": "test-bundle/part-049.bin",
+      "size": 3145728,
+      "sha": "86493a269fcc8a6e193e1785859237dba00728a4"
+    },
+    {
+      "path": "test-bundle/part-050.bin",
+      "size": 3145728,
+      "sha": "e828a44e36fb3dd196e5170a53320c3eb8c779dd"
+    },
+    {
+      "path": "test-bundle/part-051.bin",
+      "size": 3145728,
+      "sha": "dfab908c5cec0dc537d73806fd408edc80d7fa54"
+    },
+    {
+      "path": "test-bundle/part-052.bin",
+      "size": 3145728,
+      "sha": "166e9c1237a9249bb2cade6783197a64c5d71b45"
+    },
+    {
+      "path": "test-bundle/part-053.bin",
+      "size": 3145728,
+      "sha": "9391b4f7118d63c8cd3d82b9b871977cf4d895ee"
+    },
+    {
+      "path": "test-bundle/part-054.bin",
+      "size": 3145728,
+      "sha": "dced87d2a06bb4ee4a4642ba54ab26fda368da18"
+    },
+    {
+      "path": "test-bundle/part-055.bin",
+      "size": 3145728,
+      "sha": "d138ce0b07e741750c3f34010db6ba4255d8fa49"
+    },
+    {
+      "path": "test-bundle/part-056.bin",
+      "size": 3145728,
+      "sha": "68bcef2a6268382cd0dc41de3a38810735b406b0"
+    },
+    {
+      "path": "test-bundle/part-057.bin",
+      "size": 3145728,
+      "sha": "c221b41d032b2d8226629e9b81b08d9de7c1bb05"
+    },
+    {
+      "path": "test-bundle/part-058.bin",
+      "size": 3145728,
+      "sha": "9d33b4f86282327b67493dbd12c1742491236907"
+    },
+    {
+      "path": "test-bundle/part-059.bin",
+      "size": 3145728,
+      "sha": "78e3eace8149e4cb5b23c8de0486d0d2dcfa175d"
+    },
+    {
+      "path": "test-bundle/part-060.bin",
+      "size": 1564625,
+      "sha": "77f2b91633e223ddb40a8491bc0d1c01602309fa"
+    }
+  ],
+  "entry": "https://ci.wwwxqz.com/test/#home",
+  "modelSHA256": "6f327246b50388f3c176ae304bd95767ea6dc0c9ae92153ef8cbe210b3c14884"
+}
