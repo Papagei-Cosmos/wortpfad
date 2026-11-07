@@ -18,7 +18,8 @@ export function validInstantState(value,known,decks){
   const ids=x=>Array.isArray(x)&&x.every(id=>typeof id==='string'&&known.has(id))&&new Set(x).size===x.length;
   if(!object(a)||!decks.has(a.deck)||!['new','review'].includes(a.mode)||!day(a.day)||!ids(a.ids)||!ids(a.queue)||a.queue.some(id=>!a.ids.includes(id))||!['recall','answer'].includes(a.phase)||![null,true,false].includes(a.choice)||!Number.isInteger(a.recited)||a.recited<0||a.recited>2||!Number.isSafeInteger(a.visits)||a.visits<0||!Number.isFinite(a.updated))throw Error('瞬时记忆练习进度无效');
   if(a.phase==='recall'&&(a.choice!==null||a.recited!==0)||a.phase==='answer'&&a.choice===null)throw Error('瞬时记忆作答状态无效');
-  clean.active={deck:a.deck,mode:a.mode,day:a.day,ids:[...a.ids],queue:[...a.queue],phase:a.phase,choice:a.choice,recited:a.recited,visits:a.visits,updated:a.updated};
+  const combo=a.combo??0;if(!Number.isSafeInteger(combo)||combo<0)throw Error('瞬时记忆连击记录无效');
+  clean.active={deck:a.deck,mode:a.mode,day:a.day,ids:[...a.ids],queue:[...a.queue],phase:a.phase,choice:a.choice,recited:a.recited,visits:a.visits,combo,updated:a.updated};
  }
  return clean;
 }
@@ -36,11 +37,11 @@ export function instantCounts(practice,deck,words,skips={},today=localDay()){
 }
 export function startInstant(practice,deck,words,skips,mode='new',now=Date.now()){
  const today=localDay(new Date(now)),counts=instantCounts(practice,deck,words,skips,today),ids=mode==='review'?counts.dueIds:counts.newIds;
- practice.active={deck:deck.id,mode,day:today,ids:[...ids],queue:[...ids],phase:'recall',choice:null,recited:0,visits:0,updated:now};return practice.active;
+ practice.active={deck:deck.id,mode,day:today,ids:[...ids],queue:[...ids],phase:'recall',choice:null,recited:0,visits:0,combo:0,updated:now};return practice.active;
 }
 export function chooseInstant(practice,known,now=Date.now()){
  const a=practice.active;if(!a?.queue.length||a.phase!=='recall')return false;
- a.phase='answer';a.choice=!!known;a.recited=0;a.updated=now;return true;
+ a.phase='answer';a.choice=!!known;a.combo=known?(a.combo||0)+1:0;a.recited=0;a.updated=now;return true;
 }
 export function reciteInstant(practice,now=Date.now()){
  const a=practice.active;if(a?.phase!=='answer'||a.choice!==false||a.recited>=2)return false;a.recited++;a.updated=now;return true;

@@ -9,3 +9,5 @@ body[data-page=instant] .site-header{display:none}body[data-page=instant] .app-m
 body[data-page=instant] footer{display:none}
 @media(min-height:600px){.instant-word-card{padding:26px 25px;min-height:350px;margin-top:20px}.instant-word{margin:24px 0}.instant-answer-note{margin:14px 0 10px}.instant-footnote{margin:12px}.instant-progress{margin:18px auto}}
 #homeInstantTarget{display:block;width:100%;margin:18px 0;padding:12px;border:1px solid #d4dff0;border-radius:9px;font-size:20px}
+
+.instant-word-card{position:relative}.instant-combo{position:absolute;top:15px;right:18px;font-size:11px;font-weight:700;letter-spacing:1px;color:#7290c0;pointer-events:none}.instant-combo.is-milestone{color:#335cf4;background:#edf2ff;border-radius:20px;padding:6px 10px;top:10px}.instant-hit-milestone{border-color:#a9bfff;box-shadow:0 0 0 3px #4d76ff0b}

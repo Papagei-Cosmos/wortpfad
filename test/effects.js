@@ -1,8 +1,10 @@
 import {burst} from './motion.js';
+import {instantHit,instantMilestone} from './instant-feedback.js';
 const flower='<svg viewBox="0 0 50 50" aria-hidden="true"><g fill="currentColor">'+[0,72,144,216,288].map(a=>`<ellipse cx="25" cy="14" rx="8" ry="12" transform="rotate(${a} 25 25)"/>`).join('')+'</g><circle cx="25" cy="25" r="7" fill="#ffecad"/></svg>';
 export class LearningEffects{
  constructor(){this.layer=document.createElement('div');this.layer.className='learning-effects';this.layer.setAttribute('aria-hidden','true');document.body.append(this.layer)}
- clear(){this.layer.replaceChildren()}
+ clear(){this.hit?.cancel();this.layer.replaceChildren()}
+ pulse(card,combo,complete=false){if(!complete&&!instantMilestone(combo))return;this.hit?.cancel();this.hit=instantHit(card,combo,{complete,reduced:matchMedia('(prefers-reduced-motion: reduce)').matches,vibrate:typeof navigator.vibrate==='function'?p=>navigator.vibrate(p):undefined})}
  flower(point){burst(point,this.layer);
   const el=document.createElement('span');el.className='answer-flower';el.innerHTML=flower;el.style.left=`${Math.max(22,Math.min(innerWidth-22,point.x))}px`;el.style.top=`${Math.max(22,Math.min(innerHeight-22,point.y))}px`;this.layer.append(el);
   const reduced=matchMedia('(prefers-reduced-motion: reduce)').matches;
