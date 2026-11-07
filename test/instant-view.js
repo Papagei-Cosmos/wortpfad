@@ -1,0 +1,39 @@
+import {localDay} from './groups.js';
+import {instantGoal,instantCounts,startInstant,chooseInstant,reciteInstant,advanceInstant,pruneInstant} from './instant.js';
+import {enter} from './motion.js';
+const esc=s=>String(s??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
+export class InstantView{
+ constructor(options){Object.assign(this,options);this.remaining=3000;this.root.addEventListener('keydown',e=>this.key(e));document.addEventListener('visibilitychange',()=>{if(!this.root.hidden&&this.state.instantPractice.active?.phase==='recall')document.hidden?this.pauseClock():this.startClock(false)})}
+ get practice(){return this.state.instantPractice}
+ get active(){return this.practice.active}
+ cancel(){this.pauseClock();this.onStop()}
+ pauseClock(){if(this.started){this.remaining=Math.max(0,this.remaining-(performance.now()-this.started));this.started=0}clearInterval(this.timer)}
+ open(){this.cancel();pruneInstant(this.practice,this.state.skips);this.onSave();this.render()}
+ counts(){return instantCounts(this.practice,this.decks.get(this.state.settings.selectedDeck)||this.decks.get('a1'),this.words,this.state.skips)}
+ render(){
+  this.pauseClock();const a=this.active,deck=this.decks.get(this.state.settings.selectedDeck)||this.decks.get('a1'),c=this.counts();
+  this.root.innerHTML=`<div class="instant-top"><button class="text-button" id="instantHome">← 返回首页</button><span>瞬时记忆法</span><button class="text-button" id="instantToday">今日所学</button></div><div id="instantContent"></div>`;
+  this.root.querySelector('#instantHome').onclick=this.onHome;this.root.querySelector('#instantToday').onclick=this.onToday;
+  if(a?.queue.length){this.renderWord();return}
+  const done=!!a?.ids.length;
+  this.root.querySelector('#instantContent').innerHTML=`<section class="instant-setup"><span class="eyebrow">三秒回想 · 少量反复</span><h1>${done?'这一轮，记住了一点。':'每天一点，反复遇见。'}</h1><p>先看德语，给自己 3 秒回想。不认识就看中文、念两遍，再隔几个词遇见它。</p>${done?`<p class="instant-result">本轮完成 ${a.ids.length} 词 · 共回想 ${a.visits} 次<br><small>这是自评记忆练习，不计为拼写答对；已安排下次复习。</small></p>`:''}<p class="instant-book">当前词书：${esc(deck.name)}</p><form id="instantGoalForm"><label for="instantGoal">每天新学词数</label><div class="instant-goal-row"><input id="instantGoal" type="text" inputmode="numeric" pattern="[0-9]+" required value="${esc(this.practice.goal)}" aria-describedby="instantGoalHint"><button class="secondary" type="submit">保存目标</button></div><small id="instantGoalHint">默认 30 词，可填写任意正整数；不足时按实际可学词数开始。</small><p role="status" id="instantGoalStatus"></p></form><div class="instant-totals"><span>今日已新学 <b>${c.learnedToday}</b> 词</span><span>当前词书待复习 <b>${c.dueIds.length}</b> 词</span></div><div class="instant-start-actions"><button class="primary" id="instantStart" ${c.newIds.length?'':'disabled'}>新学 ${c.newIds.length} 词 →</button><button class="secondary" id="instantReview" ${c.dueIds.length?'':'disabled'}>复习 ${c.dueIds.length} 词</button></div>${!c.newIds.length?`<p class="muted">${c.unseen?'今日新学目标已完成，可增加目标或先复习。':'这本词书已没有未学的可练习词，可返回首页更换词书。'}</p>`:''}<p class="instant-note">不认识的词会在本轮再次出现，直到你主动标记认识。新学词明天可复习；复习认识后逐步延长间隔。中途返回会自动保留进度。</p></section>`;
+  this.root.querySelector('#instantGoalForm').onsubmit=e=>{e.preventDefault();try{this.practice.goal=instantGoal(this.root.querySelector('#instantGoal').value);this.practice.updated=Date.now();this.onSave();this.render();this.root.querySelector('#instantGoalStatus').textContent='目标已保存'}catch(error){this.root.querySelector('#instantGoalStatus').textContent=error.message}};
+  this.root.querySelector('#instantStart').onclick=()=>this.start('new',deck);this.root.querySelector('#instantReview').onclick=()=>this.start('review',deck);
+ }
+ start(mode,deck){this.onStop();startInstant(this.practice,deck,this.words,this.state.skips,mode);this.onSave();this.render();enter(this.root.querySelector('#instantContent'))}
+ renderWord(){
+  this.pauseClock();const a=this.active,w=this.words.get(a.queue[0]);if(!w){this.render();return}const answer=a.phase==='answer',finished=a.ids.length-a.queue.length,deck=this.decks.get(a.deck),oldDay=a.day!==localDay();
+  this.root.querySelector('#instantContent').innerHTML=`<div class="instant-progress"><span>${esc(deck.name)} · ${a.mode==='review'?'复习':'新学'}${oldDay?' · 继续上次进度':''}</span><span>本轮已认识 ${finished} / ${a.ids.length}</span><div><i style="width:${finished/Math.max(1,a.ids.length)*100}%"></i></div></div><section class="instant-word-card"><div class="instant-clock" id="instantClock" ${answer?'hidden':''}><span id="instantSeconds">3</span><small id="instantClockHint">秒，想想它的意思</small><div><i id="instantClockBar"></i></div></div><p class="instant-word gender-${this.genderOf(w)}" lang="de">${esc(w.article?w.article+' ':'')}${esc(w.lemma)}</p>${answer?`<p class="instant-meaning">${esc(w.zh)}</p><div class="instant-pronunciation">${this.playButton(`${w.article?w.article+' ':''}${w.lemma}`,w.audio,'播放单词发音')}<span>点击听发音</span></div><p class="instant-answer-note" role="status">${a.choice?'对照中文，看看刚才有没有想对。':'看着中文，把德语念两遍。'}</p>${a.choice?'<button class="text-button" id="instantCorrectChoice">其实没想对，改为不认识</button>':`<button class="secondary instant-recite" id="instantRecite" ${a.recited===2?'disabled':''}>${a.recited===2?'两遍念完了 ✓':`已念第 ${a.recited+1} 遍（${a.recited}/2）`}</button>`}<button class="primary instant-next" id="instantNext" ${a.choice===false&&a.recited<2?'disabled':''}>${a.choice?'下一词 →':'继续，稍后再遇见 →'}</button>`:`<div class="instant-decisions"><button class="secondary" id="instantUnknown">不认识</button><button class="primary" id="instantKnown">认识</button></div><p class="instant-note">3 秒是回想提示，不会自动判错；想不起来就点“不认识”。</p>`}</section><p class="instant-footnote">${answer&&!a.choice?'跟读由你自己确认，不需要录音。':'先回想，再看中文。'} 退出后可从首页继续。</p>`;
+  const q=s=>this.root.querySelector(s);
+  if(!answer){q('#instantKnown').onclick=()=>this.choose(true);q('#instantUnknown').onclick=()=>this.choose(false);this.startClock(true)}
+  else{
+   if(a.choice)q('#instantCorrectChoice').onclick=()=>{this.onStop();a.choice=false;a.recited=0;a.updated=Date.now();this.onSave();this.renderWord()};
+   else q('#instantRecite').onclick=()=>{if(reciteInstant(this.practice)){this.onSave();this.renderWord()}};
+   q('#instantNext').onclick=()=>{if(!advanceInstant(this.practice))return;this.onStop();this.onSave();if(!a.queue.length)this.onComplete();this.render();enter(this.root.querySelector('#instantContent'))};
+  }
+ }
+ choose(known){if(!chooseInstant(this.practice,known))return;this.pauseClock();this.onSave();this.renderWord();enter(this.root.querySelector('.instant-meaning'))}
+ startClock(reset){this.pauseClock();if(reset)this.remaining=3000;if(document.hidden||this.remaining<=0){this.paintClock();return}this.started=performance.now();this.timer=setInterval(()=>{this.paintClock();if(performance.now()-this.started>=this.remaining){clearInterval(this.timer);this.started=0;this.remaining=0;this.paintClock()}},50);this.paintClock()}
+ paintClock(){const left=Math.max(0,this.remaining-(this.started?performance.now()-this.started:0)),q=s=>this.root.querySelector(s);if(!q('#instantSeconds'))return;q('#instantSeconds').textContent=left>0?Math.ceil(left/1000):'想起来了吗？';q('#instantClockHint').textContent=left>0?'秒，想想它的意思':'想不起来，就点“不认识”';q('#instantClockBar').style.width=left/3000*100+'%'}
+ key(e){if(this.root.hidden||e.repeat||e.ctrlKey||e.altKey||e.metaKey||e.target.closest('input,textarea,button,select,summary'))return;const a=this.active;if(!a?.queue.length)return;const id=a.phase==='recall'?(e.key==='1'?'instantUnknown':e.key==='2'?'instantKnown':null):(e.key==='Enter'?(!a.choice&&a.recited<2?'instantRecite':'instantNext'):null);if(id){e.preventDefault();this.root.querySelector('#'+id)?.click()}}
+}

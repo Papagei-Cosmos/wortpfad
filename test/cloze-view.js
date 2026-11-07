@@ -1,3 +1,4 @@
+import {instantTodayRecords} from './instant.js';
 import {applyClozeRecordingLinks} from './recording-links.js';
 import {dailyWordIds,clozeChoices,makeClozeRound,usableRound} from './cloze.js';
 import {localDay} from './groups.js';
@@ -7,7 +8,7 @@ const esc=s=>String(s??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&
 export class ClozeView{
  constructor(options){Object.assign(this,options);this.size=10;this.ticket=0;this.items=null;this.root.addEventListener('keydown',e=>this.key(e))}
  cancel(){this.ticket++}
- ids(){return dailyWordIds(this.state.records,this.words,this.state.skips)}
+ ids(){return dailyWordIds(instantTodayRecords(this.state),this.words,this.state.skips)}
  get active(){return this.state.contextPractice.active}
  async open(){
   const ticket=++this.ticket;this.root.innerHTML='<div class="cloze-loading" role="status">正在整理今天学过的词……</div>';

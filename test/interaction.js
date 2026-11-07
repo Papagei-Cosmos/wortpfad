@@ -5,7 +5,7 @@ const animate=(...args)=>window.Motion.animate(...args);
 const active=new WeakMap();let route=0,pageControls=[];
 const finish=(control,done)=>Promise.race([Promise.resolve(control),new Promise(r=>setTimeout(r,1200))]).then(done,done);
 const reset=el=>{for(const p of ['opacity','transform','filter'])el.style.removeProperty(p)};
-function content(){return document.querySelector(document.body.dataset.page==='study'?'.learning-layout':document.body.dataset.page==='today'?'#todayPage':document.body.dataset.page==='cloze'?'#clozePage':document.body.dataset.page==='exam'?'#examPage':'#homePage')}
+function content(){return document.querySelector(document.body.dataset.page==='instant'?'#instantPage':document.body.dataset.page==='study'?'.learning-layout':document.body.dataset.page==='today'?'#todayPage':document.body.dataset.page==='cloze'?'#clozePage':document.body.dataset.page==='exam'?'#examPage':'#homePage')}
 export function changePage(update){
  const ticket=++route,main=document.querySelector('main');for(const {el,control}of pageControls){control.stop();reset(el)}pageControls=[];
  if(reduced()){main.inert=false;main.removeAttribute('aria-busy');update();return}
